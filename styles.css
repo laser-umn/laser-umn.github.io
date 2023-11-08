@@ -5,3 +5,40 @@
   float: left;
   margin-right: 1em;
 }
+
+
+/*-- scss:defaults --*/
+
+$navbar-hl: #B7FCFF;
+
+
+
+
+/*-- scss:rules --*/
+
+/* unvisited link */
+a:link {
+  color:  #FFEECF;
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color:  #1871B2;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color:  #1871B2;
+  text-decoration: underline;
+  
+}
+
+/* selected link */
+a:active {
+  color:  #1871B2;
+  text-decoration: none;
+} 
+
+
