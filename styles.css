@@ -9,8 +9,7 @@
 
 /*-- scss:defaults --*/
 
-$navbar-hl: #B7FCFF;
-
+$navbar-hl: #E4B7E5;
 
 
 
@@ -18,26 +17,26 @@ $navbar-hl: #B7FCFF;
 
 /* unvisited link */
 a:link {
-  color:  #FFEECF;
+  color:  #E4B7E5;
   text-decoration: none;
 }
 
 /* visited link */
 a:visited {
-  color:  #1871B2;
+  color:  #E4B7E5;
   text-decoration: none;
 }
 
 /* mouse over link */
 a:hover {
-  color:  #1871B2;
+  color:  #E4B7E5;
   text-decoration: underline;
   
 }
 
 /* selected link */
 a:active {
-  color:  #1871B2;
+  color:  #E4B7E5;
   text-decoration: none;
 } 
 

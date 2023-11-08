@@ -1,0 +1,25 @@
+---
+title: "Research"
+---
+
+## Current Research
+
+### Algorithmic Modeling
+
+Building on past research teaching CART algorithms, we are currently designing activities focusing on the kNN algorithm.
+
+**Selected Related Publication:**
+
+Zieffler, A., Justice, N., delMas, R., & Huberty, M. D. (2021). The use of algorithmic models to develop secondary teachers\' understanding of the statistical modeling process. *Journal of Statistics and Data Science Education*, *29*(1), 131-147, DOI: [10.1080/26939169.2021.1900759](https://doi.org/10.1080/26939169.2021.1900759)
+
+### STI/COMPUTES
+
+We are currently developing and refining assessments to better understand the landscape of
+
+**Selected Related Publication:**
+
+Legacy, C., Zieffler, A., Fry, E. B., & Le, L. (2022). COMPUTES: development of an instrument to measure introudctory statistics instructors' emphasis on computational practices. *Statistics Education Research Journal*, *21*(1), 7-7 <https://doi.org/10.52041/serj.v21i1.63>
+
+### Code Review
+
+Selected Related Publication:
