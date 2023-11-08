@@ -1,5 +1,5 @@
 ---
-title: "Lab for Advancing Statistics Education Research"
+title: ""
 ---
 
-The Lab for Advancing Statistics Education Research (LASER) focuses on statistics education research. We are housed in the Educational Psychology department at the University of Minnesota within Quantitative Methods in Education.
+![](img/title-page/‎title-page.‎001.jpeg)**The Lab for Advancing Statistics Education Research (LASER) focuses on statistics and data science education research.**
