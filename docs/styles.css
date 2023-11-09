@@ -1,6 +1,6 @@
 /* css styles */
 
-/* add to you stylesheet */
+/* pic to left of text */
 .img-left {
   float: left;
   margin-right: 1em;
@@ -40,4 +40,7 @@ a:active {
   text-decoration: none;
 } 
 
-
+.sidebar nav[role=doc-toc] ul>li>a.active, .sidebar nav[role=doc-toc] ul>li>ul>li>a.active {
+    border-left: 1px solid  #F2D0A4;
+    color: #F2D0A4 !important;
+}
