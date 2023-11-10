@@ -1,0 +1,13 @@
+---
+title: "Code Review"
+---
+
+![](/img/code.png){fig-align="center" width="342"}
+
+### Code Review
+
+Code review is a common practice in industry settings, but is typically not taught in undergraduate statistics and data science courses. However, given the importance of communication and reproducibility, this skill is incredibly useful to start teaching students early. We have been studying some ways to develop student's habits around code review.
+
+**Poster presented at USCOTS 2023**
+
+Lisinker, R., Zieffler, A., & **Legacy, C.** (2023, June). Talking in code: Code review as a form of communication.  Poster presented at the Research Satellite of the United States Conference on Teaching Statistics, State College, PA. <https://www.causeweb.org/cause/uscots/uscots23/f23-talking-code-code-review-form-communication>
