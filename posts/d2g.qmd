@@ -2,7 +2,7 @@
 title: "Data to Graphs"
 ---
 
-![](images/Untitled design-01.png)
+![](images/Untitled%20design-01.png)
 
 ### Data to Graphs
 
