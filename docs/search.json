@@ -25,7 +25,7 @@
     "href": "posts/sti.html",
     "title": "Statistics Teaching Inventory",
     "section": "",
-    "text": "STI/COMPUTES\nWe are currently developing and refining assessments to better understand the landscape of introductory statistics courses at the undergraduate level.\nPoster Presented at USCOTS 2023:\nVivas Corrales, P., Legacy, C., Le, L., Zieffler, A., & Fry,  E. (2023, June). Statistics Teaching Inventory: Exploring the alignment of introductory statistics instructors' teaching and assessment practices to professional recommendations. Poster presented at the Research Satellite of the United States Conference on Teaching Statistics, State College, PA.\nhttps://www.causeweb.org/cause/uscots/uscots23/statistics-teaching-inventory\nSelected Related Publication:\nLegacy, C., Zieffler, A., Fry, E. B., & Le, L. (2022). COMPUTES: development of an instrument to measure introudctory statistics instructors’ emphasis on computational practices. Statistics Education Research Journal, 21(1), 7-7 https://doi.org/10.52041/serj.v21i1.63"
+    "text": "STI/COMPUTES\nWe are currently developing and refining assessments to better understand the landscape of introductory statistics courses at the undergraduate level.\nPoster Presented at USCOTS 2023:\nVivas Corrales, P., Legacy, C., Le, L., Zieffler, A., & Fry,  E. (2023, June). Statistics Teaching Inventory: Exploring the alignment of introductory statistics instructors’ teaching and assessment practices to professional recommendations. Poster presented at the Research Satellite of the United States Conference on Teaching Statistics, State College, PA.\nhttps://www.causeweb.org/cause/uscots/uscots23/statistics-teaching-inventory\nSelected Related Publication:\nLegacy, C., Zieffler, A., Fry, E. B., & Le, L. (2022). COMPUTES: development of an instrument to measure introudctory statistics instructors’ emphasis on computational practices. Statistics Education Research Journal, 21(1), 7-7 https://doi.org/10.52041/serj.v21i1.63"
   },
   {
     "objectID": "posts/alg-mod.html",
@@ -39,7 +39,14 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Algorithmic Modeling\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCode Review\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatistics Teaching Inventory\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Algorithmic Modeling\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCode Review\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatistics Teaching Inventory\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nd2g\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/d2g.html",
+    "href": "posts/d2g.html",
+    "title": "d2g",
+    "section": "",
+    "text": "Data to Graphs\nThis project focused on reasoning with many variables. Specifically, on the reasoning needed to create visualizations (e.g. network graphs and bubble charts) from a data table and to create a data table from a visualization.\nSelected Related Publication:\nRao, V.N.V., Legacy, C., Zieffler, A., & delMas, R. (2023). Designing a sequence of activities to build reasoning about data and visualization. Teaching Statistics, 45(S1), S80-S92. http://doi.org/10.1111/test.12341"
   },
   {
     "objectID": "posts/code-review.html",

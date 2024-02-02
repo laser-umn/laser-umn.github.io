@@ -10,4 +10,4 @@ Code review is a common practice in industry settings, but is typically not taug
 
 **Poster presented at USCOTS 2023**
 
-Lisinker, R., Zieffler, A., & **Legacy, C.** (2023, June). Talking in code: Code review as a form of communication.  Poster presented at the Research Satellite of the United States Conference on Teaching Statistics, State College, PA. <https://www.causeweb.org/cause/uscots/uscots23/f23-talking-code-code-review-form-communication>
+Lisinker, R., Zieffler, A., & Legacy, C. (2023, June). Talking in code: Code review as a form of communication.  Poster presented at the Research Satellite of the United States Conference on Teaching Statistics, State College, PA. <https://www.causeweb.org/cause/uscots/uscots23/f23-talking-code-code-review-form-communication>
