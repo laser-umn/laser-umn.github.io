@@ -21,32 +21,11 @@
     "text": "Current Members\n Andrew Zieffler (Co-Director): Andy is a Professor of Teaching in the Quantitative Methods in Education program within the Department of Educational Psychology at the University of Minnesota. His area of scholarship, writ large, is statistics education, with his most recent work focused around teacher education, especially related to the introduction of data science into the statistics curriculum. He is also interested in the assessment of statistics and data science content as well as curriculum development. Beyond the classroom, Andy enjoys petting dogs, noodling on the guitar, reading, watching TV, and cross-stitching.\nChelsey Legacy (Co-Director): Chelsey is an Assistant Professor of Teaching at UMN in the Quantitative Methods in Education program within Educational Psychology. Her research interests include statistics and data science education generally, and more specifically students experience coding, understanding of data visualizations, curriculum development, and assessment. In her free time, Chelsey enjoys browsing for books at the local library and then going to get ice cream.\nRegina Lisinker: Regina is a PhD student at the University of Minnesota in the Educational Psychology department’s Psychological Foundations in Education program. She earned her MA in Educational Psychology through the Quantitative Methods in Education program and her thesis focused on data science undergraduate students’ usage of code review resources. Regina started out by getting a BS in Statistics from Cal Poly SLO where she became passionate about teaching and curious to understand how students learn statistics. Her research interests now revolve around student communication within statistics and data science courses (i.e. social interaction in the classroom, communicating with data visualizations, pair programming, etc.).\nPablo Vivas Corrales: Pablo is a Costa Rican statistics educator, dedicated to the creation, development, evaluation, and integration of research, resources, and community of the Statistics Education field in the Latin America region. His research primarily focuses on the teaching and learning process of Statistics in postsecondary education, the role of measurement in Statistics Education, and how students and educators most effectively learn and communicate statistical information through text."
   },
   {
-    "objectID": "posts/sti.html",
-    "href": "posts/sti.html",
-    "title": "Statistics Teaching Inventory",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "LASER",
     "section": "",
-    "text": "STI/COMPUTES\nWe are currently developing and refining assessments to better understand the landscape of introductory statistics courses at the undergraduate level.\nPoster Presented at USCOTS 2023:\nVivas Corrales, P., Legacy, C., Le, L., Zieffler, A., & Fry,  E. (2023, June). Statistics Teaching Inventory: Exploring the alignment of introductory statistics instructors’ teaching and assessment practices to professional recommendations. Poster presented at the Research Satellite of the United States Conference on Teaching Statistics, State College, PA.\nhttps://www.causeweb.org/cause/uscots/uscots23/statistics-teaching-inventory\nSelected Related Publication:\nLegacy, C., Zieffler, A., Fry, E. B., & Le, L. (2022). COMPUTES: development of an instrument to measure introudctory statistics instructors’ emphasis on computational practices. Statistics Education Research Journal, 21(1), 7-7 https://doi.org/10.52041/serj.v21i1.63"
-  },
-  {
-    "objectID": "posts/alg-mod.html",
-    "href": "posts/alg-mod.html",
-    "title": "Algorithmic Modeling",
-    "section": "",
-    "text": "Algorithmic Modeling\nBuilding on past research teaching CART algorithms, we are currently designing activities focusing on the kNN algorithm.\nSelected Related Publication:\nZieffler, A., Justice, N., delMas, R., & Huberty, M. D. (2021). The use of algorithmic models to develop secondary teachers’ understanding of the statistical modeling process. Journal of Statistics and Data Science Education, 29(1), 131-147, DOI: 10.1080/26939169.2021.1900759"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "Algorithmic Modeling\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCode Review\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatistics Teaching Inventory\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nd2g\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/d2g.html",
-    "href": "posts/d2g.html",
-    "title": "Data to Graphs",
-    "section": "",
-    "text": "Data to Graphs\nThis project focused on reasoning with many variables. Specifically, on the reasoning needed to create visualizations (e.g. network graphs and bubble charts) from a data table and to create a data table from a visualization.\nSelected Related Publication:\nRao, V.N.V., Legacy, C., Zieffler, A., & delMas, R. (2023). Designing a sequence of activities to build reasoning about data and visualization. Teaching Statistics, 45(S1), S80-S92. http://doi.org/10.1111/test.12341"
+    "text": "The Lab for Advancing Statistics Education Research (LASER) focuses on statistics and data science education research."
   },
   {
     "objectID": "posts/code-review.html",
@@ -56,10 +35,38 @@
     "text": "Code Review\nCode review is a common practice in industry settings, but is typically not taught in undergraduate statistics and data science courses. However, given the importance of communication and reproducibility, this skill is incredibly useful to start teaching students early. We have been studying some ways to develop student’s habits around code review.\nPoster presented at USCOTS 2023\nLisinker, R., Zieffler, A., & Legacy, C. (2023, June). Talking in code: Code review as a form of communication.  Poster presented at the Research Satellite of the United States Conference on Teaching Statistics, State College, PA. https://www.causeweb.org/cause/uscots/uscots23/f23-talking-code-code-review-form-communication"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "LASER",
+    "objectID": "posts/d2g.html",
+    "href": "posts/d2g.html",
+    "title": "Data to Graphs",
     "section": "",
-    "text": "The Lab for Advancing Statistics Education Research (LASER) focuses on statistics and data science education research."
+    "text": "Data to Graphs\nThis project focused on reasoning with many variables. Specifically, on the reasoning needed to create visualizations (e.g. network graphs and bubble charts) from a data table and to create a data table from a visualization.\nSelected Related Publication:\nRao, V.N.V., Legacy, C., Zieffler, A., & delMas, R. (2023). Designing a sequence of activities to build reasoning about data and visualization. Teaching Statistics, 45(S1), S80-S92. http://doi.org/10.1111/test.12341"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Algorithmic Modeling\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCode Review\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData to Graphs\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatistics Teaching Inventory\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/alg-mod.html",
+    "href": "posts/alg-mod.html",
+    "title": "Algorithmic Modeling",
+    "section": "",
+    "text": "Algorithmic Modeling\nBuilding on past research teaching CART algorithms, we are currently designing activities focusing on the kNN algorithm.\nSelected Related Publication:\nZieffler, A., Justice, N., delMas, R., & Huberty, M. D. (2021). The use of algorithmic models to develop secondary teachers’ understanding of the statistical modeling process. Journal of Statistics and Data Science Education, 29(1), 131-147, DOI: 10.1080/26939169.2021.1900759"
+  },
+  {
+    "objectID": "posts/sti.html",
+    "href": "posts/sti.html",
+    "title": "Statistics Teaching Inventory",
+    "section": "",
+    "text": "STI/COMPUTES\nWe are currently developing and refining assessments to better understand the landscape of introductory statistics courses at the undergraduate level.\nPoster Presented at USCOTS 2023:\nVivas Corrales, P., Legacy, C., Le, L., Zieffler, A., & Fry,  E. (2023, June). Statistics Teaching Inventory: Exploring the alignment of introductory statistics instructors’ teaching and assessment practices to professional recommendations. Poster presented at the Research Satellite of the United States Conference on Teaching Statistics, State College, PA.\nhttps://www.causeweb.org/cause/uscots/uscots23/statistics-teaching-inventory\nSelected Related Publication:\nLegacy, C., Zieffler, A., Fry, E. B., & Le, L. (2022). COMPUTES: development of an instrument to measure introudctory statistics instructors’ emphasis on computational practices. Statistics Education Research Journal, 21(1), 7-7 https://doi.org/10.52041/serj.v21i1.63"
+  },
+  {
+    "objectID": "past.html",
+    "href": "past.html",
+    "title": "Past Events",
+    "section": "",
+    "text": "USCOTS 2023\nRegina Lisinker’s MA Graduation\n\nVimal Rao’s PHD Defense"
   }
 ]
