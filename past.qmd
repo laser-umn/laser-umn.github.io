@@ -4,9 +4,15 @@ title: "Past Events"
 
 USCOTS 2023
 
+![](images/uscots-everyone.png){width="233"}
+
+![](images/pablo-poster.png){width="335"}
+
+![](images/regina-poster2.png){width="306"}![](images/regina-poster1.png){width="333"}![](images/regina-andy.png){width="405"}
+
 Regina Lisinker's MA Graduation
 
-![](images/regina-grad1.png)![](images/regina-grad2.png)
+![](images/regina-grad1.png){width="218"}![](images/regina-grad2.png){width="229"}
 
 Vimal Rao's PHD Defense
 
