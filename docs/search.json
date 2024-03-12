@@ -35,6 +35,20 @@
     "text": "Code Review\nCode review is a common practice in industry settings, but is typically not taught in undergraduate statistics and data science courses. However, given the importance of communication and reproducibility, this skill is incredibly useful to start teaching students early. We have been studying some ways to develop student’s habits around code review.\nPoster presented at USCOTS 2023\nLisinker, R., Zieffler, A., & Legacy, C. (2023, June). Talking in code: Code review as a form of communication.  Poster presented at the Research Satellite of the United States Conference on Teaching Statistics, State College, PA. https://www.causeweb.org/cause/uscots/uscots23/f23-talking-code-code-review-form-communication"
   },
   {
+    "objectID": "posts/alg-mod.html",
+    "href": "posts/alg-mod.html",
+    "title": "Algorithmic Modeling",
+    "section": "",
+    "text": "Algorithmic Modeling\nBuilding on past research teaching CART algorithms, we are currently designing activities focusing on the kNN algorithm.\nRecently, we presented some of these activities at the Minnesota Council of Teachers of Mathematics Conference. See our materials here.\nSelected Related Publication:\nZieffler, A., Justice, N., delMas, R., & Huberty, M. D. (2021). The use of algorithmic models to develop secondary teachers’ understanding of the statistical modeling process. Journal of Statistics and Data Science Education, 29(1), 131-147, DOI: 10.1080/26939169.2021.1900759"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Algorithmic Modeling\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCode Review\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData to Graphs\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nKNN Classification\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatistics Teaching Inventory\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "posts/d2g.html",
     "href": "posts/d2g.html",
     "title": "Data to Graphs",
@@ -42,18 +56,11 @@
     "text": "Data to Graphs\nThis project focused on reasoning with many variables. Specifically, on the reasoning needed to create visualizations (e.g. network graphs and bubble charts) from a data table and to create a data table from a visualization.\nSelected Related Publication:\nRao, V.N.V., Legacy, C., Zieffler, A., & delMas, R. (2023). Designing a sequence of activities to build reasoning about data and visualization. Teaching Statistics, 45(S1), S80-S92. http://doi.org/10.1111/test.12341"
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
+    "objectID": "posts/knn-classification.html",
+    "href": "posts/knn-classification.html",
+    "title": "KNN Classification",
     "section": "",
-    "text": "Algorithmic Modeling\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCode Review\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData to Graphs\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatistics Teaching Inventory\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/alg-mod.html",
-    "href": "posts/alg-mod.html",
-    "title": "Algorithmic Modeling",
-    "section": "",
-    "text": "Algorithmic Modeling\nBuilding on past research teaching CART algorithms, we are currently designing activities focusing on the kNN algorithm.\nSelected Related Publication:\nZieffler, A., Justice, N., delMas, R., & Huberty, M. D. (2021). The use of algorithmic models to develop secondary teachers’ understanding of the statistical modeling process. Journal of Statistics and Data Science Education, 29(1), 131-147, DOI: 10.1080/26939169.2021.1900759"
+    "text": "Presentation Materials from the MCTM Conference:"
   },
   {
     "objectID": "posts/sti.html",
@@ -67,6 +74,6 @@
     "href": "past.html",
     "title": "Past Events",
     "section": "",
-    "text": "USCOTS 2023\nRegina Lisinker’s MA Graduation\n\nVimal Rao’s PHD Defense"
+    "text": "USCOTS 2023\n\n\n\nRegina Lisinker’s MA Graduation\n\nVimal Rao’s PHD Defense"
   }
 ]
