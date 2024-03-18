@@ -1,8 +1,6 @@
 ---
-title: "KNN Classification"
+title: "Films, Fruits, and Folklore: Introducing Ideas of Machine Learning to High School Students"
 ---
-
-**Films, Fruits, and Folklore: Introducing Ideas of Machine Learning to High School Students**
 
 **Description**
 
