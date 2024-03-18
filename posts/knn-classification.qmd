@@ -18,16 +18,16 @@ Participants will be introduced to a common algorithm used in machine learning f
 
 -   Introduction to Classification: Fruit Activities
 
-    -   [Activity 1](https://docs.google.com/document/d/1Zl9R1JrFAQaOIgT_EzS4Oydm5nj7J9CYjXhTv6U_d1w/edit?usp=sharing)
+    -   [Activity 1](https://docs.google.com/document/d/1Zl9R1JrFAQaOIgT_EzS4Oydm5nj7J9CYjXhTv6U_d1w/edit?usp=sharing): **Classifying Fruit** -- The goal of this activity is to introduce students to the idea of similarity, and how we can use a numerical attribute to quantify the similarity between two cases.
 
-    -   [Activity 2](https://docs.google.com/document/d/1H3nBRo008EZH6bLyOyH8phijTxLcC6SEgRNk1xqkk_Q/edit?usp=sharing)
+    -   [Activity 2](https://docs.google.com/document/d/1H3nBRo008EZH6bLyOyH8phijTxLcC6SEgRNk1xqkk_Q/edit?usp=sharing): **“Unpeeling” k-Nearest Neighbors** -- The goal of this activity is to introduce students to the k-Nearest Neighbors (kNN) algorithm, which is a common method used to make classifications.
 
 -   Digging Deeper: Taylor Swift Activities
 
-    -   [Activity 3](https://docs.google.com/document/d/1uRMXQCfYG3viM1j4FBnvI_ftOrObbTwzgR0WaHgXLNA/edit?usp=sharing)
+    -   [Activity 3](https://docs.google.com/document/d/1uRMXQCfYG3viM1j4FBnvI_ftOrObbTwzgR0WaHgXLNA/edit?usp=sharing): **Euclidean Distance (Taylor’s Version)** -- The goal of this activity is to introduce quantifying the similarity between two cases when we have two numerical attributes (using Euclidean distance) for the cases.
 
-    -   [Activity 4](https://docs.google.com/document/d/1JTzSiZRBE1-bTGCpr2arWBhx7zU_a4C_uoHgymiVpu4/edit?usp=sharing)
+    -   [Activity 4](https://docs.google.com/document/d/1JTzSiZRBE1-bTGCpr2arWBhx7zU_a4C_uoHgymiVpu4/edit?usp=sharing): **You Belong with Me: Classifying Taylor Swift** -- The goal of this activity is to have students use technology to compute Euclidean distance between many cases. Students are also introduced to a formula for choosing the optimal value for k on which to base their k-Nearest Neighbors (kNN) algorithm.
 
-    -   [Activity 5](https://docs.google.com/document/d/18eYZ4Yxb3J2TNvJv4CBAoM2HmAvjfdaVcL-MeN3RJIA/edit?usp=sharing)
+    -   [Activity 5](https://docs.google.com/document/d/18eYZ4Yxb3J2TNvJv4CBAoM2HmAvjfdaVcL-MeN3RJIA/edit?usp=sharing): **Blank (Vector) Space**-- The goal of this activity is to formalize the mathematics of Euclidean distance. Students also learn how to extend Euclidean distance to measure similarity between cases having more than two numerical attributes.
 
 -   Extra Resources
