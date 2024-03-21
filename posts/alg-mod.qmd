@@ -8,7 +8,7 @@ title: "Algorithmic Modeling"
 
 Building on past research teaching CART algorithms, we are currently designing activities focusing on the kNN algorithm.
 
-Recently, we presented some of these activities at the Minnesota Council of Teachers of Mathematics Conference. [See our materials here.](https://laser-umn.github.io/posts/knn-classification.html)
+Recently, we presented some of these activities at the Minnesota Council of Teachers of Mathematics Conference. [See our materials here.](https://laser-umn.github.io/sessions/knn-classification.html)
 
 **Selected Related Publication:**
 
