@@ -1,5 +1,5 @@
 ---
-title: "Past Events"
+title: "Photo Gallery"
 ---
 
 **USCOTS 2023**
