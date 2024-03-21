@@ -10,14 +10,17 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
       - research.qmd
+      - href: conferences.qmd
+        text: Conferences & Workshops
       - past.qmd
+    right:
+      - about.qmd
 
 
 format:
   html:
-    theme: superhero
+    theme: vapor
     css: styles.css
     toc: true
 

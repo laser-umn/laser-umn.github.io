@@ -2,6 +2,8 @@
 title: "Films, Fruits, and Folklore: Introducing Ideas of Machine Learning to High School Students"
 ---
 
+![](images/mctm2024.png)
+
 MCTM 2024
 
 Participants will be introduced to a common algorithm used in machine learning for classification. We will explore this algorithm in a set of hands-on activities that draw from high school math content in a variety of contexts.

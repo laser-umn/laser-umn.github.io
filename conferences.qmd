@@ -1,0 +1,6 @@
+---
+title: "Conferences & Workshops"
+listing:
+  contents: sessions
+  type: grid
+---

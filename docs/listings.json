@@ -1,11 +1,16 @@
 [
   {
+    "listing": "/conferences.html",
+    "items": [
+      "/sessions/knn-classification.html"
+    ]
+  },
+  {
     "listing": "/research.html",
     "items": [
       "/posts/alg-mod.html",
       "/posts/code-review.html",
       "/posts/d2g.html",
-      "/posts/knn-classification.html",
       "/posts/sti.html"
     ]
   }
