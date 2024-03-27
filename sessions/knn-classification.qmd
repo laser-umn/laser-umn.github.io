@@ -30,4 +30,8 @@ Participants will be introduced to a common algorithm used in machine learning f
 
     -   [Activity 5](https://docs.google.com/document/d/18eYZ4Yxb3J2TNvJv4CBAoM2HmAvjfdaVcL-MeN3RJIA/edit?usp=sharing): **Blank (Vector) Space**-- The goal of this activity is to formalize the mathematics of Euclidean distance. Students also learn how to extend Euclidean distance to measure similarity between cases having more than two numerical attributes.
 
--   Extra Resources
+-   Extensions
+
+    -   **Activity 6: Recommending Movies** -- The goal of this activity is to introduce cosine similarity. Students also learn how to use cosine similarity to make movie recommendations based on users’ movie ratings. They also employ the kNN algorithm using cosine similarity rather than Euclidean distance to make classifications.
+
+    -   **Activity 7: Measuring Patient Similarity** -- The goal of this activity is to introduce similarity measures for binary attributes (simple matching coefficient  and Jaccard index). Students will  also learn to classify binary attributes as symmetric or asymmetric.

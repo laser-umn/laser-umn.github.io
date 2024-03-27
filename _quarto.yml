@@ -20,7 +20,10 @@ website:
 
 format:
   html:
-    theme: vapor
+    theme: 
+    - vapor
+    - theme.scss
+    fontcolor: '#FFFFFF'
     css: styles.css
     toc: true
 
