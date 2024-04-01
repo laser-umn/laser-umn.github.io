@@ -4,4 +4,3 @@ listing:
   contents: posts
   type: grid
 ---
-
