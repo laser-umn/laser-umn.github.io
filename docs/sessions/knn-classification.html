@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.450">
+<meta name="generator" content="quarto-1.4.550">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,17 +35,23 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -54,23 +60,29 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
   }
 }</script>
+<script src="https://kit.fontawesome.com/e5da75ca36.js" crossorigin="anonymous"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&amp;family=Playfair+Display:ital,wght@0,400..900;1,400..900&amp;display=swap" rel="stylesheet">
 
 
-<link rel="stylesheet" href="../styles.css">
+<link rel="stylesheet" href="styles.css">
 </head>
 
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a href="../index.html" class="navbar-brand navbar-brand-logo">
     <img src="../img/laser.png" alt="" class="navbar-logo">
     </a>
@@ -85,31 +97,31 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html" rel="" target="">
- <span class="menu-text">Home</span></a>
+    <a class="nav-link" href="../index.html"> 
+<span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../research.html" rel="" target="">
- <span class="menu-text">Research</span></a>
+    <a class="nav-link" href="../research.html"> 
+<span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../conferences.html" rel="" target="">
- <span class="menu-text">Conferences &amp; Workshops</span></a>
+    <a class="nav-link" href="../conferences.html"> 
+<span class="menu-text">Conferences &amp; Workshops</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../past.html" rel="" target="">
- <span class="menu-text">Photo Gallery</span></a>
+    <a class="nav-link" href="../past.html"> 
+<span class="menu-text">Photo Gallery</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../about.html" rel="" target="">
- <span class="menu-text">About</span></a>
+    <a class="nav-link" href="../about.html"> 
+<span class="menu-text">About</span></a>
   </li>  
 </ul>
-            <div class="quarto-navbar-tools">
-</div>
           </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -118,7 +130,15 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#session-description" id="toc-session-description" class="nav-link active" data-scroll-target="#session-description">Session Description</a></li>
+  <li><a href="#agenda" id="toc-agenda" class="nav-link" data-scroll-target="#agenda">Agenda</a></li>
+  <li><a href="#extensions" id="toc-extensions" class="nav-link" data-scroll-target="#extensions">Extensions</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -126,6 +146,7 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Films, Fruits, and Folklore: Introducing Ideas of Machine Learning to High School Students</h1>
+<p class="subtitle lead">MCTM 2024</p>
 </div>
 
 
@@ -138,37 +159,49 @@ ul.task-list li input[type="checkbox"] {
   </div>
   
 
+
 </header>
 
-<p><img src="images/mctm2024.png" class="img-fluid"></p>
-<p>MCTM 2024</p>
+
+<p><img src="images/mctm-2024.png" class="img-fluid"></p>
+<p><br></p>
+<section id="session-description" class="level2">
+<h2 class="anchored" data-anchor-id="session-description">Session Description</h2>
 <p>Participants will be introduced to a common algorithm used in machine learning for classification. We will explore this algorithm in a set of hands-on activities that draw from high school math content in a variety of contexts.</p>
-<p><strong>Agenda</strong></p>
+<p><br></p>
+</section>
+<section id="agenda" class="level2">
+<h2 class="anchored" data-anchor-id="agenda">Agenda</h2>
 <ul>
 <li><p>Welcome</p>
 <ul>
 <li><a href="https://docs.google.com/presentation/d/1Sa1Kn4SUXZaGi9dx31f7Vw5VFC8mKnyK1kxy91ec-kc/edit?usp=sharing">Slides</a></li>
 </ul></li>
 <li><p>Warm Up!</p></li>
-<li><p>Introduction to Classification: Fruit Activities</p>
+<li><p>Introduction to Classification</p>
 <ul>
-<li><p><a href="https://docs.google.com/document/d/1Zl9R1JrFAQaOIgT_EzS4Oydm5nj7J9CYjXhTv6U_d1w/edit?usp=sharing">Activity 1</a>: <strong>Classifying Fruit</strong> – The goal of this activity is to introduce students to the idea of similarity, and how we can use a numerical attribute to quantify the similarity between two cases.</p></li>
-<li><p><a href="https://docs.google.com/document/d/1H3nBRo008EZH6bLyOyH8phijTxLcC6SEgRNk1xqkk_Q/edit?usp=sharing">Activity 2</a>: <strong>“Unpeeling” k-Nearest Neighbors</strong> – The goal of this activity is to introduce students to the k-Nearest Neighbors (kNN) algorithm, which is a common method used to make classifications.</p></li>
+<li><p><a href="https://docs.google.com/document/d/1Zl9R1JrFAQaOIgT_EzS4Oydm5nj7J9CYjXhTv6U_d1w/edit?usp=sharing"><strong>Activity 1: Classifying Fruit</strong></a> — The goal of this activity is to introduce students to the idea of similarity, and how we can use a numerical attribute to quantify the similarity between two cases.</p></li>
+<li><p><a href="https://docs.google.com/document/d/1H3nBRo008EZH6bLyOyH8phijTxLcC6SEgRNk1xqkk_Q/edit?usp=sharing"><strong>Activity 2: “Unpeeling” k-Nearest Neighbors</strong></a> — The goal of this activity is to introduce students to the k-Nearest Neighbors (kNN) algorithm, which is a common method used to make classifications.</p></li>
 </ul></li>
-<li><p>Digging Deeper: Taylor Swift Activities</p>
+<li><p>Digging Deeper</p>
 <ul>
-<li><p><a href="https://docs.google.com/document/d/1uRMXQCfYG3viM1j4FBnvI_ftOrObbTwzgR0WaHgXLNA/edit?usp=sharing">Activity 3</a>: <strong>Euclidean Distance (Taylor’s Version)</strong> – The goal of this activity is to introduce quantifying the similarity between two cases when we have two numerical attributes (using Euclidean distance) for the cases.</p></li>
-<li><p><a href="https://docs.google.com/document/d/1JTzSiZRBE1-bTGCpr2arWBhx7zU_a4C_uoHgymiVpu4/edit?usp=sharing">Activity 4</a>: <strong>You Belong with Me: Classifying Taylor Swift</strong> – The goal of this activity is to have students use technology to compute Euclidean distance between many cases. Students are also introduced to a formula for choosing the optimal value for k on which to base their k-Nearest Neighbors (kNN) algorithm.</p></li>
-<li><p><a href="https://docs.google.com/document/d/18eYZ4Yxb3J2TNvJv4CBAoM2HmAvjfdaVcL-MeN3RJIA/edit?usp=sharing">Activity 5</a>: <strong>Blank (Vector) Space</strong>– The goal of this activity is to formalize the mathematics of Euclidean distance. Students also learn how to extend Euclidean distance to measure similarity between cases having more than two numerical attributes.</p></li>
+<li><p><a href="https://docs.google.com/document/d/1uRMXQCfYG3viM1j4FBnvI_ftOrObbTwzgR0WaHgXLNA/edit?usp=sharing"><strong>Activity 3: Euclidean Distance (Taylor’s Version)</strong></a> — The goal of this activity is to introduce quantifying the similarity between two cases when we have two numerical attributes (using Euclidean distance) for the cases.</p></li>
+<li><p><a href="https://docs.google.com/document/d/1JTzSiZRBE1-bTGCpr2arWBhx7zU_a4C_uoHgymiVpu4/edit?usp=sharing"><strong>Activity 4: You Belong with Me: Classifying Taylor Swift</strong></a> — The goal of this activity is to have students use technology to compute Euclidean distance between many cases. Students are also introduced to a formula for choosing the optimal value for k on which to base their k-Nearest Neighbors (kNN) algorithm.</p></li>
+<li><p><a href="https://docs.google.com/document/d/18eYZ4Yxb3J2TNvJv4CBAoM2HmAvjfdaVcL-MeN3RJIA/edit?usp=sharing"><strong>Activity 5: Blank (Vector) Space</strong></a> — The goal of this activity is to formalize the mathematics of Euclidean distance. Students also learn how to extend Euclidean distance to measure similarity between cases having more than two numerical attributes.</p></li>
 </ul></li>
-<li><p>Extensions</p>
+</ul>
+<p><br></p>
+</section>
+<section id="extensions" class="level2">
+<h2 class="anchored" data-anchor-id="extensions">Extensions</h2>
 <ul>
-<li><p><strong>Activity 6: Recommending Movies</strong> – The goal of this activity is to introduce cosine similarity. Students also learn how to use cosine similarity to make movie recommendations based on users’ movie ratings. They also employ the kNN algorithm using cosine similarity rather than Euclidean distance to make classifications.</p></li>
-<li><p><strong>Activity 7: Measuring Patient Similarity</strong> – The goal of this activity is to introduce similarity measures for binary attributes (simple matching coefficient&nbsp; and Jaccard index). Students will&nbsp; also learn to classify binary attributes as symmetric or asymmetric.</p></li>
-</ul></li>
+<li><p><strong>Activity 6: Recommending Movies</strong> — The goal of this activity is to introduce cosine similarity. Students also learn how to use cosine similarity to make movie recommendations based on users’ movie ratings. They also employ the kNN algorithm using cosine similarity rather than Euclidean distance to make classifications.</p></li>
+<li><p><strong>Activity 7: Measuring Patient Similarity</strong> — The goal of this activity is to introduce similarity measures for binary attributes (simple matching coefficient and Jaccard index). Students will also learn to classify binary attributes as symmetric or asymmetric.</p></li>
+<li><p><strong>Activity 8: Building a Zoo</strong> — The goal of this activity is to introduce a similarity measure for mixed attributes (i.e., both quantitative and categorical attributes). Students will also learn how to employ the kNN algorithm when the number of observations in potential classes is not equal (i.e., imbalanced classes).</p></li>
 </ul>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -250,10 +283,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -263,8 +295,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -277,6 +318,125 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
       return note.innerHTML;
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -320,6 +480,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -345,6 +506,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -405,6 +592,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+
 
 
 

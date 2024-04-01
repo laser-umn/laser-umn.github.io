@@ -1,0 +1,71 @@
+/*-- scss:defaults --*/
+
+// Fonts
+$font-weight-base: 400 !default;
+
+
+// Top Navigation
+$navbar-bg: #1a0933;
+$navbar-hl: #CAFE48;
+$nav-link-color: #CAFE48;
+$nav-link-hover-color: #CAFE48;
+
+
+
+/*-- scss:rules --*/
+
+
+h1, h2, h3, h4, h5 {
+  color: #1a0933;;
+  font-family:'Playfair Display';
+}
+
+/* unvisited link */
+a:link {
+  color:  #F65BE3;
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color:  #F65BE3;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: #F65BE3;
+  text-decoration: underline;
+  
+}
+
+/* selected link */
+a:active {
+  color:  #F65BE3;
+  text-decoration: none;
+} 
+
+.sidebar nav[role=doc-toc] ul>li>a.active, .sidebar nav[role=doc-toc] ul>li>ul>li>a.active {
+    border-left: 1px solid  #F65BE3;
+    color: #F65BE3 !important;
+}
+
+
+
+// Change color of text in top navbar
+span.menu-text {
+  color: #cafe48;
+}
+
+// Change color of LASER text in top navbar
+span.navbar-title {
+  color: #cafe48;
+}
+
+// CHange color of magnifying glass in top navbar
+.aa-SubmitIcon {
+  fill: #cafe48;
+}
+
+
+

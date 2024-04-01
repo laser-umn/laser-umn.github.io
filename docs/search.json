@@ -46,7 +46,7 @@
     "href": "posts/alg-mod.html",
     "title": "Algorithmic Modeling",
     "section": "",
-    "text": "Algorithmic Modeling\nBuilding on past research teaching CART algorithms, we are currently designing activities focusing on the kNN algorithm.\nRecently, we presented some of these activities at the Minnesota Council of Teachers of Mathematics Conference. See our materials here.\nSelected Related Publication:\nZieffler, A., Justice, N., delMas, R., & Huberty, M. D. (2021). The use of algorithmic models to develop secondary teachers’ understanding of the statistical modeling process. Journal of Statistics and Data Science Education, 29(1), 131-147, DOI: 10.1080/26939169.2021.1900759"
+    "text": "Building on past research teaching CART algorithms, we are currently designing activities focusing on the kNN algorithm.\nRecently, we presented some of these activities at the Minnesota Council of Teachers of Mathematics Conference. See our materials here.\n\n\nSelected Related Publication\nZieffler, A., Justice, N., delMas, R., & Huberty, M. D. (2021). The use of algorithmic models to develop secondary teachers’ understanding of the statistical modeling process. Journal of Statistics and Data Science Education, 29(1), 131-147, DOI: 10.1080/26939169.2021.1900759"
   },
   {
     "objectID": "posts/sti.html",
@@ -82,5 +82,26 @@
     "title": "About",
     "section": "Current Members",
     "text": "Current Members\n Andrew Zieffler (Co-Director): Andy is a Professor of Teaching in the Quantitative Methods in Education program within the Department of Educational Psychology at the University of Minnesota. His area of scholarship, writ large, is statistics education, with his most recent work focused around teacher education, especially related to the introduction of data science into the statistics curriculum. He is also interested in the assessment of statistics and data science content as well as curriculum development. Beyond the classroom, Andy enjoys petting dogs, noodling on the guitar, reading, watching TV, and cross-stitching.\nChelsey Legacy (Co-Director): Chelsey is an Assistant Professor of Teaching at UMN in the Quantitative Methods in Education program within Educational Psychology. Her research interests include statistics and data science education generally, and more specifically students experience coding, understanding of data visualizations, curriculum development, and assessment. In her free time, Chelsey enjoys browsing for books at the local library and then going to get ice cream.\nRegina Lisinker: Regina is a PhD student at the University of Minnesota in the Educational Psychology department’s Psychological Foundations in Education program. She earned her MA in Educational Psychology through the Quantitative Methods in Education program and her thesis focused on data science undergraduate students’ usage of code review resources. Regina started out by getting a BS in Statistics from Cal Poly SLO where she became passionate about teaching and curious to understand how students learn statistics. Her research interests now revolve around student communication within statistics and data science courses (i.e. social interaction in the classroom, communicating with data visualizations, pair programming, etc.).\nPablo Vivas Corrales: Pablo is a Costa Rican statistics educator, dedicated to the creation, development, evaluation, and integration of research, resources, and community of the Statistics Education field in the Latin America region. His research primarily focuses on the teaching and learning process of Statistics in postsecondary education, the role of measurement in Statistics Education, and how students and educators most effectively learn and communicate statistical information through text."
+  },
+  {
+    "objectID": "sessions/knn-classification.html#agenda",
+    "href": "sessions/knn-classification.html#agenda",
+    "title": "Films, Fruits, and Folklore: Introducing Ideas of Machine Learning to High School Students",
+    "section": "Agenda",
+    "text": "Agenda\n\nWelcome\n\nSlides\n\nWarm Up!\nIntroduction to Classification\n\nActivity 1: Classifying Fruit — The goal of this activity is to introduce students to the idea of similarity, and how we can use a numerical attribute to quantify the similarity between two cases.\nActivity 2: “Unpeeling” k-Nearest Neighbors — The goal of this activity is to introduce students to the k-Nearest Neighbors (kNN) algorithm, which is a common method used to make classifications.\n\nDigging Deeper\n\nActivity 3: Euclidean Distance (Taylor’s Version) — The goal of this activity is to introduce quantifying the similarity between two cases when we have two numerical attributes (using Euclidean distance) for the cases.\nActivity 4: You Belong with Me: Classifying Taylor Swift — The goal of this activity is to have students use technology to compute Euclidean distance between many cases. Students are also introduced to a formula for choosing the optimal value for k on which to base their k-Nearest Neighbors (kNN) algorithm.\nActivity 5: Blank (Vector) Space — The goal of this activity is to formalize the mathematics of Euclidean distance. Students also learn how to extend Euclidean distance to measure similarity between cases having more than two numerical attributes."
+  },
+  {
+    "objectID": "sessions/knn-classification.html#extensions",
+    "href": "sessions/knn-classification.html#extensions",
+    "title": "Films, Fruits, and Folklore: Introducing Ideas of Machine Learning to High School Students",
+    "section": "Extensions",
+    "text": "Extensions\n\nActivity 6: Recommending Movies — The goal of this activity is to introduce cosine similarity. Students also learn how to use cosine similarity to make movie recommendations based on users’ movie ratings. They also employ the kNN algorithm using cosine similarity rather than Euclidean distance to make classifications.\nActivity 7: Measuring Patient Similarity — The goal of this activity is to introduce similarity measures for binary attributes (simple matching coefficient and Jaccard index). Students will also learn to classify binary attributes as symmetric or asymmetric.\nActivity 8: Building a Zoo — The goal of this activity is to introduce a similarity measure for mixed attributes (i.e., both quantitative and categorical attributes). Students will also learn how to employ the kNN algorithm when the number of observations in potential classes is not equal (i.e., imbalanced classes)."
+  },
+  {
+    "objectID": "sessions/knn-classification.html#session-description",
+    "href": "sessions/knn-classification.html#session-description",
+    "title": "Films, Fruits, and Folklore: Introducing Ideas of Machine Learning to High School Students",
+    "section": "Session Description",
+    "text": "Session Description\nParticipants will be introduced to a common algorithm used in machine learning for classification. We will explore this algorithm in a set of hands-on activities that draw from high school math content in a variety of contexts."
   }
 ]
