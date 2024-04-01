@@ -1,24 +1,115 @@
 [
   {
-    "objectID": "sessions/knn-classification.html#session-description",
-    "href": "sessions/knn-classification.html#session-description",
-    "title": "Films, Fruits, and Folklore: Introducing Ideas of Machine Learning to High School Students",
+    "objectID": "sessions/be-above-average.html#session-description",
+    "href": "sessions/be-above-average.html#session-description",
+    "title": "Be Above Average: Teaching Introductory Statistics for Deeper Understanding",
     "section": "Session Description",
-    "text": "Session Description\nParticipants will be introduced to a common algorithm used in machine learning for classification. We will explore this algorithm in a set of hands-on activities that draw from high school math content in a variety of contexts."
+    "text": "Session Description\nAre you looking for ways to teach statistical inference so that students have more than a trivial understanding of the content ? This presentation will introduce how a conceptual approach to teaching statistics through modeling and simulation can deepen students’ understanding and enable them to investigate more complex phenomena."
   },
   {
-    "objectID": "sessions/knn-classification.html#agenda",
-    "href": "sessions/knn-classification.html#agenda",
-    "title": "Films, Fruits, and Folklore: Introducing Ideas of Machine Learning to High School Students",
+    "objectID": "sessions/be-above-average.html#agenda",
+    "href": "sessions/be-above-average.html#agenda",
+    "title": "Be Above Average: Teaching Introductory Statistics for Deeper Understanding",
     "section": "Agenda",
-    "text": "Agenda\n\nWelcome\n\nSlides\n\nWarm Up!\nIntroduction to Classification\n\nActivity 1: Classifying Fruit — The goal of this activity is to introduce students to the idea of similarity, and how we can use a numerical attribute to quantify the similarity between two cases.\nActivity 2: “Unpeeling” k-Nearest Neighbors — The goal of this activity is to introduce students to the k-Nearest Neighbors (kNN) algorithm, which is a common method used to make classifications.\n\nDigging Deeper\n\nActivity 3: Euclidean Distance (Taylor’s Version) — The goal of this activity is to introduce quantifying the similarity between two cases when we have two numerical attributes (using Euclidean distance) for the cases.\nActivity 4: You Belong with Me: Classifying Taylor Swift — The goal of this activity is to have students use technology to compute Euclidean distance between many cases. Students are also introduced to a formula for choosing the optimal value for k on which to base their k-Nearest Neighbors (kNN) algorithm.\nActivity 5: Blank (Vector) Space — The goal of this activity is to formalize the mathematics of Euclidean distance. Students also learn how to extend Euclidean distance to measure similarity between cases having more than two numerical attributes."
+    "text": "Agenda\n\nWelcome\n\nSlides\n\nIntroduction\nMemorization Activity\n\nPhysical Simulation\nGoogle Sheets\nTinkerPlots Demo\n\nWrap-Up"
   },
   {
-    "objectID": "sessions/knn-classification.html#extensions",
-    "href": "sessions/knn-classification.html#extensions",
-    "title": "Films, Fruits, and Folklore: Introducing Ideas of Machine Learning to High School Students",
-    "section": "Extensions",
-    "text": "Extensions\n\nActivity 6: Recommending Movies — The goal of this activity is to introduce cosine similarity. Students also learn how to use cosine similarity to make movie recommendations based on users’ movie ratings. They also employ the kNN algorithm using cosine similarity rather than Euclidean distance to make classifications.\nActivity 7: Measuring Patient Similarity — The goal of this activity is to introduce similarity measures for binary attributes (simple matching coefficient and Jaccard index). Students will also learn to classify binary attributes as symmetric or asymmetric.\nActivity 8: Building a Zoo — The goal of this activity is to introduce a similarity measure for mixed attributes (i.e., both quantitative and categorical attributes). Students will also learn how to employ the kNN algorithm when the number of observations in potential classes is not equal (i.e., imbalanced classes)."
+    "objectID": "sessions/be-above-average.html#other-resources",
+    "href": "sessions/be-above-average.html#other-resources",
+    "title": "Be Above Average: Teaching Introductory Statistics for Deeper Understanding",
+    "section": "Other Resources",
+    "text": "Other Resources\n\nStatistical Thinking: A Simulation Approach to Modeling Uncertainty — Course textbook\nLab Manual v.4.4 — This includes the activities that the students work on during the class.\nTinkerPlots Data Sets — ZIP file of the data sets used in the activities.\nTinkerPlots Website — Downlad and buy a license for TinkerPlots. The cost is about $11 for a year-long license.\nEPSY 3264: Spring 2024 Syllabus"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Descended from the statistics education research of Joan Garfield and Bob delMas, the LASER lab is housed at the University of Minnesota in the Quantitative Methods program of the Educational Psychology department. Our research interests, though broad, focus on the teaching and learning of statistics and data science as well as their assessment and curriculum development."
+  },
+  {
+    "objectID": "about.html#focus",
+    "href": "about.html#focus",
+    "title": "About",
+    "section": "",
+    "text": "Descended from the statistics education research of Joan Garfield and Bob delMas, the LASER lab is housed at the University of Minnesota in the Quantitative Methods program of the Educational Psychology department. Our research interests, though broad, focus on the teaching and learning of statistics and data science as well as their assessment and curriculum development."
+  },
+  {
+    "objectID": "about.html#current-members",
+    "href": "about.html#current-members",
+    "title": "About",
+    "section": "Current Members",
+    "text": "Current Members\n Andrew Zieffler (Co-Director): Andy is a Professor of Teaching in the Quantitative Methods in Education program within the Department of Educational Psychology at the University of Minnesota. His area of scholarship, writ large, is statistics education, with his most recent work focused around teacher education, especially related to the introduction of data science into the statistics curriculum. He is also interested in the assessment of statistics and data science content as well as curriculum development. Beyond the classroom, Andy enjoys petting dogs, noodling on the guitar, reading, watching TV, and cross-stitching.\nChelsey Legacy (Co-Director): Chelsey is an Assistant Professor of Teaching at UMN in the Quantitative Methods in Education program within Educational Psychology. Her research interests include statistics and data science education generally, and more specifically students experience coding, understanding of data visualizations, curriculum development, and assessment. In her free time, Chelsey enjoys browsing for books at the local library and then going to get ice cream.\nRegina Lisinker: Regina is a PhD student at the University of Minnesota in the Educational Psychology department’s Psychological Foundations in Education program. She earned her MA in Educational Psychology through the Quantitative Methods in Education program and her thesis focused on data science undergraduate students’ usage of code review resources. Regina started out by getting a BS in Statistics from Cal Poly SLO where she became passionate about teaching and curious to understand how students learn statistics. Her research interests now revolve around student communication within statistics and data science courses (i.e. social interaction in the classroom, communicating with data visualizations, pair programming, etc.).\nPablo Vivas Corrales: Pablo is a Costa Rican statistics educator, dedicated to the creation, development, evaluation, and integration of research, resources, and community of the Statistics Education field in the Latin America region. His research primarily focuses on the teaching and learning process of Statistics in postsecondary education, the role of measurement in Statistics Education, and how students and educators most effectively learn and communicate statistical information through text."
+  },
+  {
+    "objectID": "past.html",
+    "href": "past.html",
+    "title": "Photo Gallery",
+    "section": "",
+    "text": "USCOTS 2023\n\n\n\nRegina Lisinker’s MA Graduation\n\nVimal Rao’s PHD Defense"
+  },
+  {
+    "objectID": "conferences.html",
+    "href": "conferences.html",
+    "title": "Conferences & Workshops",
+    "section": "",
+    "text": "Be Above Average: Teaching Introductory Statistics for Deeper Understanding\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFilms, Fruits, and Folklore: Introducing Ideas of Machine Learning to High School Students\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/code-review.html",
+    "href": "posts/code-review.html",
+    "title": "Code Review",
+    "section": "",
+    "text": "Code Review\nCode review is a common practice in industry settings, but is typically not taught in undergraduate statistics and data science courses. However, given the importance of communication and reproducibility, this skill is incredibly useful to start teaching students early. We have been studying some ways to develop student’s habits around code review.\nPoster presented at USCOTS 2023\nLisinker, R., Zieffler, A., & Legacy, C. (2023, June). Talking in code: Code review as a form of communication.  Poster presented at the Research Satellite of the United States Conference on Teaching Statistics, State College, PA. https://www.causeweb.org/cause/uscots/uscots23/f23-talking-code-code-review-form-communication"
+  },
+  {
+    "objectID": "posts/d2g.html",
+    "href": "posts/d2g.html",
+    "title": "Data to Graphs",
+    "section": "",
+    "text": "Data to Graphs\nThis project focused on reasoning with many variables. Specifically, on the reasoning needed to create visualizations (e.g. network graphs and bubble charts) from a data table and to create a data table from a visualization.\nSelected Related Publication:\nRao, V.N.V., Legacy, C., Zieffler, A., & delMas, R. (2023). Designing a sequence of activities to build reasoning about data and visualization. Teaching Statistics, 45(S1), S80-S92. http://doi.org/10.1111/test.12341"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Algorithmic Modeling\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCode Review\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData to Graphs\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatistics Teaching Inventory\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/alg-mod.html",
+    "href": "posts/alg-mod.html",
+    "title": "Algorithmic Modeling",
+    "section": "",
+    "text": "One strand of research in the LASER Lab is thinking about how algorithmic models can be introduced to students at the high school and undergraduate levels. We are interested in how students (and teachers) reason about these models and how that builds their statistical reasoning and thinking."
+  },
+  {
+    "objectID": "posts/alg-mod.html#classification-and-regression-trees-cart",
+    "href": "posts/alg-mod.html#classification-and-regression-trees-cart",
+    "title": "Algorithmic Modeling",
+    "section": "Classification and Regression Trees (CART)",
+    "text": "Classification and Regression Trees (CART)\nWe designed several activities to introduce students to some of the ideas underlying classification trees using the CART algorithm. These activities were written to be completed in small groups of two to four students and can be found at https://github.com/zief0002/srtl-11."
+  },
+  {
+    "objectID": "posts/alg-mod.html#selected-related-publications",
+    "href": "posts/alg-mod.html#selected-related-publications",
+    "title": "Algorithmic Modeling",
+    "section": "Selected Related Publications",
+    "text": "Selected Related Publications\n\nZieffler, A., Justice, N., delMas, R., & Huberty, M. D. (2021). The use of algorithmic models to develop secondary teachers’ understanding of the statistical modeling process. Journal of Statistics and Data Science Education, 29(1), 131-147, DOI: 10.1080/26939169.2021.1900759"
+  },
+  {
+    "objectID": "posts/sti.html",
+    "href": "posts/sti.html",
+    "title": "Statistics Teaching Inventory",
+    "section": "",
+    "text": "STI/COMPUTES\nWe are currently developing and refining assessments to better understand the landscape of introductory statistics courses at the undergraduate level.\nPoster Presented at USCOTS 2023:\nVivas Corrales, P., Legacy, C., Le, L., Zieffler, A., & Fry,  E. (2023, June). Statistics Teaching Inventory: Exploring the alignment of introductory statistics instructors’ teaching and assessment practices to professional recommendations. Poster presented at the Research Satellite of the United States Conference on Teaching Statistics, State College, PA.\nhttps://www.causeweb.org/cause/uscots/uscots23/statistics-teaching-inventory\nSelected Related Publication:\nLegacy, C., Zieffler, A., Fry, E. B., & Le, L. (2022). COMPUTES: development of an instrument to measure introudctory statistics instructors’ emphasis on computational practices. Statistics Education Research Journal, 21(1), 7-7 https://doi.org/10.52041/serj.v21i1.63"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "LASER",
+    "section": "",
+    "text": "The Lab for Advancing Statistics Education Research (LASER) focuses on statistics and data science education research."
   },
   {
     "objectID": "publications.html",
@@ -56,94 +147,24 @@
     "text": "2021\n\nHorton, N. J., Baumer, Benjamin S., Zieffler, A., & Barr, V. (2021). The Data Science Corps Wrangle-Analyze-Visualize program: Building data acumen for undergraduate students. Harvard Data Science Review, 3(1). https://doi.org/10.1162/99608f92.8233428d\nZieffler, A., Justice, N., delMas, R., & Huberty, M.\\(^\\dagger\\) (2021). The use of algorithmic models to develop secondary teachers’ understanding of the statistical modeling process. Journal of Statistics and Data Science Education, 29(1), 131–147. https://doi.org/10.1080/26939169.2021.1900759"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "LASER",
-    "section": "",
-    "text": "The Lab for Advancing Statistics Education Research (LASER) focuses on statistics and data science education research."
+    "objectID": "sessions/knn-classification.html#session-description",
+    "href": "sessions/knn-classification.html#session-description",
+    "title": "Films, Fruits, and Folklore: Introducing Ideas of Machine Learning to High School Students",
+    "section": "Session Description",
+    "text": "Session Description\nParticipants will be introduced to a common algorithm used in machine learning for classification. We will explore this algorithm in a set of hands-on activities that draw from high school math content in a variety of contexts."
   },
   {
-    "objectID": "posts/sti.html",
-    "href": "posts/sti.html",
-    "title": "Statistics Teaching Inventory",
-    "section": "",
-    "text": "STI/COMPUTES\nWe are currently developing and refining assessments to better understand the landscape of introductory statistics courses at the undergraduate level.\nPoster Presented at USCOTS 2023:\nVivas Corrales, P., Legacy, C., Le, L., Zieffler, A., & Fry,  E. (2023, June). Statistics Teaching Inventory: Exploring the alignment of introductory statistics instructors’ teaching and assessment practices to professional recommendations. Poster presented at the Research Satellite of the United States Conference on Teaching Statistics, State College, PA.\nhttps://www.causeweb.org/cause/uscots/uscots23/statistics-teaching-inventory\nSelected Related Publication:\nLegacy, C., Zieffler, A., Fry, E. B., & Le, L. (2022). COMPUTES: development of an instrument to measure introudctory statistics instructors’ emphasis on computational practices. Statistics Education Research Journal, 21(1), 7-7 https://doi.org/10.52041/serj.v21i1.63"
+    "objectID": "sessions/knn-classification.html#agenda",
+    "href": "sessions/knn-classification.html#agenda",
+    "title": "Films, Fruits, and Folklore: Introducing Ideas of Machine Learning to High School Students",
+    "section": "Agenda",
+    "text": "Agenda\n\nWelcome\n\nSlides\n\nWarm Up!\nIntroduction to Classification\n\nActivity 1: Classifying Fruit — The goal of this activity is to introduce students to the idea of similarity, and how we can use a numerical attribute to quantify the similarity between two cases.\nActivity 2: “Unpeeling” k-Nearest Neighbors — The goal of this activity is to introduce students to the k-Nearest Neighbors (kNN) algorithm, which is a common method used to make classifications.\n\nDigging Deeper\n\nActivity 3: Euclidean Distance (Taylor’s Version) — The goal of this activity is to introduce quantifying the similarity between two cases when we have two numerical attributes (using Euclidean distance) for the cases.\nActivity 4: You Belong with Me: Classifying Taylor Swift — The goal of this activity is to have students use technology to compute Euclidean distance between many cases. Students are also introduced to a formula for choosing the optimal value for k on which to base their k-Nearest Neighbors (kNN) algorithm.\nActivity 5: Blank (Vector) Space — The goal of this activity is to formalize the mathematics of Euclidean distance. Students also learn how to extend Euclidean distance to measure similarity between cases having more than two numerical attributes."
   },
   {
-    "objectID": "posts/alg-mod.html",
-    "href": "posts/alg-mod.html",
-    "title": "Algorithmic Modeling",
-    "section": "",
-    "text": "One strand of research in the LASER Lab is thinking about how algorithmic models can be introduced to students at the high school and undergraduate levels. We are interested in how students (and teachers) reason about these models and how that builds their statistical reasoning and thinking."
-  },
-  {
-    "objectID": "posts/alg-mod.html#classification-and-regression-trees-cart",
-    "href": "posts/alg-mod.html#classification-and-regression-trees-cart",
-    "title": "Algorithmic Modeling",
-    "section": "Classification and Regression Trees (CART)",
-    "text": "Classification and Regression Trees (CART)\nWe designed several activities to introduce students to some of the ideas underlying classification trees using the CART algorithm. These activities were written to be completed in small groups of two to four students and can be found at https://github.com/zief0002/srtl-11."
-  },
-  {
-    "objectID": "posts/alg-mod.html#selected-related-publications",
-    "href": "posts/alg-mod.html#selected-related-publications",
-    "title": "Algorithmic Modeling",
-    "section": "Selected Related Publications",
-    "text": "Selected Related Publications\n\nZieffler, A., Justice, N., delMas, R., & Huberty, M. D. (2021). The use of algorithmic models to develop secondary teachers’ understanding of the statistical modeling process. Journal of Statistics and Data Science Education, 29(1), 131-147, DOI: 10.1080/26939169.2021.1900759"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "Algorithmic Modeling\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCode Review\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData to Graphs\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStatistics Teaching Inventory\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/d2g.html",
-    "href": "posts/d2g.html",
-    "title": "Data to Graphs",
-    "section": "",
-    "text": "Data to Graphs\nThis project focused on reasoning with many variables. Specifically, on the reasoning needed to create visualizations (e.g. network graphs and bubble charts) from a data table and to create a data table from a visualization.\nSelected Related Publication:\nRao, V.N.V., Legacy, C., Zieffler, A., & delMas, R. (2023). Designing a sequence of activities to build reasoning about data and visualization. Teaching Statistics, 45(S1), S80-S92. http://doi.org/10.1111/test.12341"
-  },
-  {
-    "objectID": "posts/code-review.html",
-    "href": "posts/code-review.html",
-    "title": "Code Review",
-    "section": "",
-    "text": "Code Review\nCode review is a common practice in industry settings, but is typically not taught in undergraduate statistics and data science courses. However, given the importance of communication and reproducibility, this skill is incredibly useful to start teaching students early. We have been studying some ways to develop student’s habits around code review.\nPoster presented at USCOTS 2023\nLisinker, R., Zieffler, A., & Legacy, C. (2023, June). Talking in code: Code review as a form of communication.  Poster presented at the Research Satellite of the United States Conference on Teaching Statistics, State College, PA. https://www.causeweb.org/cause/uscots/uscots23/f23-talking-code-code-review-form-communication"
-  },
-  {
-    "objectID": "conferences.html",
-    "href": "conferences.html",
-    "title": "Conferences & Workshops",
-    "section": "",
-    "text": "Films, Fruits, and Folklore: Introducing Ideas of Machine Learning to High School Students\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "past.html",
-    "href": "past.html",
-    "title": "Photo Gallery",
-    "section": "",
-    "text": "USCOTS 2023\n\n\n\nRegina Lisinker’s MA Graduation\n\nVimal Rao’s PHD Defense"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Descended from the statistics education research of Joan Garfield and Bob delMas, the LASER lab is housed at the University of Minnesota in the Quantitative Methods program of the Educational Psychology department. Our research interests, though broad, focus on the teaching and learning of statistics and data science as well as their assessment and curriculum development."
-  },
-  {
-    "objectID": "about.html#focus",
-    "href": "about.html#focus",
-    "title": "About",
-    "section": "",
-    "text": "Descended from the statistics education research of Joan Garfield and Bob delMas, the LASER lab is housed at the University of Minnesota in the Quantitative Methods program of the Educational Psychology department. Our research interests, though broad, focus on the teaching and learning of statistics and data science as well as their assessment and curriculum development."
-  },
-  {
-    "objectID": "about.html#current-members",
-    "href": "about.html#current-members",
-    "title": "About",
-    "section": "Current Members",
-    "text": "Current Members\n Andrew Zieffler (Co-Director): Andy is a Professor of Teaching in the Quantitative Methods in Education program within the Department of Educational Psychology at the University of Minnesota. His area of scholarship, writ large, is statistics education, with his most recent work focused around teacher education, especially related to the introduction of data science into the statistics curriculum. He is also interested in the assessment of statistics and data science content as well as curriculum development. Beyond the classroom, Andy enjoys petting dogs, noodling on the guitar, reading, watching TV, and cross-stitching.\nChelsey Legacy (Co-Director): Chelsey is an Assistant Professor of Teaching at UMN in the Quantitative Methods in Education program within Educational Psychology. Her research interests include statistics and data science education generally, and more specifically students experience coding, understanding of data visualizations, curriculum development, and assessment. In her free time, Chelsey enjoys browsing for books at the local library and then going to get ice cream.\nRegina Lisinker: Regina is a PhD student at the University of Minnesota in the Educational Psychology department’s Psychological Foundations in Education program. She earned her MA in Educational Psychology through the Quantitative Methods in Education program and her thesis focused on data science undergraduate students’ usage of code review resources. Regina started out by getting a BS in Statistics from Cal Poly SLO where she became passionate about teaching and curious to understand how students learn statistics. Her research interests now revolve around student communication within statistics and data science courses (i.e. social interaction in the classroom, communicating with data visualizations, pair programming, etc.).\nPablo Vivas Corrales: Pablo is a Costa Rican statistics educator, dedicated to the creation, development, evaluation, and integration of research, resources, and community of the Statistics Education field in the Latin America region. His research primarily focuses on the teaching and learning process of Statistics in postsecondary education, the role of measurement in Statistics Education, and how students and educators most effectively learn and communicate statistical information through text."
+    "objectID": "sessions/knn-classification.html#extensions",
+    "href": "sessions/knn-classification.html#extensions",
+    "title": "Films, Fruits, and Folklore: Introducing Ideas of Machine Learning to High School Students",
+    "section": "Extensions",
+    "text": "Extensions\n\nActivity 6: Recommending Movies — The goal of this activity is to introduce cosine similarity. Students also learn how to use cosine similarity to make movie recommendations based on users’ movie ratings. They also employ the kNN algorithm using cosine similarity rather than Euclidean distance to make classifications.\nActivity 7: Measuring Patient Similarity — The goal of this activity is to introduce similarity measures for binary attributes (simple matching coefficient and Jaccard index). Students will also learn to classify binary attributes as symmetric or asymmetric.\nActivity 8: Building a Zoo — The goal of this activity is to introduce a similarity measure for mixed attributes (i.e., both quantitative and categorical attributes). Students will also learn how to employ the kNN algorithm when the number of observations in potential classes is not equal (i.e., imbalanced classes)."
   }
 ]
