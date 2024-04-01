@@ -13,6 +13,7 @@ website:
       - research.qmd
       - href: conferences.qmd
         text: Conferences & Workshops
+      - publications.qmd
       - past.qmd
     right:
       - about.qmd

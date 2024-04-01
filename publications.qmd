@@ -1,0 +1,52 @@
+---
+title: "Selected Publications & Presentations"
+---
+
+<br />
+
+
+*$^\dagger$ denotes student author at the time of publication*
+
+
+
+<br />
+
+
+## **2024**
+
+:::{.hanging-indent}
+Legacy, C., Le, L., Zieffler, A., Fry, &amp; Vivas Corrales, P.$^\dagger$ (2024) The teaching of introductory statistics: Results of a national survey. *Journal of Statistics and Data Science Education*, <http://doi.org/10.1080/26939169.2024.2333732>
+:::
+
+
+---
+
+
+## **2023**
+
+:::{.hanging-indent}
+Legacy, C.$^\dagger$, Zieffler, A., Baumer, B. S., Barr, V., &amp; Horton, N. J. (2023). Facilitating team-based data science: Lessons learned from the DSC-WAV project. *Foundations of Data Science, 5*(2), 244--265. <https://doi.org/10.3934/fods.2022003>
+
+Rao, V. N. V.$^\dagger$, Legacy, C., Zieffler, A., &amp; delMas, R. (2023). A sequence of activities to build students' reasoning about data and visualization. *Teaching Statistics, 45*(S1), S80--S92. <http://doi.org/10.1111/test.12341>
+:::
+
+
+---
+
+## **2022**
+
+:::{.hanging-indent}
+Legacy, C.$^\dagger$, Zieffler, A., Fry, E., &amp; Le, L. (2022). COMPUTES: An instrument to measure introductory statistics instructors' emphasis on computational practices. *Statistics Education Research Journal, 21*(1). <https://doi.org/10.52041/serj.v21i1.63>
+:::
+
+---
+
+## **2021**
+
+:::{.hanging-indent}
+Horton, N. J., Baumer, Benjamin S., Zieffler, A., &amp; Barr, V. (2021). The Data Science Corps Wrangle-Analyze-Visualize program: Building data acumen for undergraduate students. *Harvard Data Science Review, 3*(1). <https://doi.org/10.1162/99608f92.8233428d>
+
+Zieffler, A., Justice, N., delMas, R., &amp; Huberty, M.$^\dagger$ (2021). The use of algorithmic models to develop secondary teachers' understanding of the statistical modeling process. *Journal of Statistics and Data Science Education, 29*(1), 131--147. <https://doi.org/10.1080/26939169.2021.1900759>
+:::
+
+---
