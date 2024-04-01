@@ -60,7 +60,7 @@
     "href": "posts/alg-mod.html",
     "title": "Algorithmic Modeling",
     "section": "",
-    "text": "Building on past research teaching CART algorithms, we are currently designing activities focusing on the kNN algorithm.\nRecently, we presented some of these activities at the Minnesota Council of Teachers of Mathematics Conference. See our materials here.\n\n\nSelected Related Publication\nZieffler, A., Justice, N., delMas, R., & Huberty, M. D. (2021). The use of algorithmic models to develop secondary teachers’ understanding of the statistical modeling process. Journal of Statistics and Data Science Education, 29(1), 131-147, DOI: 10.1080/26939169.2021.1900759"
+    "text": "One strand of research in the LASER Lab is thinking about how algorithmic models can be introduced to students at the high school and undergraduate levels. We are interested in how students (and teachers) reason about these models and how that builds their statistical reasoning and thinking."
   },
   {
     "objectID": "posts/sti.html",
@@ -96,5 +96,19 @@
     "title": "About",
     "section": "Current Members",
     "text": "Current Members\n Andrew Zieffler (Co-Director): Andy is a Professor of Teaching in the Quantitative Methods in Education program within the Department of Educational Psychology at the University of Minnesota. His area of scholarship, writ large, is statistics education, with his most recent work focused around teacher education, especially related to the introduction of data science into the statistics curriculum. He is also interested in the assessment of statistics and data science content as well as curriculum development. Beyond the classroom, Andy enjoys petting dogs, noodling on the guitar, reading, watching TV, and cross-stitching.\nChelsey Legacy (Co-Director): Chelsey is an Assistant Professor of Teaching at UMN in the Quantitative Methods in Education program within Educational Psychology. Her research interests include statistics and data science education generally, and more specifically students experience coding, understanding of data visualizations, curriculum development, and assessment. In her free time, Chelsey enjoys browsing for books at the local library and then going to get ice cream.\nRegina Lisinker: Regina is a PhD student at the University of Minnesota in the Educational Psychology department’s Psychological Foundations in Education program. She earned her MA in Educational Psychology through the Quantitative Methods in Education program and her thesis focused on data science undergraduate students’ usage of code review resources. Regina started out by getting a BS in Statistics from Cal Poly SLO where she became passionate about teaching and curious to understand how students learn statistics. Her research interests now revolve around student communication within statistics and data science courses (i.e. social interaction in the classroom, communicating with data visualizations, pair programming, etc.).\nPablo Vivas Corrales: Pablo is a Costa Rican statistics educator, dedicated to the creation, development, evaluation, and integration of research, resources, and community of the Statistics Education field in the Latin America region. His research primarily focuses on the teaching and learning process of Statistics in postsecondary education, the role of measurement in Statistics Education, and how students and educators most effectively learn and communicate statistical information through text."
+  },
+  {
+    "objectID": "posts/alg-mod.html#classification-and-regression-trees-cart",
+    "href": "posts/alg-mod.html#classification-and-regression-trees-cart",
+    "title": "Algorithmic Modeling",
+    "section": "Classification and Regression Trees (CART)",
+    "text": "Classification and Regression Trees (CART)\nWe designed several activities to introduce students to some of the ideas underlying classification trees using the CART algorithm. These activities were written to be completed in small groups of two to four students and can be found at https://github.com/zief0002/srtl-11."
+  },
+  {
+    "objectID": "posts/alg-mod.html#selected-related-publications",
+    "href": "posts/alg-mod.html#selected-related-publications",
+    "title": "Algorithmic Modeling",
+    "section": "Selected Related Publications",
+    "text": "Selected Related Publications\n\nZieffler, A., Justice, N., delMas, R., & Huberty, M. D. (2021). The use of algorithmic models to develop secondary teachers’ understanding of the statistical modeling process. Journal of Statistics and Data Science Education, 29(1), 131-147, DOI: 10.1080/26939169.2021.1900759"
   }
 ]

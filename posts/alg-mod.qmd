@@ -4,13 +4,28 @@ title: "Algorithmic Modeling"
 
 ![](/img/tree.png){fig-align="center" width="312"}
 
-
-Building on past research teaching CART algorithms, we are currently designing activities focusing on the kNN algorithm.
-
-Recently, we presented some of these activities at the Minnesota Council of Teachers of Mathematics Conference. [See our materials here.](https://laser-umn.github.io/sessions/knn-classification.html)
+One strand of research in the LASER Lab is thinking about how algorithmic models can be introduced to students at the high school and undergraduate levels. We are interested in how students (and teachers) reason about these models and how that builds their statistical reasoning and thinking.
 
 <br />
 
-### Selected Related Publication
+## Classification and Regression Trees (CART)
 
+We designed several activities to introduce students to some of the ideas underlying classification trees using the CART algorithm. These activities were written to be completed in small groups of two to four students and can be found at <https://github.com/zief0002/srtl-11>. 
+
+
+
+<br />
+
+# Similarity and Classification
+
+
+Building on past research and what we learned from designing and implementing the CART activities, we have recently designed a set of activities focusing on the measuring similarity and implementing the k-Nearest Neighbors algorithm. We will be debuting a few of these activities at a workshop for at the Minnesota Council of Teachers of Mathematics Conference. [See our materials here.](https://laser-umn.github.io/sessions/knn-classification.html)
+
+<br />
+
+
+## Selected Related Publications
+
+:::{.hanging-indent}
 Zieffler, A., Justice, N., delMas, R., & Huberty, M. D. (2021). The use of algorithmic models to develop secondary teachers' understanding of the statistical modeling process. *Journal of Statistics and Data Science Education*, *29*(1), 131-147, DOI: [10.1080/26939169.2021.1900759](https://doi.org/10.1080/26939169.2021.1900759)
+:::
