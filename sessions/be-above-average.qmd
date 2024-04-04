@@ -47,4 +47,4 @@ Are you looking for ways to teach statistical inference so that students have mo
 - [TinkerPlots Data Sets](https://github.com/zief0002/statistical-thinking/blob/master/tp3-data.zip?raw=true) --- ZIP file of the data sets used in the activities.
 - [TinkerPlots Website](http://www.tinkerplots.com/) --- Downlad and buy a license for TinkerPlots. The cost is about $11 for a year-long license.
 - [EPSY 3264: Spring 2024 Syllabus](https://zief0002.github.io/sesame-street/)
-
+- [College in the Schools](http://cce.umn.edu/college-in-the-schools) --- Learn more about UMN's College in the Schools program and appply to teach in our cohort!
