@@ -116,7 +116,7 @@
     "href": "posts/code-review.html",
     "title": "Code Review",
     "section": "",
-    "text": "Code Review\nCode review is a common practice in industry settings, but is typically not taught in undergraduate statistics and data science courses. However, given the importance of communication and reproducibility, this skill is incredibly useful to start teaching students early. We have been studying some ways to develop student’s habits around code review.\nPoster presented at USCOTS 2023\nLisinker, R., Zieffler, A., & Legacy, C. (2023, June). Talking in code: Code review as a form of communication.  Poster presented at the Research Satellite of the United States Conference on Teaching Statistics, State College, PA. https://www.causeweb.org/cause/uscots/uscots23/f23-talking-code-code-review-form-communication"
+    "text": "Code review is a common practice in industry settings, but is typically not taught in undergraduate statistics and data science courses. However, given the importance of communication and reproducibility, this skill is incredibly useful to start teaching students early. We have been studying some ways to develop student’s habits around code review."
   },
   {
     "objectID": "posts/sti.html",
@@ -201,5 +201,12 @@
     "title": "Algorithmic Modeling",
     "section": "Related Publications",
     "text": "Related Publications\n\nZieffler, A., Justice, N., delMas, R., & Huberty, M. D. (2021). The use of algorithmic models to develop secondary teachers’ understanding of the statistical modeling process. Journal of Statistics and Data Science Education, 29(1), 131-147, DOI: 10.1080/26939169.2021.1900759"
+  },
+  {
+    "objectID": "posts/code-review.html#related-publications-and-presentations",
+    "href": "posts/code-review.html#related-publications-and-presentations",
+    "title": "Code Review",
+    "section": "Related Publications and Presentations",
+    "text": "Related Publications and Presentations\n\nLisinker, R., Zieffler, A., & Legacy, C. (2023, June). Talking in code: Code review as a form of communication. Poster presented at the Research Satellite of the United States Conference on Teaching Statistics, State College, PA."
   }
 ]
