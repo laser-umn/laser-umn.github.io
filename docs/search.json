@@ -109,7 +109,7 @@
     "href": "posts/d2g.html",
     "title": "Data to Graphs",
     "section": "",
-    "text": "Data to Graphs\nThis project focused on reasoning with many variables. Specifically, on the reasoning needed to create visualizations (e.g. network graphs and bubble charts) from a data table and to create a data table from a visualization.\nSelected Related Publication:\nRao, V.N.V., Legacy, C., Zieffler, A., & delMas, R. (2023). Designing a sequence of activities to build reasoning about data and visualization. Teaching Statistics, 45(S1), S80-S92. http://doi.org/10.1111/test.12341"
+    "text": "This project focused on reasoning with many variables. Specifically, on the reasoning needed to create visualizations (e.g. network graphs and bubble charts) from a data table and to create a data table from a visualization."
   },
   {
     "objectID": "posts/code-review.html",
@@ -208,5 +208,12 @@
     "title": "Code Review",
     "section": "Related Publications and Presentations",
     "text": "Related Publications and Presentations\n\nLisinker, R., Zieffler, A., & Legacy, C. (2023, June). Talking in code: Code review as a form of communication. Poster presented at the Research Satellite of the United States Conference on Teaching Statistics, State College, PA."
+  },
+  {
+    "objectID": "posts/d2g.html#related-publication-and-presentations",
+    "href": "posts/d2g.html#related-publication-and-presentations",
+    "title": "Data to Graphs",
+    "section": "Related Publication and Presentations",
+    "text": "Related Publication and Presentations\n\nRao, V.N.V., Legacy, C., Zieffler, A., & delMas, R. (2023). Designing a sequence of activities to build reasoning about data and visualization. Teaching Statistics, 45(S1), S80–S92. http://doi.org/10.1111/test.12341"
   }
 ]

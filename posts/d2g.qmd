@@ -2,12 +2,14 @@
 title: "Data to Graphs"
 ---
 
-![](images/Untitled%20design-01.png)
-
-### Data to Graphs
+![](/img/d2g.png)
 
 This project focused on reasoning with many variables. Specifically, on the reasoning needed to create visualizations (e.g. network graphs and bubble charts) from a data table and to create a data table from a visualization.
 
-**Selected Related Publication:**
+<br />
 
-Rao, V.N.V., Legacy, C., Zieffler, A., & delMas, R. (2023). Designing a sequence of activities to build reasoning about data and visualization. *Teaching Statistics, 45*(S1), S80-S92. <http://doi.org/10.1111/test.12341> 
+## Related Publication and Presentations
+
+::: hanging-indent
+Rao, V.N.V., Legacy, C., Zieffler, A., & delMas, R. (2023). Designing a sequence of activities to build reasoning about data and visualization. *Teaching Statistics, 45*(S1), S80--S92. <http://doi.org/10.1111/test.12341>
+:::
