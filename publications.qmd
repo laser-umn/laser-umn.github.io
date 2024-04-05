@@ -8,27 +8,49 @@ $^\dagger$ denotes student author
 
 <br />
 
-## 2024
+## Publications
 
 ::: hanging-indent
+Demirci, S., Dogucu, M., Zieffler, A., & Rosenberg, J. (2023). Learning difficulties of introductory data science students. In E. Jones (Ed.), *Fostering learning of statistics and data science: Proceedings of the IASE Satellite Conference.* <https://iase-web.org/Webinars.php?p=230711_2000>
+
+Horton, N. J., Baumer, Benjamin S., Zieffler, A., & Barr, V. (2021). The Data Science Corps Wrangle-Analyze-Visualize program: Building data acumen for undergraduate students. *Harvard Data Science Review, 3*(1). <https://doi.org/10.1162/99608f92.8233428d>
 Legacy, C., Le, L., Zieffler, A., Fry, & Vivas Corrales, P.$^\dagger$ (2024) The teaching of introductory statistics: Results of a national survey. *Journal of Statistics and Data Science Education*, <http://doi.org/10.1080/26939169.2024.2333732>
+
+Legacy, C.$^\dagger$, Zieffler, A., Baumer, B. S., Barr, V., & Horton, N. J. (2023). Facilitating team-based data science: Lessons learned from the DSC-WAV project. *Foundations of Data Science, 5*(2), 244--265. <https://doi.org/10.3934/fods.2022003>
+
+Legacy, C.$^\dagger$, Zieffler, A., Fry, E., & Le, L. (2022). COMPUTES: An instrument to measure introductory statistics instructors' emphasis on computational practices. *Statistics Education Research Journal, 21*(1). <https://doi.org/10.52041/serj.v21i1.63>
+
+Rao, V. N. V.$^\dagger$, Legacy, C., Zieffler, A., & delMas, R. (2023). A sequence of activities to build students' reasoning about data and visualization. *Teaching Statistics, 45*(S1), S80--S92. <http://doi.org/10.1111/test.12341>
+
+Zieffler, A., Justice, N., delMas, R., & Huberty, M.$^\dagger$ (2021). The use of algorithmic models to develop secondary teachers' understanding of the statistical modeling process. *Journal of Statistics and Data Science Education, 29*(1), 131--147. <https://doi.org/10.1080/26939169.2021.1900759>
 :::
+
+<br />
 
 ------------------------------------------------------------------------
 
-## 2023
+## Presentations
 
 ::: hanging-indent
+Baumer, B. S., Horton, N. J., Zieffler, A., & Legacy, C.$^\dagger$ (2021, June). *Facilitating team-based data science: Lessons learned from the DSC-WAV project.* Presentation at the United States Conference on Teaching Statistics, Online.
 
-Demirci, S., Dogucu, M., Zieffler, A., & Rosenberg, J. (2023). Learning difficulties of introductory data science students. In E. Jones (Ed.), *Fostering learning of statistics and data science: Proceedings of the IASE Satellite Conference.* <https://iase-web.org/Webinars.php?p=230711_2000>
+Beckman, M., Cetinkaya-Rundel, M., Dogucu, M., Dragich, E.$^\dagger$, Legacy, C., Tackett, M., & Zieffler, A. (2022, August). *Piloting a new assessment tool for data science education researchers.* Poster presented at the 18th ACM Conference on International Computing Education Research (ICER '22), Lugano, Switzerland. ACM, New York, NY, USA.
 
 Dragich, E.$^\dagger$, Beckman, M., Çetinkaya-Rundel, M., Dogucu, M., Legacy, C., Tackett, M., & Zieffler, A. (2023, June). *Creating a standardized assessment to measure learning in introductory data science courses.* Poster presented at the United States Conference on Teaching Statistics, State College, PA.
 
 Dragich, E.$^\dagger$, Beckman, M., Çetinkaya-Rundel, M., Dogucu, M., Legacy, C., Tackett, M., & Zieffler, A. (2023, June). *Creating a standardized assessment to measure learning in introductory data science courses.* Poster presented at the Research Satellite of the United States Conference on Teaching Statistics, State College, PA.
 
+Justice, N., Zieffler, A., delMas, R., & Huberty, M.$^\dagger$ (2021, April). *Exploring new possibilities for teaching and learning statistical modeling: An algorithmic approach.* Invited presentation at Appalachian State University, Department of Mathematical Sciences.
+
+Justice, N., Zieffler, A., delMas, R., & Huberty, M.$^\dagger$ (2021, February). *Scouting new trails: An algorithmic approach to teaching and learning statistical modeling.* Presentation at Pacific Lutheran University.
+
 Le, L., Hayat, M., Green, J., Kaplan, J., Peters, S., & Zieffler, A. (2023, June). *Demystifying the publishing process for statistics education journals.* Presentation at the United States Conference on Teaching Statistics, State College, PA.
 
-Legacy, C.$^\dagger$, Zieffler, A., Baumer, B. S., Barr, V., & Horton, N. J. (2023). Facilitating team-based data science: Lessons learned from the DSC-WAV project. *Foundations of Data Science, 5*(2), 244--265. <https://doi.org/10.3934/fods.2022003>
+Legacy, C.$^\dagger$, Rao, V. N. V.$^\dagger$, Zieffler, A., & delMas, R. C. (2022, January). *Data to graphs and back: Secondary teachers' reasoning about the aesthetic mappings that link data and visualizations.* Presentation at the 12th Statistical Reasoning, Thinking and Literacy (SRTL-12) Research Forum, Online.
+
+Legacy, C.$^\dagger$, Zieffler, A., Fry, E., & Le, L. (2021, August). *COMPUTES: Evaluating the state of computing in introductory statistics.* Poster presented at the 12th Annual Satellite Conference of the International Association for Statistical Education, Online.
+
+Legacy, C.$^\dagger$, Zieffler, A., Fry, E., & Le, L. (2021, June). *The state of computing in introductory statistics.* Poster presented at the United States Conference on Teaching Statistics, Online.
 
 Lisinker, R.$^\dagger$, Zieffler, A., & Legacy, C. (2023, June). *Talking in code: Code review as a form of communication.* Invited lightning talk presented at the Research Satellite of the United States Conference on Teaching Statistics, State College, PA.
 
@@ -38,54 +60,19 @@ Lisinker, R.$^\dagger$, Zieffler, A., & Legacy, C. (2023, June). *Talking in cod
 
 Lisinker, R.$^\dagger$, Zieffler, A., & Legacy, C. (2023, June). *Talking in code: Code review as a form of communication.* Poster presented at the 13th Annual Satellite Conference of the International Association for Statistical Education, Toronto, Canada.
 
-Rao, V. N. V.$^\dagger$, Legacy, C., Zieffler, A., & delMas, R. (2023). A sequence of activities to build students' reasoning about data and visualization. *Teaching Statistics, 45*(S1), S80--S92. <http://doi.org/10.1111/test.12341>
-
-Vivas Corrales, P.$^\dagger$, Legacy, C., Le, L., Zieffler, A., & Fry, E. (2023, June). *Statistics Teaching Inventory: Exploring the alignment of introductory statistics instructors’ teaching and assessment practices to professional recommendations.* Poster presented at the Research Satellite of the United States Conference on Teaching Statistics, State College, PA.
-:::
-
-------------------------------------------------------------------------
-
-## 2022
-
-::: hanging-indent
-Beckman, M., Cetinkaya-Rundel, M., Dogucu, M., Dragich, E.$^\dagger$, Legacy, C., Tackett, M., & Zieffler, A. (2022, August). *Piloting a new assessment tool for data science education researchers.* Poster presented at the 18th ACM Conference on International Computing Education Research (ICER ’22), Lugano, Switzerland. ACM, New York, NY, USA.
-
-Legacy, C.$^\dagger$, Rao, V. N. V.$^\dagger$, Zieffler, A., & delMas, R. C. (2022, January). *Data to graphs and back: Secondary teachers’ reasoning about the aesthetic mappings that link data and visualizations.* Presentation at the 12th Statistical Reasoning, Thinking and Literacy (SRTL-12) Research Forum, Online.
-
-
-Legacy, C.$^\dagger$, Zieffler, A., Fry, E., & Le, L. (2022). COMPUTES: An instrument to measure introductory statistics instructors' emphasis on computational practices. *Statistics Education Research Journal, 21*(1). <https://doi.org/10.52041/serj.v21i1.63>
-:::
-
-------------------------------------------------------------------------
-
-## 2021
-
-::: hanging-indent
-Baumer, B. S., Horton, N. J., Zieffler, A., & Legacy, C.$^\dagger$ (2021, June). *Facilitating team-based data science: Lessons learned from the DSC-WAV project.* Presentation at the United States Conference on Teaching Statistics, Online.
-
-Horton, N. J., Baumer, Benjamin S., Zieffler, A., & Barr, V. (2021). The Data Science Corps Wrangle-Analyze-Visualize program: Building data acumen for undergraduate students. *Harvard Data Science Review, 3*(1). <https://doi.org/10.1162/99608f92.8233428d>
-
-Justice, N., Zieffler, A., delMas, R., & Huberty, M.$^\dagger$ (2021, April). *Exploring new possibilities for teaching and learning statistical modeling: An algorithmic approach.* Invited presentation at Appalachian State University, Department of Mathematical Sciences.
-
-Justice, N., Zieffler, A., delMas, R., & Huberty, M.$^\dagger$ (2021, February). *Scouting new trails: An algorithmic approach to teaching and learning statistical modeling.* Presentation at Pacific Lutheran University.
-
-Legacy, C.$^\dagger$, Zieffler, A., Fry, E., & Le, L. (2021, August). *COMPUTES: Evaluating the state of computing in introductory statistics.* Poster presented at the 12th Annual Satellite Conference of the International Association for Statistical Education, Online.
-
-Legacy, C.$^\dagger$, Zieffler, A., Fry, E., & Le, L. (2021, June). *The state of computing in introductory statistics.* Poster presented at the United States Conference on Teaching Statistics, Online.
-
 McNamara, A., Beckman, M., Legacy, C.$^\dagger$, Zieffler, A., delMas, R. C., & Rao, V. N. V.$^\dagger$ (2021, August). *Integrating computation in statistics: Instructional decisions for Teaching R.* Speed presentation at the Joint Statistical Meetings, Seattle, Washington.
 
 McNamara, A., Legacy, C.$^\dagger$, Rao, V.$^\dagger$, Butler, E. B.$^\dagger$, delMas, R., Zieffler, A., & Beckman, M. (2021, June). *Computing in the statistics curriculum: Lessons learned from the educational sciences.* Poster presented at the United States Conference on Teaching Statistics, Online.
 
-Rao, V. N. V.$^\dagger$, Legacy, C.$^\dagger$, Brown, J. M.$^\dagger$, Zieffler, A., & delMas, R. (2021, August). *Data-to-graphs and back: Secondary teachers’ reasoning about aesthetic mappings in data visualization.* Poster presentated at the 12th Annual Satellite Conference of the International Association for Statistical Education, Online.
+Rao, V. N. V.$^\dagger$, Legacy, C.$^\dagger$, Brown, J. M.$^\dagger$, Zieffler, A., & delMas, R. (2021, August). *Data-to-graphs and back: Secondary teachers' reasoning about aesthetic mappings in data visualization.* Poster presentated at the 12th Annual Satellite Conference of the International Association for Statistical Education, Online.
 
-Rao, V.$^\dagger$, Legacy, C.$^\dagger$, & Zieffler, A. (2021, June). *Students’ perspectives on entering a data science career after experiential learning with local community organizations.* Poster presented at the United States Conference on Teaching Statistics, Online.
+Rao, V.$^\dagger$, Legacy, C.$^\dagger$, & Zieffler, A. (2021, June). *Students' perspectives on entering a data science career after experiential learning with local community organizations.* Poster presented at the United States Conference on Teaching Statistics, Online.
 
 Rowell, G., Kuiper, S., Sturdivant, R., & Zieffler, A. (2021, August). *Can students learn statistics while playing games? A regression example.* Presentation at the Joint Statistical Meetings, Seattle, WA.
 
-Zieffler, A., Justice, N., delMas, R., & Huberty, M.$^\dagger$ (2021). The use of algorithmic models to develop secondary teachers' understanding of the statistical modeling process. *Journal of Statistics and Data Science Education, 29*(1), 131--147. <https://doi.org/10.1080/26939169.2021.1900759>
+Vivas Corrales, P.$^\dagger$, Legacy, C., Le, L., Zieffler, A., & Fry, E. (2023, June). *Statistics Teaching Inventory: Exploring the alignment of introductory statistics instructors' teaching and assessment practices to professional recommendations.* Poster presented at the Research Satellite of the United States Conference on Teaching Statistics, State College, PA.
 
-Zieffler, A., Justice, N., delMas, R., & Huberty, M.$^\dagger$ (2021, April). *The use of algorithmic models to develop secondary teachers’ understanding of the statistical modeling process.* Invited presentation for the CAUSE webinar series. <https://www.causeweb.org/cause/webinar/jsdse/2021-04>
+Zieffler, A., Justice, N., delMas, R., & Huberty, M.$^\dagger$ (2021, April). *The use of algorithmic models to develop secondary teachers' understanding of the statistical modeling process.* Invited presentation for the CAUSE webinar series. <https://www.causeweb.org/cause/webinar/jsdse/2021-04>
 :::
 
-------------------------------------------------------------------------
+<br />

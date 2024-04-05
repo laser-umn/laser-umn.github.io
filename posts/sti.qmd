@@ -1,19 +1,38 @@
 ---
-title: "Statistics Teaching Inventory"
+title: "Statistics Teaching Inventory (STI)"
 ---
 
 ![](/img/survey.png){width="259"}
 
-### STI/COMPUTES
+The Statistics Teaching Inventory (STI) is an instrument designed to assess the instructional practices and beliefs of instructors of introductory statistics courses. Initially designed as part of the NSF-funded project [Evaluation and Assessment of Teaching and Learning about Statistics (e-ATLAS; NSF DUE-1044812 & 1043141)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1044812), the current version of the STI (v.3) consists of approximately 87 items formatted into seven sections:
 
-We are currently developing and refining assessments to better understand the landscape of introductory statistics courses at the undergraduate level.
+1.  Pedagogy;
+2.  Curricular emphasis;
+3.  Technology;
+4.  Assessment;
+5.  Beliefs;
+6.  Course characteristics; and
+7.  Instructor/institutional characteristics.
 
-**Poster Presented at USCOTS 2023:**
+<br />
 
-Vivas Corrales, P., **Legacy, C.,** Le, L., Zieffler, A., & Fry,  E. (2023, June). Statistics Teaching Inventory: Exploring the alignment of introductory statistics instructors' teaching and assessment practices to professional recommendations. Poster presented at the Research Satellite of the United States Conference on Teaching Statistics, State College, PA.
 
-<https://www.causeweb.org/cause/uscots/uscots23/statistics-teaching-inventory>
+## Citation
 
-**Selected Related Publication:**
+Please use the following citation for COMPUTES:
 
-Legacy, C., Zieffler, A., Fry, E. B., & Le, L. (2022). COMPUTES: development of an instrument to measure introudctory statistics instructors' emphasis on computational practices. *Statistics Education Research Journal*, *21*(1), 7-7 <https://doi.org/10.52041/serj.v21i1.63>
+::: hanging-indent
+Zieffler, A., Park, J., Garfield, J., delMas, R., & Bjornsdottir, A. (2012). [The Statistics Teaching Inventory: A survey on statistics teachers' classroom practices and beliefs.](http://jse.amstat.org/v20n1/zieffler.pdf) *Journal of Statistics Education, 20*(1), 1--29.
+:::
+
+<br />
+
+
+## Other Presentations and Publications
+
+::: hanging-indent
+
+Legacy, C., Le, L., Zieffler, A., Fry, & Vivas Corrales, P. (2024) The teaching of introductory statistics: Results of a national survey. *Journal of Statistics and Data Science Education.* <https://doi.org/10.1080/26939169.2024.2333732>
+
+Vivas Corrales, P., Legacy, C., Le, L., Zieffler, A., & Fry, E. (2023, June). [Statistics Teaching Inventory: Exploring the alignment of introductory statistics instructors' teaching and assessment practices to professional recommendations.](https://www.causeweb.org/cause/uscots/uscots23/statistics-teaching-inventory) Poster presented at the Research Satellite of the United States Conference on Teaching Statistics, State College, PA. [[Poster]](https://github.com/zief0002/sti/raw/master/docs/extras/uscots-2023-poster-2023-05-15.pdf)
+:::

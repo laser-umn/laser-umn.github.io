@@ -1,0 +1,31 @@
+---
+title: "COMPUTES"
+---
+
+![](/img/survey.png){width="259"}
+
+The *COMputational Practices in Undergraduate TEaching of Statistics* (COMPUTES) is an instrument designed to measure the extent to which computation practices---specifically data, simulation, and coding practices---are included in the introductory statistics curriculum. The instrument includes 23 items.
+
+<br />
+
+## Citation
+
+Please use the following citation for COMPUTES:
+
+::: hanging-indent
+Legacy, C., Zieffler, A., Fry, E. B., & Le, L. (2022). COMPUTES: Development of an instrument to measure introudctory statistics instructors' emphasis on computational practices. *Statistics Education Research Journal*, *21*(1), 7-7 <https://doi.org/10.52041/serj.v21i1.63>
+:::
+
+<br />
+
+## Other Presentations and Publications
+
+::: hanging-indent
+Brondos Fry, E., Legacy, C. , Zieffler, A., & Le, L. (2020, October). [The state of computing in introductory statistics.](https://ww2.amstat.org/meetings/wsds/2020/onlineprogram/ViewPresentation.cfm?file=308508.pdf) Poster presented at Women in Statistics & Data Science Conference, Pittsburgh, PA, United States.
+
+Legacy, C., Zieffler, A., Fry, E., & Le, L. (2021, August). COMPUTES: Evaluating the state of computing in introductory statistics. Poster presented at the 12th Annual Satellite Conference of the International Association for Statistical Education, Online.
+
+Legacy, C., Zieffler, A., Fry, E., & Le, L. (2021, June). The state of computing in introductory statistics. Poster presented at the United States Conference on Teaching Statistics, Online.
+
+Legacy, C., Zieffler, A., Fry, E., & Le, L. (2020, February). [The state of computing in introductory statistics.](https://github.com/zief0002/sti/raw/master/docs/extras/gsrd-2020-poster-2020-02-20.pdf) Poster presented at Graduate Student Research Day, University of Minnesota, Minneapolis, MN.
+:::
