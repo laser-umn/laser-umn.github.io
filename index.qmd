@@ -2,6 +2,6 @@
 title: ""
 ---
 
-![](images/Lab for Advancing Statistics Education Resesarch (4).png)
+![](images/Lab%20for%20Advancing%20Statistics%20Education%20Resesarch%20(4).png)
 
 **The Lab for Advancing Statistics Education Research (LASER) focuses on statistics and data science education research.**
