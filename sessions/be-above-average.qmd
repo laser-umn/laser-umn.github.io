@@ -29,8 +29,8 @@ Are you looking for ways to teach statistical inference so that students have mo
 - Memorization Activity
 
     - Physical Simulation
-        + [Memorization Lab Activity](https://laser-umn.github.io/sessions/files/memorization-activity.pdf)
-        + [JFK and JFKC Letters (for teachers)](https://laser-umn.github.io/sessions/files/jfk-jfkc-letters.pdf)
+        + [Memorization Lab Activity](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/main/sessions/files/memorization-activity.pdf)
+        + [JFK and JFKC Letters (for teachers)](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/main/sessions/files/jfk-jfkc-letters.pdf)
     
     - Google Sheets
     
