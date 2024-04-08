@@ -91,11 +91,18 @@
     "text": "Classification and Regression Trees (CART)\nWe designed several activities to introduce students to some of the ideas underlying classification trees using the CART algorithm. These activities were written to be completed in small groups of two to four students and can be found at https://github.com/zief0002/srtl-11."
   },
   {
-    "objectID": "posts/alg-mod.html#selected-related-publications",
-    "href": "posts/alg-mod.html#selected-related-publications",
+    "objectID": "posts/alg-mod.html#similarity-and-classification",
+    "href": "posts/alg-mod.html#similarity-and-classification",
     "title": "Algorithmic Modeling",
-    "section": "Selected Related Publications",
-    "text": "Selected Related Publications\n\nZieffler, A., Justice, N., delMas, R., & Huberty, M. D. (2021). The use of algorithmic models to develop secondary teachers’ understanding of the statistical modeling process. Journal of Statistics and Data Science Education, 29(1), 131-147, DOI: 10.1080/26939169.2021.1900759"
+    "section": "Similarity and Classification",
+    "text": "Similarity and Classification\nBuilding on past research and what we learned from designing and implementing the CART activities, we have recently designed a set of activities focusing on the measuring similarity and implementing the k-Nearest Neighbors algorithm. We will be debuting a few of these activities at a workshop at the 2024 Minnesota Council of Teachers of Mathematics Conference."
+  },
+  {
+    "objectID": "posts/alg-mod.html#related-publications",
+    "href": "posts/alg-mod.html#related-publications",
+    "title": "Algorithmic Modeling",
+    "section": "Related Publications",
+    "text": "Related Publications\n\nZieffler, A., Justice, N., delMas, R., & Huberty, M. D. (2021). The use of algorithmic models to develop secondary teachers’ understanding of the statistical modeling process. Journal of Statistics and Data Science Education, 29(1), 131-147, DOI: 10.1080/26939169.2021.1900759"
   },
   {
     "objectID": "research.html",
@@ -112,11 +119,25 @@
     "text": "This project focused on reasoning with many variables. Specifically, on the reasoning needed to create visualizations (e.g. network graphs and bubble charts) from a data table and to create a data table from a visualization."
   },
   {
+    "objectID": "posts/d2g.html#related-publication-and-presentations",
+    "href": "posts/d2g.html#related-publication-and-presentations",
+    "title": "Data to Graphs",
+    "section": "Related Publication and Presentations",
+    "text": "Related Publication and Presentations\n\nRao, V.N.V., Legacy, C., Zieffler, A., & delMas, R. (2023). Designing a sequence of activities to build reasoning about data and visualization. Teaching Statistics, 45(S1), S80–S92. http://doi.org/10.1111/test.12341"
+  },
+  {
     "objectID": "posts/code-review.html",
     "href": "posts/code-review.html",
     "title": "Code Review",
     "section": "",
     "text": "Code review is a common practice in industry settings, but is typically not taught in undergraduate statistics and data science courses. However, given the importance of communication and reproducibility, this skill is incredibly useful to start teaching students early. We have been studying some ways to develop student’s habits around code review."
+  },
+  {
+    "objectID": "posts/code-review.html#related-publications-and-presentations",
+    "href": "posts/code-review.html#related-publications-and-presentations",
+    "title": "Code Review",
+    "section": "Related Publications and Presentations",
+    "text": "Related Publications and Presentations\n\nLisinker, R., Zieffler, A., & Legacy, C. (2023, June). Talking in code: Code review as a form of communication. Poster presented at the Research Satellite of the United States Conference on Teaching Statistics, State College, PA."
   },
   {
     "objectID": "posts/sti.html",
@@ -187,33 +208,5 @@
     "title": "Films, Fruits, and Folklore: Introducing Ideas of Machine Learning to High School Students",
     "section": "Extensions",
     "text": "Extensions\n\nActivity 6: Recommending Movies — The goal of this activity is to introduce cosine similarity. Students also learn how to use cosine similarity to make movie recommendations based on users’ movie ratings. They also employ the kNN algorithm using cosine similarity rather than Euclidean distance to make classifications.\nActivity 7: Measuring Patient Similarity — The goal of this activity is to introduce similarity measures for binary attributes (simple matching coefficient and Jaccard index). Students will also learn to classify binary attributes as symmetric or asymmetric.\nActivity 8: Building a Zoo — The goal of this activity is to introduce a similarity measure for mixed attributes (i.e., both quantitative and categorical attributes). Students will also learn how to employ the kNN algorithm when the number of observations in potential classes is not equal (i.e., imbalanced classes)."
-  },
-  {
-    "objectID": "posts/alg-mod.html#similarity-and-classification",
-    "href": "posts/alg-mod.html#similarity-and-classification",
-    "title": "Algorithmic Modeling",
-    "section": "Similarity and Classification",
-    "text": "Similarity and Classification\nBuilding on past research and what we learned from designing and implementing the CART activities, we have recently designed a set of activities focusing on the measuring similarity and implementing the k-Nearest Neighbors algorithm. We will be debuting a few of these activities at a workshop at the 2024 Minnesota Council of Teachers of Mathematics Conference."
-  },
-  {
-    "objectID": "posts/alg-mod.html#related-publications",
-    "href": "posts/alg-mod.html#related-publications",
-    "title": "Algorithmic Modeling",
-    "section": "Related Publications",
-    "text": "Related Publications\n\nZieffler, A., Justice, N., delMas, R., & Huberty, M. D. (2021). The use of algorithmic models to develop secondary teachers’ understanding of the statistical modeling process. Journal of Statistics and Data Science Education, 29(1), 131-147, DOI: 10.1080/26939169.2021.1900759"
-  },
-  {
-    "objectID": "posts/code-review.html#related-publications-and-presentations",
-    "href": "posts/code-review.html#related-publications-and-presentations",
-    "title": "Code Review",
-    "section": "Related Publications and Presentations",
-    "text": "Related Publications and Presentations\n\nLisinker, R., Zieffler, A., & Legacy, C. (2023, June). Talking in code: Code review as a form of communication. Poster presented at the Research Satellite of the United States Conference on Teaching Statistics, State College, PA."
-  },
-  {
-    "objectID": "posts/d2g.html#related-publication-and-presentations",
-    "href": "posts/d2g.html#related-publication-and-presentations",
-    "title": "Data to Graphs",
-    "section": "Related Publication and Presentations",
-    "text": "Related Publication and Presentations\n\nRao, V.N.V., Legacy, C., Zieffler, A., & delMas, R. (2023). Designing a sequence of activities to build reasoning about data and visualization. Teaching Statistics, 45(S1), S80–S92. http://doi.org/10.1111/test.12341"
   }
 ]
