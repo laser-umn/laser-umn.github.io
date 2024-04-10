@@ -18,14 +18,18 @@ Legacy, C., Zieffler, A., Fry, E. B., & Le, L. (2022). COMPUTES: Development of 
 
 <br />
 
-## Other Presentations and Publications
+## Related Presentations & Publications
+
+$^\dagger$ denotes student author
 
 ::: hanging-indent
-Brondos Fry, E., Legacy, C. , Zieffler, A., & Le, L. (2020, October). [The state of computing in introductory statistics.](https://ww2.amstat.org/meetings/wsds/2020/onlineprogram/ViewPresentation.cfm?file=308508.pdf) Poster presented at Women in Statistics & Data Science Conference, Pittsburgh, PA, United States.
+Brondos Fry, E., Legacy, C. , Zieffler, A., & Le, L. (2020, October). [*The state of computing in introductory statistics.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/files/slides/state-of-computing-2020.pdf) Poster presented at Women in Statistics & Data Science Conference, Pittsburgh, PA, United States.
 
-Legacy, C., Zieffler, A., Fry, E., & Le, L. (2021, August). COMPUTES: Evaluating the state of computing in introductory statistics. Poster presented at the 12th Annual Satellite Conference of the International Association for Statistical Education, Online.
+Legacy, C.$^\dagger$, Zieffler, A., Fry, E., & Le, L. (2022). COMPUTES: An instrument to measure introductory statistics instructors' emphasis on computational practices. *Statistics Education Research Journal, 21*(1). <https://doi.org/10.52041/serj.v21i1.63>
 
-Legacy, C., Zieffler, A., Fry, E., & Le, L. (2021, June). The state of computing in introductory statistics. Poster presented at the United States Conference on Teaching Statistics, Online.
+Legacy, C., Zieffler, A., Fry, E., & Le, L. (2021, August). [*COMPUTES: Evaluating the state of computing in introductory statistics.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/files/posters/state-of-computing-2021.pdf) Poster presented at the 12th Annual Satellite Conference of the International Association for Statistical Education, Online.
 
-Legacy, C., Zieffler, A., Fry, E., & Le, L. (2020, February). [The state of computing in introductory statistics.](https://github.com/zief0002/sti/raw/master/docs/extras/gsrd-2020-poster-2020-02-20.pdf) Poster presented at Graduate Student Research Day, University of Minnesota, Minneapolis, MN.
+Legacy, C.$^\dagger$, Zieffler, A., Fry, E., & Le, L. (2021, June). [*The state of computing in introductory statistics.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/files/posters/state-of-computing-2021.pdf) Poster presented at the United States Conference on Teaching Statistics, Online.
+
+Legacy, C.$^\dagger$, Zieffler, A., Fry, E., & Le, L. (2020, February). [The state of computing in introductory statistics.](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/files/posters/state-of-computing-2021.pdf) Poster presented at Graduate Student Research Day, University of Minnesota, Minneapolis, MN.
 :::

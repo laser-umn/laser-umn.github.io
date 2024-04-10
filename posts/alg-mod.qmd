@@ -1,5 +1,6 @@
 ---
 title: "Algorithmic Modeling"
+editor: source
 ---
 
 ![](/img/tree.png){fig-align="center" width="312"}
@@ -14,16 +15,22 @@ We designed several activities to introduce students to some of the ideas underl
 
 <br />
 
-
 ## Similarity and Classification
 
 Building on past research and what we learned from designing and implementing the CART activities, we have recently designed a set of activities focusing on the measuring similarity and implementing the k-Nearest Neighbors algorithm. We will be debuting a few of these activities at a [workshop at the 2024 Minnesota Council of Teachers of Mathematics Conference](https://laser-umn.github.io/sessions/knn-classification.html).
 
 <br />
 
+## Related Publications & Presentations
 
-## Related Publications
+$^\dagger$ denotes student author
 
 ::: hanging-indent
-Zieffler, A., Justice, N., delMas, R., & Huberty, M. D. (2021). The use of algorithmic models to develop secondary teachers' understanding of the statistical modeling process. *Journal of Statistics and Data Science Education*, *29*(1), 131-147, DOI: [10.1080/26939169.2021.1900759](https://doi.org/10.1080/26939169.2021.1900759)
+Justice, N., Zieffler, A., delMas, R., & Huberty, M.$^\dagger$ (2021, April). *Exploring new possibilities for teaching and learning statistical modeling: An algorithmic approach.* Invited presentation at Appalachian State University, Department of Mathematical Sciences.
+
+Justice, N., Zieffler, A., delMas, R., & Huberty, M.$^\dagger$ (2021, February). *Scouting new trails: An algorithmic approach to teaching and learning statistical modeling.* Presentation at Pacific Lutheran University.
+
+Zieffler, A., Justice, N., delMas, R., & Huberty, M. D. (2021). The use of algorithmic models to develop secondary teachers' understanding of the statistical modeling process. *Journal of Statistics and Data Science Education*, *29*(1), 131-147. <https://doi.org/10.1080/26939169.2021.1900759>
+
+Zieffler, A., Justice, N., delMas, R., & Huberty, M.$^\dagger$ (2021, April). [*The use of algorithmic models to develop secondary teachers' understanding of the statistical modeling process.*](https://www.causeweb.org/cause/webinar/jsdse/2021-04) Invited presentation for the CAUSE webinar series.
 :::

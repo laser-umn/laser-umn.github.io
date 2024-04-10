@@ -1,6 +1,7 @@
 ---
 title: "Be Above Average: Teaching Introductory Statistics for Deeper Understanding"
 subtitle: "MCTM 2024"
+editor: source
 ---
 
 ```{r}
@@ -24,27 +25,48 @@ Are you looking for ways to teach statistical inference so that students have mo
 
     - [Slides](https://docs.google.com/presentation/d/18ZFXzj3LchJouEmDAt8Tpn9qU7ih6fKDJKxs-dRBh_I/edit?usp=sharing)
 
-- Introduction
+- Introduction & Course Background
 
-- Memorization Activity
+    + CATALST Curriculum
+        * [Statistical Thinking: A Simulation Approach to Modeling Uncertainty](https://zief0002.github.io/statistical-thinking/) --- Course textbook
+        
+        * [Lab Manual v.4.4](https://github.com/zief0002/statistical-thinking/blob/master/statistical-thinking-v4_4.pdf?raw=true) --- This includes the activities that the students work on during the class.
+        
+        * [TinkerPlots Data Sets](https://github.com/zief0002/statistical-thinking/blob/master/tp3-data.zip?raw=true) --- ZIP file of the data sets used in the activities.
 
-    - Physical Simulation
-        + [Memorization Lab Activity](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/main/sessions/files/memorization-activity.pdf)
-        + [JFK and JFKC Letters (for teachers)](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/main/sessions/files/jfk-jfkc-letters.pdf)
+- Introduction to Monte Carlo Simulation
+
+    + [Introduction to Monte Carlo Lab Activity](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/main/sessions/files/introduction-to-monte-carlo-activity.pdf)
+
+- One-Sample Test: Monday Breakups
+
+    + [Monday Breakups Lab Activity](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/main/sessions/files/monday-breakups-activity.pdf)
+
+- Two-Sample Test: Memorization
+
+    + Physical Simulation
+        * [Memorization Activity](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/main/sessions/files/memorization-activity.pdf)
+        * [JFK and JFKC Letters (for teachers)](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/main/sessions/files/jfk-jfkc-letters.pdf)
     
-    - Google Sheets
+    + Google Sheets
+        * [Memorization Google Sheet](https://docs.google.com/spreadsheets/d/1RBHxg7lopFvLwG2COvojPBSfy8nNgs89Y_vTFQqa4Vk/edit?usp=sharing)
     
-    - TinkerPlots Demo
+    + TinkerPlots Demo
+
+<!-- - Confidence Intervals: Kissing the 'Right' Way -->
+
+<!--     + [Kissing the 'Right' Way Activity](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/main/sessions/fileskissing-the-right-way-activity.pdf) -->
 
 - Wrap-Up
 
+    + [College in the Schools](http://cce.umn.edu/college-in-the-schools) --- Learn more about UMN's College in the Schools program and appply to teach in our cohort!
+
 <br />
+
 
 ## Other Resources
 
--   [Statistical Thinking: A Simulation Approach to Modeling Uncertainty](https://zief0002.github.io/statistical-thinking/) --- Course textbook
--   [Lab Manual v.4.4](https://github.com/zief0002/statistical-thinking/blob/master/statistical-thinking-v4_4.pdf?raw=true) --- This includes the activities that the students work on during the class.
--   [TinkerPlots Data Sets](https://github.com/zief0002/statistical-thinking/blob/master/tp3-data.zip?raw=true) --- ZIP file of the data sets used in the activities.
--   [TinkerPlots Website](http://www.tinkerplots.com/) --- Downlad and buy a license for TinkerPlots. The cost is about \$11 for a year-long license.
 -   [EPSY 3264: Spring 2024 Syllabus](https://zief0002.github.io/sesame-street/)
--   [College in the Schools](http://cce.umn.edu/college-in-the-schools) --- Learn more about UMN's College in the Schools program and appply to teach in our cohort!
+
+-   [TinkerPlots Website](http://www.tinkerplots.com/) --- Downlad and buy a license for TinkerPlots. The cost is about \$11 for a year-long license.
+

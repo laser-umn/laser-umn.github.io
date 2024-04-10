@@ -1,15 +1,35 @@
 ---
 title: "Data to Graphs"
+editor: source
 ---
 
 ![](/img/d2g.png)
 
-This project focused on reasoning with many variables. Specifically, on the reasoning needed to create visualizations (e.g. network graphs and bubble charts) from a data table and to create a data table from a visualization.
+In this project, we created a series of instructional activities to help develop reasoning regarding multivariate data, including explicit instruction on aesthetic mappings and data structures. We designed three activities that we felt would help students make connections between visualizations and their underlying data. This sequence of activities was based on a hypothetical learning trajectory we developed to build a good foundation for thinking about multivariate data and its link to visualization.
+
+The first activity, has students create a multivariate visualization from data that represented social interactions between story characters from the movie *Twilight*.  The second activity builds on experiences from Activity 1 and changing the direction of the task, this time having students generate data from a multivariate visualization (a bubble plot created from Gapminder data). In Activity 3, we introduce the tidy data structure and students learn what messy data structures are, and how to convert messy data into tidy data. We evaluated both the scaffolding of our design and our hypothetical learning trajectory using a set of in-service secondary statistics teachers.
 
 <br />
 
-## Related Publication and Presentations
+## Activities & Citation
+
+The activities are available at: <https://raovnv.github.io/Data-to-Graphs/>
+
+To cite this work or the activities, use:
+
+Rao, V.N.V., Legacy, C., Zieffler, A., & delMas, R. (2023). Designing a sequence of activities to build reasoning about data and visualization. *Teaching Statistics, 45*(S1), S80--S92. <http://doi.org/10.1111/test.12341>
+
+<br />
+
+
+## Related Publication & Presentations
+
+$^\dagger$ denotes student author
 
 ::: hanging-indent
+Legacy, C.$^\dagger$, Rao, V. N. V.$^\dagger$, Zieffler, A., & delMas, R. C. (2022, January). [*Data to graphs and back: Secondary teachers' reasoning about the aesthetic mappings that link data and visualizations.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/files/slides/data-to-graphs-2022.pdf) Presentation at the 12th Statistical Reasoning, Thinking and Literacy (SRTL-12) Research Forum, Online.
+
+Rao, V. N. V.$^\dagger$, Legacy, C.$^\dagger$, Brown, J. M.$^\dagger$, Zieffler, A., & delMas, R. (2021, August). *Data-to-graphs and back: Secondary teachers' reasoning about aesthetic mappings in data visualization.* Poster presentated at the 12th Annual Satellite Conference of the International Association for Statistical Education, Online.
+
 Rao, V.N.V., Legacy, C., Zieffler, A., & delMas, R. (2023). Designing a sequence of activities to build reasoning about data and visualization. *Teaching Statistics, 45*(S1), S80--S92. <http://doi.org/10.1111/test.12341>
 :::
