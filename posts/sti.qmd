@@ -20,6 +20,8 @@ Versions 2 and 3 of the STI instrument, along with a further description of the 
 $^\dagger$ denotes student author
 
 ::: hanging-indent
+Fry, E. B., Garfield, J., Pearl, D., Zieffler, A., & delMas, R. (2014). [*Statistics Teaching Inventory: Report of data collected in 2013.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/files/papers/sti-2014-executive-report.pdf) Unpublished executive report. University of Minnesota, Minneapolis.
+
 Legacy, C., Le, L., Zieffler, A., Fry, & Vivas Corrales, P. (2024) The teaching of introductory statistics: Results of a national survey. *Journal of Statistics and Data Science Education.* <https://doi.org/10.1080/26939169.2024.2333732>
 
 Vivas Corrales, P.$^\dagger$, Legacy, C., Le, L., Zieffler, A., & Fry, E. (2023, June). [*Statistics Teaching Inventory: Exploring the alignment of introductory statistics instructors' teaching and assessment practices to professional recommendations.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/files/posters/2023-sti-poster.pdf) Poster presented at the Research Satellite of the United States Conference on Teaching Statistics, State College, PA.
