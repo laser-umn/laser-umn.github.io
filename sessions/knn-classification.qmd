@@ -23,25 +23,24 @@ Participants will be introduced to a common algorithm used in machine learning f
 
 -   Introduction to Classification
 
-    - [**Activity 1: Classifying Fruit**](https://docs.google.com/document/d/1Zl9R1JrFAQaOIgT_EzS4Oydm5nj7J9CYjXhTv6U_d1w/edit?usp=sharing) --- The goal of this activity is to introduce students to the idea of similarity, and how we can use a numerical attribute to quantify the similarity between two cases.
+    -   [**Activity 1: Classifying Fruit**](https://docs.google.com/document/d/1Zl9R1JrFAQaOIgT_EzS4Oydm5nj7J9CYjXhTv6U_d1w/edit?usp=sharing) --- The goal of this activity is to introduce students to the idea of similarity, and how we can use a numerical attribute to quantify the similarity between two cases.
 
-    - [**Activity 2: "Unpeeling" k-Nearest Neighbors**](https://docs.google.com/document/d/1H3nBRo008EZH6bLyOyH8phijTxLcC6SEgRNk1xqkk_Q/edit?usp=sharing) --- The goal of this activity is to introduce students to the k-Nearest Neighbors (kNN) algorithm, which is a common method used to make classifications.
+    -   [**Activity 2: "Unpeeling" k-Nearest Neighbors**](https://docs.google.com/document/d/1H3nBRo008EZH6bLyOyH8phijTxLcC6SEgRNk1xqkk_Q/edit?usp=sharing) --- The goal of this activity is to introduce students to the k-Nearest Neighbors (kNN) algorithm, which is a common method used to make classifications.
 
 -   Digging Deeper
 
-    - [**Activity 3: Euclidean Distance (Taylor's Version)**](https://docs.google.com/document/d/1uRMXQCfYG3viM1j4FBnvI_ftOrObbTwzgR0WaHgXLNA/edit?usp=sharing) --- The goal of this activity is to introduce quantifying the similarity between two cases when we have two numerical attributes (using Euclidean distance) for the cases.
+    -   [**Activity 3: Euclidean Distance (Taylor's Version)**](https://docs.google.com/document/d/1uRMXQCfYG3viM1j4FBnvI_ftOrObbTwzgR0WaHgXLNA/edit?usp=sharing) --- The goal of this activity is to introduce quantifying the similarity between two cases when we have two numerical attributes (using Euclidean distance) for the cases.
 
-    - [**Activity 4: You Belong with Me: Classifying Taylor Swift**](https://docs.google.com/document/d/1JTzSiZRBE1-bTGCpr2arWBhx7zU_a4C_uoHgymiVpu4/edit?usp=sharing) --- The goal of this activity is to have students use technology to compute Euclidean distance between many cases. Students are also introduced to a formula for choosing the optimal value for k on which to base their k-Nearest Neighbors (kNN) algorithm.
+    -   [**Activity 4: You Belong with Me: Classifying Taylor Swift**](https://docs.google.com/document/d/1JTzSiZRBE1-bTGCpr2arWBhx7zU_a4C_uoHgymiVpu4/edit?usp=sharing) --- The goal of this activity is to have students use technology to compute Euclidean distance between many cases. Students are also introduced to a formula for choosing the optimal value for k on which to base their k-Nearest Neighbors (kNN) algorithm.
 
-    - [**Activity 5: Blank (Vector) Space**](https://docs.google.com/document/d/18eYZ4Yxb3J2TNvJv4CBAoM2HmAvjfdaVcL-MeN3RJIA/edit?usp=sharing) --- The goal of this activity is to formalize the mathematics of Euclidean distance. Students also learn how to extend Euclidean distance to measure similarity between cases having more than two numerical attributes.
-
+    -   [**Activity 5: Blank (Vector) Space**](https://docs.google.com/document/d/18eYZ4Yxb3J2TNvJv4CBAoM2HmAvjfdaVcL-MeN3RJIA/edit?usp=sharing) --- The goal of this activity is to formalize the mathematics of Euclidean distance. Students also learn how to extend Euclidean distance to measure similarity between cases having more than two numerical attributes.
 
 <br />
 
 ## Extensions
 
-- **Activity 6: Recommending Movies** --- The goal of this activity is to introduce cosine similarity. Students also learn how to use cosine similarity to make movie recommendations based on users' movie ratings. They also employ the kNN algorithm using cosine similarity rather than Euclidean distance to make classifications.
+-   [Activity 6: Recommending Movies](https://docs.google.com/document/d/1qtRjQrx67pPhf6k-opTFdm16bZJbl_7AsXGgBt_Xebg/edit?usp=sharing)--- The goal of this activity is to introduce cosine similarity. Students also learn how to use cosine similarity to make movie recommendations based on users' movie ratings. They also employ the kNN algorithm using cosine similarity rather than Euclidean distance to make classifications.
 
-- **Activity 7: Measuring Patient Similarity** --- The goal of this activity is to introduce similarity measures for binary attributes (simple matching coefficient and Jaccard index). Students will also learn to classify binary attributes as symmetric or asymmetric.
-    
-- **Activity 8: Building a Zoo** --- The goal of this activity is to introduce a similarity measure for mixed attributes (i.e., both quantitative and categorical attributes). Students will  also learn how to employ the kNN algorithm when the number of observations in potential classes is not equal (i.e., imbalanced classes).
+-   [Activity 7: Measuring Patient Similarity](https://docs.google.com/document/d/1w-p9EGPLzIFwhdXgAeZXlFxees99SModhViLaoTsLUk/edit?usp=sharing)--- The goal of this activity is to introduce similarity measures for binary attributes (simple matching coefficient and Jaccard index). Students will also learn to classify binary attributes as symmetric or asymmetric.
+
+-   [**Activity 8: Building a Zoo**](https://docs.google.com/document/d/1UsIsB4MzBjteC-cB_i8v6okRDT64r3_k5RM3NOuuGr4/edit?usp=sharing) --- The goal of this activity is to introduce a similarity measure for mixed attributes (i.e., both quantitative and categorical attributes). Students will also learn how to employ the kNN algorithm when the number of observations in potential classes is not equal (i.e., imbalanced classes).
