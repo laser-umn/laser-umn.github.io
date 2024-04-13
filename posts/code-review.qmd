@@ -13,13 +13,13 @@ Code review is a common practice in industry settings, but is typically not taug
 $^\dagger$ denotes student author
 
 ::: hanging-indent
-Lisinker, R.$^\dagger$, Zieffler, A., & Legacy, C. (2023, November). [*Lessons in Code Review.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/files/slides/statchat-2024-code-review-slides.pdf) Presentation at StatChat: An informal but informative get-together of local statistics educators in the Twin-Cities, St. Paul, MN, United States.
+Lisinker, R.$^\dagger$, Zieffler, A., & Legacy, C. (2023, November). [*Lessons in Code Review.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/main/files/slides/statchat-2024-code-review-slides.pdf) Presentation at StatChat: An informal but informative get-together of local statistics educators in the Twin-Cities, St. Paul, MN, United States.
 
-Lisinker, R.$^\dagger$, Zieffler, A., & Legacy, C. (2023, June). [*Talking in code: Code review as a form of communication.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/files/posters/2023-code-review-lightning-talk.pdf) Invited lightning talk presented at the Research Satellite of the United States Conference on Teaching Statistics, State College, PA.
+Lisinker, R.$^\dagger$, Zieffler, A., & Legacy, C. (2023, June). [*Talking in code: Code review as a form of communication.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/main/files/posters/2023-code-review-lightning-talk.pdf) Invited lightning talk presented at the Research Satellite of the United States Conference on Teaching Statistics, State College, PA.
 
-Lisinker, R.$^\dagger$, Zieffler, A., & Legacy, C. (2023, June). [*Talking in code: Code review as a form of communication.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/files/posters/2023-code-review-poster.pdf) Poster presented at the United States Conference on Teaching Statistics, State College, PA.
+Lisinker, R.$^\dagger$, Zieffler, A., & Legacy, C. (2023, June). [*Talking in code: Code review as a form of communication.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/main/files/posters/2023-code-review-poster.pdf) Poster presented at the United States Conference on Teaching Statistics, State College, PA.
 
-Lisinker, R.$^\dagger$, Zieffler, A., & Legacy, C. (2023, June). [*Talking in code: Code review as a form of communication.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/files/posters/2023-code-review-poster.pdf) Poster presented at the Research Satellite of the United States Conference on Teaching Statistics, State College, PA.
+Lisinker, R.$^\dagger$, Zieffler, A., & Legacy, C. (2023, June). [*Talking in code: Code review as a form of communication.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/main/files/posters/2023-code-review-poster.pdf) Poster presented at the Research Satellite of the United States Conference on Teaching Statistics, State College, PA.
 
-Lisinker, R.$^\dagger$, Zieffler, A., & Legacy, C. (2023, June). [*Talking in code: Code review as a form of communication.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/files/posters/2023-code-review-poster.pdf) Poster presented at the 13th Annual Satellite Conference of the International Association for Statistical Education, Toronto, Canada.
+Lisinker, R.$^\dagger$, Zieffler, A., & Legacy, C. (2023, June). [*Talking in code: Code review as a form of communication.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/main/files/posters/2023-code-review-poster.pdf) Poster presented at the 13th Annual Satellite Conference of the International Association for Statistical Education, Toronto, Canada.
 :::

@@ -1,12 +1,5 @@
 [
   {
-    "listing": "/conferences.html",
-    "items": [
-      "/sessions/be-above-average.html",
-      "/sessions/knn-classification.html"
-    ]
-  },
-  {
     "listing": "/research.html",
     "items": [
       "/posts/alg-mod.html",
@@ -14,6 +7,13 @@
       "/posts/code-review.html",
       "/posts/d2g.html",
       "/posts/sti.html"
+    ]
+  },
+  {
+    "listing": "/conferences.html",
+    "items": [
+      "/sessions/be-above-average.html",
+      "/sessions/knn-classification.html"
     ]
   }
 ]

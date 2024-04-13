@@ -9,12 +9,12 @@ website:
     search: true
     left:
       - href: index.qmd
-        text: Home
+        text: "Home"
       - research.qmd
       - href: conferences.qmd
-        text: Conferences & Workshops
+        text: "Conferences & Workshops"
       - publications.qmd
-      - past.qmd
+      - photo-gallery.qmd
     right:
       - about.qmd
 
