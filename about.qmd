@@ -23,4 +23,3 @@ Descended from the statistics education research of Joan Garfield and Bob delMas
 ![](img/pablo.png){style="float: right;" width="150"}[**Pablo Vivas Corrales:**](https://vivas014.github.io/personal-website/) Pablo is a Costa Rican statistics educator, dedicated to the creation, development, evaluation, and integration of research, resources, and community of the Statistics Education field in the Latin America region. His research primarily focuses on the teaching and learning process of Statistics in postsecondary education, the role of measurement in Statistics Education, and how students and educators most effectively learn and communicate statistical information through text.
 
 <br />
-
