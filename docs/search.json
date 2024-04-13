@@ -159,6 +159,7 @@
     "title": "Statistics Teaching Inventory (STI)",
     "section": "Related Presentations & Publications",
     "text": "Related Presentations & Publications\n\\(^\\dagger\\) denotes student author\n\nFry, E. B., Garfield, J., Pearl, D., Zieffler, A., & delMas, R. (2014). Statistics Teaching Inventory: Report of data collected in 2013. Unpublished executive report. University of Minnesota, Minneapolis.\nLegacy, C., Le, L., Zieffler, A., Fry, & Vivas Corrales, P. (2024) The teaching of introductory statistics: Results of a national survey. Journal of Statistics and Data Science Education. https://doi.org/10.1080/26939169.2024.2333732\nVivas Corrales, P.\\(^\\dagger\\), Legacy, C., Le, L., Zieffler, A., & Fry, E. (2023, June). Statistics Teaching Inventory: Exploring the alignment of introductory statistics instructors’ teaching and assessment practices to professional recommendations. Poster presented at the Research Satellite of the United States Conference on Teaching Statistics, State College, PA.\nZieffler, A., Park, J., Garfield, J., delMas, R., & Bjornsdottir, A. (2012). The Statistics Teaching Inventory: A survey on statistics teachers’ classroom practices and beliefs. Journal of Statistics Education, 20(1), 1–29."
+<<<<<<< HEAD
   },
   {
     "objectID": "conferences.html",
@@ -166,6 +167,8 @@
     "title": "Conferences & Workshops",
     "section": "",
     "text": "Be Above Average: Teaching Introductory Statistics for Deeper Understanding\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFilms, Fruits, and Folklore: Introducing Ideas of Machine Learning to High School Students\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+=======
+>>>>>>> e1303e0b0a2d845daef3a0d2da8006389b08b4c7
   },
   {
     "objectID": "publications.html",
@@ -207,6 +210,10 @@
     "href": "sessions/knn-classification.html#extensions",
     "title": "Films, Fruits, and Folklore: Introducing Ideas of Machine Learning to High School Students",
     "section": "Extensions",
+<<<<<<< HEAD
     "text": "Extensions\n\nActivity 6: Recommending Movies — The goal of this activity is to introduce cosine similarity. Students also learn how to use cosine similarity to make movie recommendations based on users’ movie ratings. They also employ the kNN algorithm using cosine similarity rather than Euclidean distance to make classifications.\nActivity 7: Measuring Patient Similarity — The goal of this activity is to introduce similarity measures for binary attributes (simple matching coefficient and Jaccard index). Students will also learn to classify binary attributes as symmetric or asymmetric.\nActivity 8: Building a Zoo — The goal of this activity is to introduce a similarity measure for mixed attributes (i.e., both quantitative and categorical attributes). Students will also learn how to employ the kNN algorithm when the number of observations in potential classes is not equal (i.e., imbalanced classes)."
+=======
+    "text": "Extensions\n\nActivity 6: Recommending Movies— The goal of this activity is to introduce cosine similarity. Students also learn how to use cosine similarity to make movie recommendations based on users’ movie ratings. They also employ the kNN algorithm using cosine similarity rather than Euclidean distance to make classifications.\nActivity 7: Measuring Patient Similarity— The goal of this activity is to introduce similarity measures for binary attributes (simple matching coefficient and Jaccard index). Students will also learn to classify binary attributes as symmetric or asymmetric.\nActivity 8: Building a Zoo — The goal of this activity is to introduce a similarity measure for mixed attributes (i.e., both quantitative and categorical attributes). Students will also learn how to employ the kNN algorithm when the number of observations in potential classes is not equal (i.e., imbalanced classes)."
+>>>>>>> e1303e0b0a2d845daef3a0d2da8006389b08b4c7
   }
 ]
