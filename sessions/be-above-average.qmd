@@ -36,7 +36,7 @@ Are you looking for ways to teach statistical inference so that students have mo
 
 - Introduction to Monte Carlo Simulation
 
-    + [Introduction to Monte Carlo Lab Activity](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/main/sessions/files/introduction-to-monte-carlo-activity.pdf)
+    + [Introduction to Monte Carlo Simulation Lab Activity](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/main/sessions/files/introduction-to-monte-carlo-simulation-activity.pdf)
 
 - One-Sample Test: Monday Breakups
 
