@@ -43,4 +43,4 @@ Participants will be introduced to a common algorithm used in machine learning f
 
 -   **Activity 8: Building a Zoo** --- The goal of this activity is to introduce a similarity measure for mixed attributes (i.e., both quantitative and categorical attributes). Students will also learn how to employ the kNN algorithm when the number of observations in potential classes is not equal (i.e., imbalanced classes).
 
-    [Download the activities, keys, and data here!](files/mctm24/mctm-resources.zip)
+[Download the activities, keys, and data here!](files/mctm24/mctm-resources.zip)
