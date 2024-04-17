@@ -44,3 +44,5 @@ Participants will be introduced to a common algorithm used in machine learning f
 -   [**Activity 7: Measuring Patient Similarity**](https://docs.google.com/document/d/1w-p9EGPLzIFwhdXgAeZXlFxees99SModhViLaoTsLUk/edit?usp=sharing)--- The goal of this activity is to introduce similarity measures for binary attributes (simple matching coefficient and Jaccard index). Students will also learn to classify binary attributes as symmetric or asymmetric.
 
 -   [**Activity 8: Building a Zoo**](https://docs.google.com/document/d/1UsIsB4MzBjteC-cB_i8v6okRDT64r3_k5RM3NOuuGr4/edit?usp=sharing) --- The goal of this activity is to introduce a similarity measure for mixed attributes (i.e., both quantitative and categorical attributes). Students will also learn how to employ the kNN algorithm when the number of observations in potential classes is not equal (i.e., imbalanced classes).
+
+    [download](files/mctm24/mctm-resources.zip)
