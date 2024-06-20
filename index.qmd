@@ -3,4 +3,4 @@ title: ""
 editor: source
 ---
 
-![](images/Lab%20for%20Advancing%20Statistics%20Education%20Resesarch-3.png)
+![](img/laser-3.png)

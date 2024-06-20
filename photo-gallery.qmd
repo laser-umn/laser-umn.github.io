@@ -4,16 +4,16 @@ title: "Photo Gallery"
 
 **USCOTS 2023**
 
-![](images/uscots-everyone.png){width="233"}
+![](img/uscots-everyone.png){width="233"}
 
-![](images/pablo-poster.png){width="250"}
+![](img/pablo-poster.png){width="250"}
 
-![](images/regina-poster2.png){width="306"}![](images/regina-poster1.png){width="333"}![](images/regina-andy.png){width="405"}
+![](img/regina-poster2.png){width="306"}![](img/regina-poster1.png){width="333"}![](img/regina-andy.png){width="405"}
 
 **Regina Lisinker's MA Graduation**
 
-![](images/regina-grad1.png){width="218"}![](images/regina-grad2.png){width="229"}
+![](img/regina-grad1.png){width="218"}![](img/regina-grad2.png){width="229"}
 
 **Vimal Rao's PHD Defense**
 
-![](images/vimal-defense.png){width="800"}
+![](img/vimal-defense.png){width="800"}

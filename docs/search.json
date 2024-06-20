@@ -42,6 +42,13 @@
     "text": "Current Members\n Andrew Zieffler (Co-Director): Andy is a Professor of Teaching in the Quantitative Methods in Education program within the Department of Educational Psychology at the University of Minnesota. His area of scholarship, writ large, is statistics education, with his most recent work focused around teacher education, especially related to the introduction of data science into the statistics curriculum. He is also interested in the assessment of statistics and data science content as well as curriculum development. Beyond the classroom, Andy enjoys petting dogs, noodling on the guitar, reading, watching TV, and cross-stitching.\n\nChelsey Legacy (Co-Director): Chelsey is an Assistant Professor of Teaching at UMN in the Quantitative Methods in Education program within Educational Psychology. Her research interests include statistics and data science education generally, and more specifically students experience coding, understanding of data visualizations, curriculum development, and assessment. In her free time, Chelsey enjoys browsing for books at the local library and then going to get ice cream.\n\nLaura Le (Co-Director): Laura is a Senior Lecturer in the Biostatistics and Health Data Science division within the School of Public Health at the University of Minnesota. Her passion is in statistics education, mainly focusing on applying research to practice in the areas of teaching and curriculum and assessment development/improvement. Outside of work, Laura’s interests include coffee, baking, adventures, napping, being active (playing sports, running, hiking), doing puzzles, and reading fiction (mainly historical fiction, young adult).\n\nRegina Lisinker: Regina is a PhD student at the University of Minnesota in the Educational Psychology department’s Psychological Foundations in Education program. She earned her MA in Educational Psychology through the Quantitative Methods in Education program and her thesis focused on data science undergraduate students’ usage of code review resources. Regina started out by getting a BS in Statistics from Cal Poly SLO where she became passionate about teaching and curious to understand how students learn statistics. Her research interests now revolve around student communication within statistics and data science courses (i.e. social interaction in the classroom, communicating with data visualizations, pair programming, etc.).\n\nPablo Vivas Corrales: Pablo is a Costa Rican statistics educator, dedicated to the creation, development, evaluation, and integration of research, resources, and community of the Statistics Education field in the Latin America region. His research primarily focuses on the teaching and learning process of Statistics in postsecondary education, the role of measurement in Statistics Education, and how students and educators most effectively learn and communicate statistical information through text."
   },
   {
+    "objectID": "about.html#alumni-members",
+    "href": "about.html#alumni-members",
+    "title": "About",
+    "section": "Alumni Members",
+    "text": "Alumni Members\n\nVimal Rao (c. 2019–2023)\nJonathan Brown (c. 2015–2021)\nEthan Brown (c. 2012–2019)\nElizabeth Fry (c. 2011–2018)\nNicola Justice (c. 2012–2017)\nAnelise Sabbag (c. 2011–2016)\nMatt Beckman (c. 2008–2015)\nLaura Ziegler (c. 2010–2014)\nAudbjorg Bjornsdottir (c. 2008–2012)\nJiyoon Park (c. 2007–2012)\nSharon Lane-Getaz (c. 2003–2007)"
+  },
+  {
     "objectID": "photo-gallery.html",
     "href": "photo-gallery.html",
     "title": "Photo Gallery",
@@ -208,12 +215,5 @@
     "title": "Films, Fruits, and Folklore: Introducing Ideas of Machine Learning to High School Students",
     "section": "Extensions",
     "text": "Extensions\n\nActivity 6: Recommending Movies— The goal of this activity is to introduce cosine similarity. Students also learn how to use cosine similarity to make movie recommendations based on users’ movie ratings. They also employ the kNN algorithm using cosine similarity rather than Euclidean distance to make classifications.\nActivity 7: Measuring Patient Similarity— The goal of this activity is to introduce similarity measures for binary attributes (simple matching coefficient and Jaccard index). Students will also learn to classify binary attributes as symmetric or asymmetric.\nActivity 8: Building a Zoo — The goal of this activity is to introduce a similarity measure for mixed attributes (i.e., both quantitative and categorical attributes). Students will also learn how to employ the kNN algorithm when the number of observations in potential classes is not equal (i.e., imbalanced classes).\n\nDownload the activities, keys, and data here!"
-  },
-  {
-    "objectID": "about.html#alumni-members",
-    "href": "about.html#alumni-members",
-    "title": "About",
-    "section": "Alumni Members",
-    "text": "Alumni Members\n\nVimal Rao (c. 2019–2023)\nJonathan Brown (c. 2015–2021)\nEthan Brown (c. 2012–2019)\nElizabeth Fry (c. 2011–2018)\nNicola Justice (c. 2012–2017)\nAnelise Sabbag (c. 2011–2016)\nMatt Beckman (c. 2008–2015)\nLaura Ziegler (c. 2010–2014)\nAudbjorg Bjornsdottir (c. 2008–2012)\nJiyoon Park (c. 2007–2012)\nSharon Lane-Getaz (c. 2003–2007)"
   }
 ]
