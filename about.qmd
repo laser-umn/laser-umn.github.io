@@ -4,7 +4,7 @@ title: "About"
 
 ## Focus
 
-Descended from the statistics education research of Joan Garfield and Bob delMas, the LASER lab is housed at the University of Minnesota in the Quantitative Methods program of the Educational Psychology department. Our research interests, though broad, focus on the teaching and learning of statistics and data science as well as their assessment and curriculum development.
+Descended from the statistics education research of [Joan Garfield](https://en.wikipedia.org/wiki/Joan_Garfield) and [Bob delMas](https://edpsych.umn.edu/emeriti/robert-delmas), the LASER lab is housed at the University of Minnesota in the Quantitative Methods program of the Educational Psychology department. Our research interests, though broad, focus on the teaching and learning of statistics and data science as well as their assessment and curriculum development.
 
 ## Current Members
 
@@ -23,3 +23,18 @@ Descended from the statistics education research of Joan Garfield and Bob delMas
 ![](img/pablo.png){style="float: right;" width="150"}[**Pablo Vivas Corrales:**](https://vivas014.github.io/personal-website/) Pablo is a Costa Rican statistics educator, dedicated to the creation, development, evaluation, and integration of research, resources, and community of the Statistics Education field in the Latin America region. His research primarily focuses on the teaching and learning process of Statistics in postsecondary education, the role of measurement in Statistics Education, and how students and educators most effectively learn and communicate statistical information through text.
 
 <br />
+
+
+## Alumni Members
+
+- [Vimal Rao](https://raovnv.github.io/index.html) (c. 2019--2022)
+- [Jonathan Brown](https://survey.umn.edu/about-us/staff-directory/jonathan-brown) (c. 2015--2021)
+- [Ethan Brown](https://www.researchgate.net/profile/Ethan-Brown-23) (c. 2012--2019)
+- [Elizabeth Fry](https://www.linkedin.com/in/ebfry/) (c. 2011--2018)
+- [Nicola Justice](https://sites.google.com/plu.edu/njustice/home) (c. 2012--2017)
+- [Anelise Sabbag](https://statistics.calpoly.edu/anelise-sabbag) (c. 2011--2016)
+- [Matt Beckman](https://mdbeckman.github.io/) (c. 2008--2015)
+- [Laura Ziegler](https://www.stat.iastate.edu/people/laura-ziegler) (c. 2010--2014)
+- [Audbjorg Bjornsdottir](https://www.linkedin.com/in/audbjorg-bjornsdottir-80398814/) (c. 2008--2012)
+- [Jiyoon Park](https://www.linkedin.com/in/jiyoon-park-07119559/) (c. 2007--2012)
+- [Sharon Lane-Getaz](https://www.linkedin.com/in/sharon-lane-getaz-8837869/) (c. 2003--2007)

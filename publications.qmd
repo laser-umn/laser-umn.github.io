@@ -70,7 +70,7 @@ Lisinker, R.$^\dagger$, Zieffler, A., & Legacy, C. (2023, June). [*Talking in co
 
 Lisinker, R.$^\dagger$, Zieffler, A., & Legacy, C. (2023, June). [*Talking in code: Code review as a form of communication.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/main/files/posters/2023-uscots-iase-code-review-poster.pdf) Poster presented at the 13th Annual Satellite Conference of the International Association for Statistical Education, Toronto, Canada.
 
-McNamara, A., Beckman, M., Legacy, C.$^\dagger$, Zieffler, A., delMas, R. C., & Rao, V. N. V.$^\dagger$ (2021, August). [*Integrating computation in statistics: Instructional decisions for Teaching R.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/main/files/posters/2021-jsm-uscot-code-conventions.pdf) Speed presentation at the Joint Statistical Meetings, Seattle, Washington.
+McNamara, A., Beckman, M., Legacy, C.$^\dagger$, Zieffler, A., delMas, R. C., & Rao, V. N. V.$^\dagger$ (2021, August). [*Integrating computation in statistics: Instructional decisions for Teaching R.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/main/files/posters/2021-jsm-uscots-code-conventions.pdf) Speed presentation at the Joint Statistical Meetings, Seattle, Washington.
 
 McNamara, A., Legacy, C.$^\dagger$, Rao, V.$^\dagger$, Butler, E. B.$^\dagger$, delMas, R., Zieffler, A., & Beckman, M. (2021, June). [*Computing in the statistics curriculum: Lessons learned from the educational sciences.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/main/files/posters/2021-jsm-uscots-code-conventions.pdf) Poster presented at the United States Conference on Teaching Statistics, Online.
 

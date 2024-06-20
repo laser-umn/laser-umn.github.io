@@ -208,5 +208,12 @@
     "title": "Films, Fruits, and Folklore: Introducing Ideas of Machine Learning to High School Students",
     "section": "Extensions",
     "text": "Extensions\n\nActivity 6: Recommending Movies— The goal of this activity is to introduce cosine similarity. Students also learn how to use cosine similarity to make movie recommendations based on users’ movie ratings. They also employ the kNN algorithm using cosine similarity rather than Euclidean distance to make classifications.\nActivity 7: Measuring Patient Similarity— The goal of this activity is to introduce similarity measures for binary attributes (simple matching coefficient and Jaccard index). Students will also learn to classify binary attributes as symmetric or asymmetric.\nActivity 8: Building a Zoo — The goal of this activity is to introduce a similarity measure for mixed attributes (i.e., both quantitative and categorical attributes). Students will also learn how to employ the kNN algorithm when the number of observations in potential classes is not equal (i.e., imbalanced classes).\n\nDownload the activities, keys, and data here!"
+  },
+  {
+    "objectID": "about.html#alumni-members",
+    "href": "about.html#alumni-members",
+    "title": "About",
+    "section": "Alumni Members",
+    "text": "Alumni Members\n\nVimal Rao (c. 2019–2022)\nJonathan Brown (c. 2015–2021)\nEthan Brown (c. 2012–2019)\nElizabeth Fry (c. 2011–2018)\nNicola Justice (c. 2012–2017)\nAnelise Sabbag (c. 2011–2016)\nMatt Beckman (c. 2008–2015)\nLaura Ziegler (c. 2010–2014)\nAudbjorg Bjornsdottir (c. 2008–2012)\nJiyoon Park (c. 2007–2012)\nSharon Lane-Getaz (c. 2003–2007)"
   }
 ]
