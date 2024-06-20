@@ -8,7 +8,7 @@ Descended from the statistics education research of [Joan Garfield](https://en.w
 
 ## Current Members
 
-![](img/andy-avatar.png){style="float: right;" width="150"} [**Andrew Zieffler (Co-Director):**](https://www.datadreaming.org/) Andy is a Professor of Teaching in the Quantitative Methods in Education program within the Department of Educational Psychology at the University of Minnesota. His area of scholarship, writ large, is statistics education, with his most recent work focused around teacher education, especially related to the introduction of data science into the statistics curriculum. He is also interested in the assessment of statistics and data science content as well as curriculum development. Beyond the classroom, Andy enjoys petting dogs, noodling on the guitar, reading, watching TV, and cross-stitching.
+![](img/andy.png){style="float: right;" width="150"} [**Andrew Zieffler (Co-Director):**](https://www.datadreaming.org/) Andy is a Professor of Teaching in the Quantitative Methods in Education program within the Department of Educational Psychology at the University of Minnesota. His area of scholarship, writ large, is statistics education, with his most recent work focused around teacher education, especially related to the introduction of data science into the statistics curriculum. He is also interested in the assessment of statistics and data science content as well as curriculum development. Beyond the classroom, Andy enjoys petting dogs, noodling on the guitar, reading, watching TV, and cross-stitching.
 
 <br />
 
@@ -27,7 +27,7 @@ Descended from the statistics education research of [Joan Garfield](https://en.w
 
 ## Alumni Members
 
-- [Vimal Rao](https://raovnv.github.io/index.html) (c. 2019--2022)
+- [Vimal Rao](https://raovnv.github.io/index.html) (c. 2019--2023)
 - [Jonathan Brown](https://survey.umn.edu/about-us/staff-directory/jonathan-brown) (c. 2015--2021)
 - [Ethan Brown](https://www.researchgate.net/profile/Ethan-Brown-23) (c. 2012--2019)
 - [Elizabeth Fry](https://www.linkedin.com/in/ebfry/) (c. 2011--2018)
