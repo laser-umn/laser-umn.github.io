@@ -34,15 +34,17 @@ Zieffler, A., Justice, N., delMas, R., & Huberty, M.$^\dagger$ (2021). The use o
 ## Presentations
 
 ::: hanging-indent
-Baumer, B. S., Horton, N. J., Zieffler, A., & Legacy, C.$^\dagger$ (2021, June). *Facilitating team-based data science: Lessons learned from the DSC-WAV project.* Presentation at the United States Conference on Teaching Statistics, Online.
+Baumer, B. S., Horton, N. J., Zieffler, A., & Legacy, C.$^\dagger$ (2021, June). [*Facilitating team-based data science: Lessons learned from the DSC-WAV project.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/files/slides/2021-uscots-dsc-wav.pdf) Presentation at the United States Conference on Teaching Statistics, Online.
 
 Beckman, M., Cetinkaya-Rundel, M., Dogucu, M., Dragich, E.$^\dagger$, Legacy, C., Tackett, M., & Zieffler, A. (2022, August). *Piloting a new assessment tool for data science education researchers.* Poster presented at the 18th ACM Conference on International Computing Education Research (ICER '22), Lugano, Switzerland. ACM, New York, NY, USA.
 
-Brondos Fry, E., Legacy, C. , Zieffler, A., & Le, L. (2020, October). [*The state of computing in introductory statistics.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/files/slides/state-of-computing-2020.pdf) Poster presented at Women in Statistics & Data Science Conference, Pittsburgh, PA, United States.
+Brondos Fry, E., Legacy, C. , Zieffler, A., & Le, L. (2020, October). [*The state of computing in introductory statistics.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/files/slides/2020-wsds-state-of-computing.pdf) Poster presented at Women in Statistics & Data Science Conference, Pittsburgh, PA, United States.
 
 Dragich, E.$^\dagger$, Beckman, M., Çetinkaya-Rundel, M., Dogucu, M., Legacy, C., Tackett, M., & Zieffler, A. (2023, June). *Creating a standardized assessment to measure learning in introductory data science courses.* Poster presented at the United States Conference on Teaching Statistics, State College, PA.
 
 Dragich, E.$^\dagger$, Beckman, M., Çetinkaya-Rundel, M., Dogucu, M., Legacy, C., Tackett, M., & Zieffler, A. (2023, June). *Creating a standardized assessment to measure learning in introductory data science courses.* Poster presented at the Research Satellite of the United States Conference on Teaching Statistics, State College, PA.
+
+Horton, N., Garcia, R., & Legacy, C. (2023, June). *Facilitating team-based data science: agile and scrum for undergraduates* [Workshop]. United States Conference on Teaching Statistics, State College, PA.
 
 Justice, N., Zieffler, A., delMas, R., & Huberty, M.$^\dagger$ (2021, April). *Exploring new possibilities for teaching and learning statistical modeling: An algorithmic approach.* Invited presentation at Appalachian State University, Department of Mathematical Sciences.
 
@@ -56,7 +58,7 @@ Legacy, C.$^\dagger$, Zieffler, A., Fry, E., & Le, L. (2021, August). *COMPUTES:
 
 Legacy, C.$^\dagger$, Zieffler, A., Fry, E., & Le, L. (2021, June). [*The state of computing in introductory statistics.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/files/posters/state-of-computing-2021.pdf) Poster presented at the United States Conference on Teaching Statistics, Online.
 
-Legacy, C.$^\dagger$, Zieffler, A., Fry, E., & Le, L. (2020, February). [The state of computing in introductory statistics.]((https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/files/posters/state-of-computing-2021.pdf) Poster presented at Graduate Student Research Day, University of Minnesota, Minneapolis, MN.
+Legacy, C.$^\dagger$, Zieffler, A., Fry, E., & Le, L. (2020, February). [The state of computing in introductory statistics.]((https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/files/posters/2021-state-of-computing.pdf) Poster presented at Graduate Student Research Day, University of Minnesota, Minneapolis, MN.
 
 Lisinker, R.$^\dagger$, Zieffler, A., & Legacy, C. (2023, November). [*Lessons in Code Review.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/files/slides/statchat-2024-code-review-slides.pdf) Presentation at StatChat: An informal but informative get-together of local statistics educators in the Twin-Cities, St. Paul, MN, United States.
 
