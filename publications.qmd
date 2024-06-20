@@ -46,9 +46,9 @@ Dragich, E.$^\dagger$, Beckman, M., Çetinkaya-Rundel, M., Dogucu, M., Legacy, C
 
 Horton, N., Garcia, R., & Legacy, C. (2023, June). [*Facilitating team-based data science: agile and scrum for undergraduates*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/main/files/slides/2023-uscots-dsc-wav.pdf) [Workshop]. United States Conference on Teaching Statistics, State College, PA.
 
-Justice, N., Zieffler, A., delMas, R., & Huberty, M.$^\dagger$ (2021, April). *Exploring new possibilities for teaching and learning statistical modeling: An algorithmic approach.* Invited presentation at Appalachian State University, Department of Mathematical Sciences.
+Justice, N., Zieffler, A., delMas, R., & Huberty, M.$^\dagger$ (2021, April). [*Exploring new possibilities for teaching and learning statistical modeling: An algorithmic approach.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/main/files/slides/2021-app-state.pdf) Invited presentation at Appalachian State University, Department of Mathematical Sciences.
 
-Justice, N., Zieffler, A., delMas, R., & Huberty, M.$^\dagger$ (2021, February). *Scouting new trails: An algorithmic approach to teaching and learning statistical modeling.* Presentation at Pacific Lutheran University.
+Justice, N., Zieffler, A., delMas, R., & Huberty, M.$^\dagger$ (2021, February). [*Scouting new trails: An algorithmic approach to teaching and learning statistical modeling.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/main/files/slides/2021-plu-scouting-new-trails.pdf) Presentation at Pacific Lutheran University.
 
 Le, L., Hayat, M., Green, J., Kaplan, J., Peters, S., & Zieffler, A. (2023, June). [*Demystifying the publishing process for statistics education journals.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/main/files/slides/2023-uscots-publishing.pdf) Presentation at the United States Conference on Teaching Statistics, State College, PA.
 
