@@ -4,8 +4,9 @@ project:
 
 website:
   title: "LASER"
+  favicon: "img/laser-logo-solidbackground.png"
   navbar:
-    logo: img/laser-logo-solidbackground.png
+    logo: "img/laser-logo-solidbackground.png""
     search: true
     left:
       - href: index.qmd
