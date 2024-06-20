@@ -34,11 +34,11 @@ Zieffler, A., Justice, N., delMas, R., & Huberty, M.$^\dagger$ (2021). The use o
 ## Presentations
 
 ::: hanging-indent
-Baumer, B. S., Horton, N. J., Zieffler, A., & Legacy, C.$^\dagger$ (2021, June). [*Facilitating team-based data science: Lessons learned from the DSC-WAV project.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/files/slides/2021-uscots-dsc-wav.pdf) Presentation at the United States Conference on Teaching Statistics, Online.
+Baumer, B. S., Horton, N. J., Zieffler, A., & Legacy, C.$^\dagger$ (2021, June). [*Facilitating team-based data science: Lessons learned from the DSC-WAV project.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/main/files/slides/2021-uscots-dsc-wav.pdf) Presentation at the United States Conference on Teaching Statistics, Online.
 
 Beckman, M., Cetinkaya-Rundel, M., Dogucu, M., Dragich, E.$^\dagger$, Legacy, C., Tackett, M., & Zieffler, A. (2022, August). *Piloting a new assessment tool for data science education researchers.* Poster presented at the 18th ACM Conference on International Computing Education Research (ICER '22), Lugano, Switzerland. ACM, New York, NY, USA.
 
-Brondos Fry, E., Legacy, C. , Zieffler, A., & Le, L. (2020, October). [*The state of computing in introductory statistics.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/files/slides/2020-wsds-state-of-computing.pdf) Poster presented at Women in Statistics & Data Science Conference, Pittsburgh, PA, United States.
+Brondos Fry, E., Legacy, C. , Zieffler, A., & Le, L. (2020, October). [*The state of computing in introductory statistics.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/main/files/slides/2020-wsds-state-of-computing.pdf) Poster presented at Women in Statistics & Data Science Conference, Pittsburgh, PA, United States.
 
 Dragich, E.$^\dagger$, Beckman, M., Çetinkaya-Rundel, M., Dogucu, M., Legacy, C., Tackett, M., & Zieffler, A. (2023, June). *Creating a standardized assessment to measure learning in introductory data science courses.* Poster presented at the United States Conference on Teaching Statistics, State College, PA.
 
@@ -52,23 +52,23 @@ Justice, N., Zieffler, A., delMas, R., & Huberty, M.$^\dagger$ (2021, February).
 
 Le, L., Hayat, M., Green, J., Kaplan, J., Peters, S., & Zieffler, A. (2023, June). *Demystifying the publishing process for statistics education journals.* Presentation at the United States Conference on Teaching Statistics, State College, PA.
 
-Legacy, C.$^\dagger$, Rao, V. N. V.$^\dagger$, Zieffler, A., & delMas, R. C. (2022, January). [*Data to graphs and back: Secondary teachers' reasoning about the aesthetic mappings that link data and visualizations.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/files/slides/data-to-graphs-2022.pdf) Presentation at the 12th Statistical Reasoning, Thinking and Literacy (SRTL-12) Research Forum, Online.
+Legacy, C.$^\dagger$, Rao, V. N. V.$^\dagger$, Zieffler, A., & delMas, R. C. (2022, January). [*Data to graphs and back: Secondary teachers' reasoning about the aesthetic mappings that link data and visualizations.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/main/files/slides/data-to-graphs-2022.pdf) Presentation at the 12th Statistical Reasoning, Thinking and Literacy (SRTL-12) Research Forum, Online.
 
 Legacy, C.$^\dagger$, Zieffler, A., Fry, E., & Le, L. (2021, August). *COMPUTES: Evaluating the state of computing in introductory statistics.* Poster presented at the 12th Annual Satellite Conference of the International Association for Statistical Education, Online.
 
-Legacy, C.$^\dagger$, Zieffler, A., Fry, E., & Le, L. (2021, June). [*The state of computing in introductory statistics.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/files/posters/state-of-computing-2021.pdf) Poster presented at the United States Conference on Teaching Statistics, Online.
+Legacy, C.$^\dagger$, Zieffler, A., Fry, E., & Le, L. (2021, June). [*The state of computing in introductory statistics.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/main/files/posters/state-of-computing-2021.pdf) Poster presented at the United States Conference on Teaching Statistics, Online.
 
-Legacy, C.$^\dagger$, Zieffler, A., Fry, E., & Le, L. (2020, February). [The state of computing in introductory statistics.]((https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/files/posters/2021-state-of-computing.pdf) Poster presented at Graduate Student Research Day, University of Minnesota, Minneapolis, MN.
+Legacy, C.$^\dagger$, Zieffler, A., Fry, E., & Le, L. (2020, February). [The state of computing in introductory statistics.]((https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/main/files/posters/2021-state-of-computing.pdf) Poster presented at Graduate Student Research Day, University of Minnesota, Minneapolis, MN.
 
-Lisinker, R.$^\dagger$, Zieffler, A., & Legacy, C. (2023, November). [*Lessons in Code Review.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/files/slides/statchat-2024-code-review-slides.pdf) Presentation at StatChat: An informal but informative get-together of local statistics educators in the Twin-Cities, St. Paul, MN, United States.
+Lisinker, R.$^\dagger$, Zieffler, A., & Legacy, C. (2023, November). [*Lessons in Code Review.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/main/files/slides/statchat-2024-code-review-slides.pdf) Presentation at StatChat: An informal but informative get-together of local statistics educators in the Twin-Cities, St. Paul, MN, United States.
 
-Lisinker, R.$^\dagger$, Zieffler, A., & Legacy, C. (2023, June). [*Talking in code: Code review as a form of communication.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/files/posters/2023-code-review-lightning-talk.pdf) Invited lightning talk presented at the Research Satellite of the United States Conference on Teaching Statistics, State College, PA.
+Lisinker, R.$^\dagger$, Zieffler, A., & Legacy, C. (2023, June). [*Talking in code: Code review as a form of communication.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/main/files/posters/2023-code-review-lightning-talk.pdf) Invited lightning talk presented at the Research Satellite of the United States Conference on Teaching Statistics, State College, PA.
 
-Lisinker, R.$^\dagger$, Zieffler, A., & Legacy, C. (2023, June). [*Talking in code: Code review as a form of communication.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/files/posters/2023-code-review-poster.pdf) Poster presented at the United States Conference on Teaching Statistics, State College, PA.
+Lisinker, R.$^\dagger$, Zieffler, A., & Legacy, C. (2023, June). [*Talking in code: Code review as a form of communication.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/main/files/posters/2023-code-review-poster.pdf) Poster presented at the United States Conference on Teaching Statistics, State College, PA.
 
-Lisinker, R.$^\dagger$, Zieffler, A., & Legacy, C. (2023, June). [*Talking in code: Code review as a form of communication.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/files/posters/2023-code-review-poster.pdf) Poster presented at the Research Satellite of the United States Conference on Teaching Statistics, State College, PA.
+Lisinker, R.$^\dagger$, Zieffler, A., & Legacy, C. (2023, June). [*Talking in code: Code review as a form of communication.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/main/files/posters/2023-code-review-poster.pdf) Poster presented at the Research Satellite of the United States Conference on Teaching Statistics, State College, PA.
 
-Lisinker, R.$^\dagger$, Zieffler, A., & Legacy, C. (2023, June). [*Talking in code: Code review as a form of communication.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/files/posters/2023-code-review-poster.pdf) Poster presented at the 13th Annual Satellite Conference of the International Association for Statistical Education, Toronto, Canada.
+Lisinker, R.$^\dagger$, Zieffler, A., & Legacy, C. (2023, June). [*Talking in code: Code review as a form of communication.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/main/files/posters/2023-code-review-poster.pdf) Poster presented at the 13th Annual Satellite Conference of the International Association for Statistical Education, Toronto, Canada.
 
 McNamara, A., Beckman, M., Legacy, C.$^\dagger$, Zieffler, A., delMas, R. C., & Rao, V. N. V.$^\dagger$ (2021, August). *Integrating computation in statistics: Instructional decisions for Teaching R.* Speed presentation at the Joint Statistical Meetings, Seattle, Washington.
 
@@ -80,7 +80,7 @@ Rao, V.$^\dagger$, Legacy, C.$^\dagger$, & Zieffler, A. (2021, June). *Students'
 
 Rowell, G., Kuiper, S., Sturdivant, R., & Zieffler, A. (2021, August). *Can students learn statistics while playing games? A regression example.* Presentation at the Joint Statistical Meetings, Seattle, WA.
 
-Vivas Corrales, P.$^\dagger$, Legacy, C., Le, L., Zieffler, A., & Fry, E. (2023, June). [*Statistics Teaching Inventory: Exploring the alignment of introductory statistics instructors' teaching and assessment practices to professional recommendations.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/files/posters/2023-sti-poster.pdf) Poster presented at the Research Satellite of the United States Conference on Teaching Statistics, State College, PA.
+Vivas Corrales, P.$^\dagger$, Legacy, C., Le, L., Zieffler, A., & Fry, E. (2023, June). [*Statistics Teaching Inventory: Exploring the alignment of introductory statistics instructors' teaching and assessment practices to professional recommendations.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/main/files/posters/2023-sti-poster.pdf) Poster presented at the Research Satellite of the United States Conference on Teaching Statistics, State College, PA.
 
 Zieffler, A., Justice, N., delMas, R., & Huberty, M.$^\dagger$ (2021, April). [*The use of algorithmic models to develop secondary teachers' understanding of the statistical modeling process.*](https://www.causeweb.org/cause/webinar/jsdse/2021-04) Invited presentation for the CAUSE webinar series.
 
