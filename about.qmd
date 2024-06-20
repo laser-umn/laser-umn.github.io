@@ -16,6 +16,10 @@ Descended from the statistics education research of [Joan Garfield](https://en.w
 
 <br />
 
+![](img/laura-le.png){style="float: right;" width="150"}[**Laura Le (Co-Director):**](https://directory.sph.umn.edu/bio/sph-a-z/laura-le) Laura is a Senior Lecturer in the Biostatistics and Health Data Science division within the School of Public Health at the University of Minnesota. Her passion is in statistics education, mainly focusing on applying research to practice in the areas of teaching and curriculum and assessment development/improvement. Outside of work, Laura's interests include coffee, baking, adventures, napping, being active (playing sports, running, hiking), doing puzzles, and reading fiction (mainly historical fiction, young adult).
+
+<br />
+
 ![](img/regina.png){style="float: right;" width="150"}[**Regina Lisinker:**](https://rlisinker.com/) Regina is a PhD student at the University of Minnesota in the Educational Psychology department's Psychological Foundations in Education program. She earned her MA in Educational Psychology through the Quantitative Methods in Education program and her thesis focused on data science undergraduate students' usage of code review resources. Regina started out by getting a BS in Statistics from Cal Poly SLO where she became passionate about teaching and curious to understand how students learn statistics. Her research interests now revolve around student communication within statistics and data science courses (i.e. social interaction in the classroom, communicating with data visualizations, pair programming, etc.).
 
 <br />
