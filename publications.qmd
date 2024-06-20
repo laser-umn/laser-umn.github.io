@@ -36,7 +36,7 @@ Zieffler, A., Justice, N., delMas, R., & Huberty, M.$^\dagger$ (2021). The use o
 ::: hanging-indent
 Baumer, B. S., Horton, N. J., Zieffler, A., & Legacy, C.$^\dagger$ (2021, June). [*Facilitating team-based data science: Lessons learned from the DSC-WAV project.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/main/files/slides/2021-uscots-dsc-wav.pdf) Presentation at the United States Conference on Teaching Statistics, Online.
 
-Beckman, M., Cetinkaya-Rundel, M., Dogucu, M., Dragich, E.$^\dagger$, Legacy, C., Tackett, M., & Zieffler, A. (2022, August). *Piloting a new assessment tool for data science education researchers.* Poster presented at the 18th ACM Conference on International Computing Education Research (ICER '22), Lugano, Switzerland. ACM, New York, NY, USA.
+Beckman, M., Cetinkaya-Rundel, M., Dogucu, M., Dragich, E.$^\dagger$, Legacy, C., Tackett, M., & Zieffler, A. (2022, August). [*Piloting a new assessment tool for data science education researchers.*](https://mdbeckman.github.io/ICER2022/) Poster presented at the 18th ACM Conference on International Computing Education Research (ICER '22), Lugano, Switzerland. ACM, New York, NY, USA.
 
 Brondos Fry, E., Legacy, C. , Zieffler, A., & Le, L. (2020, October). [*The state of computing in introductory statistics.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/main/files/slides/2020-wsds-state-of-computing.pdf) Poster presented at Women in Statistics & Data Science Conference, Pittsburgh, PA, United States.
 
