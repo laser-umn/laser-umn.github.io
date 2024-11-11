@@ -2,6 +2,14 @@
 title: "Photo Gallery"
 ---
 
+**Distinguished Teaching Awards Ceremony 2024**
+
+![](img/andy-award1.png){width="250"}
+
+![](img/andy-award2.png){width="250"}
+
+![](img/andy-award3.png){width="250"}
+
 **USCOTS 2023**
 
 ![](img/uscots-everyone.png){width="233"}
