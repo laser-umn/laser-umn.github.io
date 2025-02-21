@@ -2,6 +2,12 @@
 title: "Photo Gallery"
 ---
 
+**DSE K-12 2025**
+
+![](img/dsek12.png){width="250"}
+
+![](img/regina-dsek12.png){width="250"}
+
 **Distinguished Teaching Awards Ceremony 2024**
 
 ![](img/andy-award1.png){width="250"}
