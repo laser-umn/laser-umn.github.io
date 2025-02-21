@@ -172,7 +172,7 @@
     "href": "conferences.html",
     "title": "Conferences & Workshops",
     "section": "",
-    "text": "Be Above Average: Teaching Introductory Statistics for Deeper Understanding\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFilms, Fruits, and Folklore: Introducing Ideas of Machine Learning to High School Students\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Be Above Average: Teaching Introductory Statistics for Deeper Understanding\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFilms, Fruits, and Folklore: Introducing Ideas of Machine Learning to High School Students\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPromoting Historical Literacy Through Critical Data Science\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications.html",
@@ -215,5 +215,19 @@
     "title": "Films, Fruits, and Folklore: Introducing Ideas of Machine Learning to High School Students",
     "section": "Extensions",
     "text": "Extensions\n\nActivity 6: Recommending Movies— The goal of this activity is to introduce cosine similarity. Students also learn how to use cosine similarity to make movie recommendations based on users’ movie ratings. They also employ the kNN algorithm using cosine similarity rather than Euclidean distance to make classifications.\nActivity 7: Measuring Patient Similarity— The goal of this activity is to introduce similarity measures for binary attributes (simple matching coefficient and Jaccard index). Students will also learn to classify binary attributes as symmetric or asymmetric.\nActivity 8: Building a Zoo — The goal of this activity is to introduce a similarity measure for mixed attributes (i.e., both quantitative and categorical attributes). Students will also learn how to employ the kNN algorithm when the number of observations in potential classes is not equal (i.e., imbalanced classes).\n\nDownload the activities, keys, and data here!"
+  },
+  {
+    "objectID": "sessions/historical-literacy.html#session-description",
+    "href": "sessions/historical-literacy.html#session-description",
+    "title": "Promoting Historical Literacy Through Critical Data Science",
+    "section": "Session Description",
+    "text": "Session Description\nThis workshop introduces participants to a justice-oriented, data science history unit for high school students, part of a nationally-funded project. Workshop attendees will participate as students to engage in a history lesson and interact with [project], an online platform created by our team that integrates CODAP and other tools. The history lesson, led by a veteran high school history teacher, draws inspiration from W.E.B. Du Bois’ pioneering data visualizations and invites students to examine the impact of the Voting Rights Act on U.S. elections, including unpacking the justice visions of historical figures who used data, ways data visualizations were received, and how data speaks to pivotal social issues around systemic, racial inequities. After the lesson, participants will engage in a group discussion about ways to weave data science into historical contexts. Finally, initial findings from a pilot of this unit will be shared. This workshop and materials are based upon work supported by the National Science Foundation under Grant Number 2101413."
+  },
+  {
+    "objectID": "sessions/historical-literacy.html#resources",
+    "href": "sessions/historical-literacy.html#resources",
+    "title": "Promoting Historical Literacy Through Critical Data Science",
+    "section": "Resources",
+    "text": "Resources\nSlides"
   }
 ]

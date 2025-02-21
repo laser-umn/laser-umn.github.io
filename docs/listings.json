@@ -13,7 +13,8 @@
     "listing": "/conferences.html",
     "items": [
       "/sessions/be-above-average.html",
-      "/sessions/knn-classification.html"
+      "/sessions/knn-classification.html",
+      "/sessions/historical-literacy.html"
     ]
   }
 ]
