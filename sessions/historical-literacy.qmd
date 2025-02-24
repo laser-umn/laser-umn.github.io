@@ -1,0 +1,30 @@
+---
+title: "Promoting Historical Literacy Through Critical Data Science"
+subtitle: "DSE K-12 2025"
+editor: source
+---
+
+
+```{r}
+#| echo: false
+#| fig-align: "center"
+#| out-width: "80%"
+knitr::include_graphics("images/dsek12-2025.png")
+```
+
+<br />
+
+## Session Description
+
+This workshop introduces participants to a justice-oriented, data science history unit for high school students, part of a nationally-funded project. Workshop attendees will participate as students to engage in a history lesson and interact with [project], an online platform created by our team that integrates [CODAP](https://codap.concord.org/) and other tools. The history lesson, led by a veteran high school history teacher, draws inspiration from W.E.B. Du Bois’ pioneering data visualizations and invites students to examine the impact of the Voting Rights Act on U.S. elections, including unpacking the justice visions of historical figures who used data, ways data visualizations were received, and how data speaks to pivotal social issues around systemic, racial inequities. After the lesson, participants will engage in a group discussion about ways to weave data science into historical contexts. Finally, initial findings from a pilot of this unit will be shared. This workshop and materials are based upon work supported by the National Science Foundation under Grant Number [2101413](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2101413).
+
+<br />
+
+## Resources
+
+[Slides](z.umn.edu/DataX-slides)
+
+
+
+
+
