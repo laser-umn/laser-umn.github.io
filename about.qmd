@@ -8,37 +8,36 @@ Descended from the statistics education research of [Joan Garfield](https://en.w
 
 ## Current Members
 
-![](img/andy.png){style="float: right;" width="150"} [**Andrew Zieffler (Co-Director):**](https://www.datadreaming.org/) Andy is a Professor of Teaching in the Quantitative Methods in Education program within the Department of Educational Psychology at the University of Minnesota. His area of scholarship, writ large, is statistics education, with his most recent work focused around teacher education, especially related to the introduction of data science into the statistics curriculum. He is also interested in the assessment of statistics and data science content as well as curriculum development. Beyond the classroom, Andy enjoys petting dogs, noodling on the guitar, reading, watching TV, and cross-stitching.
+![](img/andy-oscar.png){style="float: right;" width="300"} [**Andrew Zieffler (Co-Director):**](https://www.datadreaming.org/) Andy is a Professor of Teaching in the Quantitative Methods in Education program within the Department of Educational Psychology at the University of Minnesota. His area of scholarship, writ large, is statistics education, with his most recent work focused around teacher education, especially related to the introduction of data science into the statistics curriculum. He is also interested in the assessment of statistics and data science content as well as curriculum development. Beyond the classroom, Andy enjoys petting dogs, noodling on the guitar, reading, watching TV, and cross-stitching.
 
 <br />
 
-![](img/LegacyC2019.png){style="float: right;" width="150"}[**Chelsey Legacy (Co-Director):**](https://calegacy.github.io/) Chelsey is an Assistant Professor of Teaching at UMN in the Quantitative Methods in Education program within Educational Psychology. Her research interests include statistics and data science education generally, and more specifically students experience coding, understanding of data visualizations, curriculum development, and assessment. In her free time, Chelsey enjoys browsing for books at the local library and then going to get ice cream.
+![](img/chelsey-bert.png){style="float: right;" width="300"}[**Chelsey Legacy (Co-Director):**](https://calegacy.github.io/) Chelsey is an Assistant Professor of Teaching at UMN in the Quantitative Methods in Education program within Educational Psychology. Her research interests include statistics and data science education generally, and more specifically students experience coding, understanding of data visualizations, curriculum development, and assessment. In her free time, Chelsey enjoys browsing for books at the local library and then going to get ice cream.
 
 <br />
 
-![](img/laura-le.png){style="float: right;" width="150"}[**Laura Le (Co-Director):**](https://directory.sph.umn.edu/bio/sph-a-z/laura-le) Laura is a Senior Lecturer in the Biostatistics and Health Data Science division within the School of Public Health at the University of Minnesota. Her passion is in statistics education, mainly focusing on applying research to practice in the areas of teaching and curriculum and assessment development/improvement. Outside of work, Laura's interests include coffee, baking, adventures, napping, being active (playing sports, running, hiking), doing puzzles, and reading fiction (mainly historical fiction, young adult).
+![](img/laura-elmo.png){style="float: right;" width="300"}[**Laura Le (Co-Director):**](https://directory.sph.umn.edu/bio/sph-a-z/laura-le) Laura is a Senior Lecturer in the Biostatistics and Health Data Science division within the School of Public Health at the University of Minnesota. Her passion is in statistics education, mainly focusing on applying research to practice in the areas of teaching and curriculum and assessment development/improvement. Outside of work, Laura's interests include coffee, baking, adventures, napping, being active (playing sports, running, hiking), doing puzzles, and reading fiction (mainly historical fiction, young adult).
 
 <br />
 
-![](img/regina.png){style="float: right;" width="150"}[**Regina Lisinker:**](https://rlisinker.com/) Regina is a PhD student at the University of Minnesota in the Educational Psychology department's Psychological Foundations in Education program. She earned her MA in Educational Psychology through the Quantitative Methods in Education program and her thesis focused on data science undergraduate students' usage of code review resources. Regina started out by getting a BS in Statistics from Cal Poly SLO where she became passionate about teaching and curious to understand how students learn statistics. Her research interests now revolve around student communication within statistics and data science courses (i.e. social interaction in the classroom, communicating with data visualizations, pair programming, etc.).
+![](img/regina-abby.png){style="float: right;" width="300"}[**Regina Lisinker:**](https://rlisinker.com/) Regina is a PhD student at the University of Minnesota in the Educational Psychology department's Psychological Foundations in Education program. She earned her MA in Educational Psychology through the Quantitative Methods in Education program and her thesis focused on data science undergraduate students' usage of code review resources. Regina started out by getting a BS in Statistics from Cal Poly SLO where she became passionate about teaching and curious to understand how students learn statistics. Her research interests now revolve around student communication within statistics and data science courses (i.e. social interaction in the classroom, communicating with data visualizations, pair programming, etc.).
 
 <br />
 
-![](img/pablo.png){style="float: right;" width="150"}[**Pablo Vivas Corrales:**](https://vivas014.github.io/personal-website/) Pablo is a Costa Rican statistics educator, dedicated to the creation, development, evaluation, and integration of research, resources, and community of the Statistics Education field in the Latin America region. His research primarily focuses on the teaching and learning process of Statistics in postsecondary education, the role of measurement in Statistics Education, and how students and educators most effectively learn and communicate statistical information through text.
+![](img/pablo-cookie.png){style="float: right;" width="300"}[**Pablo Vivas Corrales:**](https://vivas014.github.io/personal-website/) Pablo is a Costa Rican statistics educator, dedicated to the creation, development, evaluation, and integration of research, resources, and community of the Statistics Education field in the Latin America region. His research primarily focuses on the teaching and learning process of Statistics in postsecondary education, the role of measurement in Statistics Education, and how students and educators most effectively learn and communicate statistical information through text.
 
 <br />
-
 
 ## Alumni Members
 
-- [Vimal Rao](https://raovnv.github.io/index.html) (c. 2019--2023)
-- [Jonathan Brown](https://survey.umn.edu/about-us/staff-directory/jonathan-brown) (c. 2015--2021)
-- [Ethan Brown](https://www.researchgate.net/profile/Ethan-Brown-23) (c. 2012--2019)
-- [Elizabeth Fry](https://www.linkedin.com/in/ebfry/) (c. 2011--2018)
-- [Nicola Justice](https://sites.google.com/plu.edu/njustice/home) (c. 2012--2017)
-- [Anelise Sabbag](https://statistics.calpoly.edu/anelise-sabbag) (c. 2011--2016)
-- [Matt Beckman](https://mdbeckman.github.io/) (c. 2008--2015)
-- [Laura Ziegler](https://www.stat.iastate.edu/people/laura-ziegler) (c. 2010--2014)
-- [Audbjorg Bjornsdottir](https://www.linkedin.com/in/audbjorg-bjornsdottir-80398814/) (c. 2008--2012)
-- [Jiyoon Park](https://www.linkedin.com/in/jiyoon-park-07119559/) (c. 2007--2012)
-- [Sharon Lane-Getaz](https://www.linkedin.com/in/sharon-lane-getaz-8837869/) (c. 2003--2007)
+-   [Vimal Rao](https://raovnv.github.io/index.html) (c. 2019--2023)
+-   [Jonathan Brown](https://survey.umn.edu/about-us/staff-directory/jonathan-brown) (c. 2015--2021)
+-   [Ethan Brown](https://www.researchgate.net/profile/Ethan-Brown-23) (c. 2012--2019)
+-   [Elizabeth Fry](https://www.linkedin.com/in/ebfry/) (c. 2011--2018)
+-   [Nicola Justice](https://sites.google.com/plu.edu/njustice/home) (c. 2012--2017)
+-   [Anelise Sabbag](https://statistics.calpoly.edu/anelise-sabbag) (c. 2011--2016)
+-   [Matt Beckman](https://mdbeckman.github.io/) (c. 2008--2015)
+-   [Laura Ziegler](https://www.stat.iastate.edu/people/laura-ziegler) (c. 2010--2014)
+-   [Audbjorg Bjornsdottir](https://www.linkedin.com/in/audbjorg-bjornsdottir-80398814/) (c. 2008--2012)
+-   [Jiyoon Park](https://www.linkedin.com/in/jiyoon-park-07119559/) (c. 2007--2012)
+-   [Sharon Lane-Getaz](https://www.linkedin.com/in/sharon-lane-getaz-8837869/) (c. 2003--2007)
