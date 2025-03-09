@@ -1,6 +1,6 @@
 ---
 title: "Promoting Historical Literacy Through Critical Data Science"
-subtitle: "DSE K-12 2025"
+description: "DSE K-12 2025"
 editor: source
 ---
 
