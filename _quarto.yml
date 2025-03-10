@@ -15,6 +15,8 @@ website:
       - href: conferences.qmd
         text: "Conferences & Workshops"
       - publications.qmd
+      - href: materials.qmd
+        text: "Materials"
       - photo-gallery.qmd
     right:
       - about.qmd

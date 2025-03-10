@@ -1,0 +1,78 @@
+---
+title: "Materials"
+---
+
+## AIMS Materials
+
+This [NSF-funded project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=0535912&HistoricalAwards=false) (2006--2009) developed a sequence of activities aligned with the [2005 Guidelines for Assessment and Instruction in Statistics Education (GAISE)](https://www.amstat.org/docs/default-source/amstat-documents/2005gaisecollege_full.pdf). The materials are based on instructional design principles from cognitive science and mathematics education (see Cobb & McClain, 2004), and engage students in small and large group discussion, computer explorations, and hands-on activities. They cover:
+
+ - Data
+ - Models and Modeling
+ - Distribution
+ - Center
+ - Variability
+ - Comparing Groups
+ - Samples and Sampling
+ - Inference
+ - Covariation
+
+Each topic has a set of lesson plans, student activities, annotated student handouts with sample student responses to selected questions, and data sets. In addition, there is a suggested sequence of activities based on the research literature (see Garfield and Ben-Zvi, 2008 for more details).
+
+
+
+
+[Download ZIP of all AIMS Materials.]
+
+
+<br />
+
+
+## CATALST Materials
+
+This [NSF-funded project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=0814433&HistoricalAwards=false) (2008--2012) developed a sequence of activities designed to help students understand the overall process of statistical investigations by connecting elements of study design, probability, and statistical inference. This curriculum uses simulation-based inference (rather than standard parametric tests) within a pedagogically-based, highly visual software to develop students’ statistical reasoning and thinking. Based on principles of educational and cognition research, the activities focus on:
+
+- Unit 1: Modeling and Simulation
+- Unit 2: Modeling Samping Variation
+- Unit 3: Experimental Variation and the Randomization Test
+- Unit 4: Sampling Variation and the Bootstrap Test
+- Unit 5: Estimating Uncertainty
+
+These materials include:
+
+- A [Lab Manual](https://github.com/zief0002/statistical-thinking/blob/main/statistical-thinking-v4_5.pdf?raw=true) of student activities
+- ZIP file of the [data sets](https://github.com/zief0002/statistical-thinking/blob/main/tp3-data.zip?raw=true) (for use with [TinkerPlots 3](http://www.tinkerplots.com/) software), and
+- A freely accessible [online textbook](https://zief0002.github.io/statistical-thinking/)
+
+<br />
+
+
+## Open Education Materials
+
+- [An Introduction to Data Analysis](https://zief0002.github.io/epsy-5261/): This textbook (used in EPSY 5261, an introductory statistics course at the University of Minnesota)  is designed to engage students in statistics as a principled approach to data collection, prediction, and scientific inference. It covers:
+
+  + Introduction to statistical computation in R
+  + Summarizing and visualizing data
+  + Hypothesis testing (one and two sample)
+  + Effect Size
+  + Correlation and Regression
+
+- [Statistical Modeling and Computation for Educational Scientists](https://zief0002.github.io/modeling/): The textbook (used in EPSY 8251,  an applied course in statistical methods at the University of Minnesota) focuses on using the General Linear Model (GLM) to provide statistical evidence that can help answer substantive questions in the educational and social sciences. It is a book intended for applied practitioners in the educational or social sciences. The statistical content is hopefully presented in a manner that these domain scientists will find useful, including practical suggestions for analysis and the presentation of results intended to help researchers clearly communicate the results of a data analysis. Topics include:
+
+  + Introduction to Statistical Computing
+  + Introduction to Regression
+  + Regression Inference
+  + Multiple Regression 
+  + Categorical Predictors
+  + Interaction Effects
+
+
+
+<br />
+
+
+## References
+
+Cobb & McClain, 2004
+
+Garfield and Ben-Zvi, 2008
+
