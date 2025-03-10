@@ -1,5 +1,40 @@
 [
   {
+    "objectID": "materials.html",
+    "href": "materials.html",
+    "title": "Materials",
+    "section": "",
+    "text": "This NSF-funded project (2006–2009) developed a sequence of activities aligned with the 2005 Guidelines for Assessment and Instruction in Statistics Education (GAISE). The materials are based on instructional design principles from cognitive science and mathematics education (see Cobb & McClain, 2004), and engage students in small and large group discussion, computer explorations, and hands-on activities. They cover:\n\nData\nModels and Modeling\nDistribution\nCenter\nVariability\nComparing Groups\nSamples and Sampling\nInference\nCovariation\n\nEach topic has a set of lesson plans, student activities, annotated student handouts with sample student responses to selected questions, and data sets. In addition, there is a suggested sequence of activities based on the research literature (see Garfield and Ben-Zvi, 2008 for more details).\n[Download ZIP of all AIMS Materials.]"
+  },
+  {
+    "objectID": "materials.html#aims-materials",
+    "href": "materials.html#aims-materials",
+    "title": "Materials",
+    "section": "",
+    "text": "This NSF-funded project (2006–2009) developed a sequence of activities aligned with the 2005 Guidelines for Assessment and Instruction in Statistics Education (GAISE). The materials are based on instructional design principles from cognitive science and mathematics education (see Cobb & McClain, 2004), and engage students in small and large group discussion, computer explorations, and hands-on activities. They cover:\n\nData\nModels and Modeling\nDistribution\nCenter\nVariability\nComparing Groups\nSamples and Sampling\nInference\nCovariation\n\nEach topic has a set of lesson plans, student activities, annotated student handouts with sample student responses to selected questions, and data sets. In addition, there is a suggested sequence of activities based on the research literature (see Garfield and Ben-Zvi, 2008 for more details).\n[Download ZIP of all AIMS Materials.]"
+  },
+  {
+    "objectID": "materials.html#catalst-materials",
+    "href": "materials.html#catalst-materials",
+    "title": "Materials",
+    "section": "CATALST Materials",
+    "text": "CATALST Materials\nThis NSF-funded project (2008–2012) developed a sequence of activities designed to help students understand the overall process of statistical investigations by connecting elements of study design, probability, and statistical inference. This curriculum uses simulation-based inference (rather than standard parametric tests) within a pedagogically-based, highly visual software to develop students’ statistical reasoning and thinking. Based on principles of educational and cognition research, the activities focus on:\n\nUnit 1: Modeling and Simulation\nUnit 2: Modeling Samping Variation\nUnit 3: Experimental Variation and the Randomization Test\nUnit 4: Sampling Variation and the Bootstrap Test\nUnit 5: Estimating Uncertainty\n\nThese materials include:\n\nA Lab Manual of student activities\nZIP file of the data sets (for use with TinkerPlots 3 software), and\nA freely accessible online textbook"
+  },
+  {
+    "objectID": "materials.html#open-education-materials",
+    "href": "materials.html#open-education-materials",
+    "title": "Materials",
+    "section": "Open Education Materials",
+    "text": "Open Education Materials\n\nAn Introduction to Data Analysis: This textbook (used in EPSY 5261, an introductory statistics course at the University of Minnesota) is designed to engage students in statistics as a principled approach to data collection, prediction, and scientific inference. It covers:\n\nIntroduction to statistical computation in R\nSummarizing and visualizing data\nHypothesis testing (one and two sample)\nEffect Size\nCorrelation and Regression\n\nStatistical Modeling and Computation for Educational Scientists: The textbook (used in EPSY 8251, an applied course in statistical methods at the University of Minnesota) focuses on using the General Linear Model (GLM) to provide statistical evidence that can help answer substantive questions in the educational and social sciences. It is a book intended for applied practitioners in the educational or social sciences. The statistical content is hopefully presented in a manner that these domain scientists will find useful, including practical suggestions for analysis and the presentation of results intended to help researchers clearly communicate the results of a data analysis. Topics include:\n\nIntroduction to Statistical Computing\nIntroduction to Regression\nRegression Inference\nMultiple Regression\nCategorical Predictors\nInteraction Effects"
+  },
+  {
+    "objectID": "materials.html#references",
+    "href": "materials.html#references",
+    "title": "Materials",
+    "section": "References",
+    "text": "References\n\nCobb, P., & McClain, K. (2004). Principles of instructional design for supporting the development of students’ statistical reasoning. In D. Ben-Zvi & J. Garfield (Eds.), The challenge of developing statistical literacy, reasoning, and thinking (pp. 375–396). Dordrecht, Kluwer Academic Publishers. https://doi.org/10.1007/1-4020-2278-6_16\n\n\nGarfield, J., & Ben-Zvi, D. (2008). Developing students’ statistical reasoning: Connecting research and teaching practice. Springer. https://doi.org/10.1007/978-1-4020-8383-9"
+  },
+  {
     "objectID": "sessions/be-above-average.html#session-description",
     "href": "sessions/be-above-average.html#session-description",
     "title": "Be Above Average: Teaching Introductory Statistics for Deeper Understanding",
@@ -229,40 +264,5 @@
     "title": "Promoting Historical Literacy Through Critical Data Science",
     "section": "Resources",
     "text": "Resources\nSlides"
-  },
-  {
-    "objectID": "materials.html",
-    "href": "materials.html",
-    "title": "Materials",
-    "section": "",
-    "text": "This NSF-funded project (2006–2009) developed a sequence of activities aligned with the 2005 Guidelines for Assessment and Instruction in Statistics Education (GAISE). The materials are based on instructional design principles from cognitive science and mathematics education (see Cobb & McClain, 2004), and engage students in small and large group discussion, computer explorations, and hands-on activities. They cover:\n\nData\nModels and Modeling\nDistribution\nCenter\nVariability\nComparing Groups\nSamples and Sampling\nInference\nCovariation\n\nEach topic has a set of lesson plans, student activities, annotated student handouts with sample student responses to selected questions, and data sets. In addition, there is a suggested sequence of activities based on the research literature (see Garfield and Ben-Zvi, 2008 for more details).\n[Download ZIP of all AIMS Materials.]"
-  },
-  {
-    "objectID": "materials.html#aims-materials",
-    "href": "materials.html#aims-materials",
-    "title": "Materials",
-    "section": "",
-    "text": "This NSF-funded project (2006–2009) developed a sequence of activities aligned with the 2005 Guidelines for Assessment and Instruction in Statistics Education (GAISE). The materials are based on instructional design principles from cognitive science and mathematics education (see Cobb & McClain, 2004), and engage students in small and large group discussion, computer explorations, and hands-on activities. They cover:\n\nData\nModels and Modeling\nDistribution\nCenter\nVariability\nComparing Groups\nSamples and Sampling\nInference\nCovariation\n\nEach topic has a set of lesson plans, student activities, annotated student handouts with sample student responses to selected questions, and data sets. In addition, there is a suggested sequence of activities based on the research literature (see Garfield and Ben-Zvi, 2008 for more details).\n[Download ZIP of all AIMS Materials.]"
-  },
-  {
-    "objectID": "materials.html#catalst-materials",
-    "href": "materials.html#catalst-materials",
-    "title": "Materials",
-    "section": "CATALST Materials",
-    "text": "CATALST Materials\nThis NSF-funded project (2008–2012) developed a sequence of activities designed to help students understand the overall process of statistical investigations by connecting elements of study design, probability, and statistical inference. This curriculum uses simulation-based inference (rather than standard parametric tests) within a pedagogically-based, highly visual software to develop students’ statistical reasoning and thinking. Based on principles of educational and cognition research, the activities focus on:\n\nUnit 1: Modeling and Simulation\nUnit 2: Modeling Samping Variation\nUnit 3: Experimental Variation and the Randomization Test\nUnit 4: Sampling Variation and the Bootstrap Test\nUnit 5: Estimating Uncertainty\n\nThese materials include:\n\nA Lab Manual of student activities\nZIP file of the data sets (for use with TinkerPlots 3 software), and\nA freely accessible online textbook"
-  },
-  {
-    "objectID": "materials.html#references",
-    "href": "materials.html#references",
-    "title": "Materials",
-    "section": "References",
-    "text": "References\nCobb & McClain, 2004\nGarfield and Ben-Zvi, 2008"
-  },
-  {
-    "objectID": "materials.html#open-education-materials",
-    "href": "materials.html#open-education-materials",
-    "title": "Materials",
-    "section": "Open Education Materials",
-    "text": "Open Education Materials\n\nAn Introduction to Data Analysis: This textbook (used in EPSY 5261, an introductory statistics course at the University of Minnesota) is designed to engage students in statistics as a principled approach to data collection, prediction, and scientific inference. It covers:\n\nIntroduction to statistical computation in R\nSummarizing and visualizing data\nHypothesis testing (one and two sample)\nEffect Size\nCorrelation and Regression\n\nStatistical Modeling and Computation for Educational Scientists: The textbook (used in EPSY 8251, an applied course in statistical methods at the University of Minnesota) focuses on using the General Linear Model (GLM) to provide statistical evidence that can help answer substantive questions in the educational and social sciences. It is a book intended for applied practitioners in the educational or social sciences. The statistical content is hopefully presented in a manner that these domain scientists will find useful, including practical suggestions for analysis and the presentation of results intended to help researchers clearly communicate the results of a data analysis. Topics include:\n\nIntroduction to Statistical Computing\nIntroduction to Regression\nRegression Inference\nMultiple Regression\nCategorical Predictors\nInteraction Effects"
   }
 ]
