@@ -21,7 +21,7 @@ Each topic has a set of lesson plans, student activities, annotated student hand
 
 
 
-[Download ZIP of all AIMS Materials.]
+[[Download ZIP of all AIMS Materials.]](https://github.com/zief0002/aims/archive/refs/heads/main.zip)
 
 
 <br />
