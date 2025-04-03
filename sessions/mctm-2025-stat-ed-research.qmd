@@ -1,0 +1,139 @@
+---
+title: "Inform Your Teaching with Statistics Education Research"
+description: "MCTM 2025"
+---
+
+![](images/mctm-stat-ed-2025.png)
+
+<br />
+
+## Session Description
+
+An overview of statistics education research including historical and current perspectives and findings. Get information about the primary journals, conferences, and resources. And, learn how this work can inform your teaching.
+
+<br />
+
+
+## Slides
+
+```{=html}
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTkVsZysFTnO6vLLp0lmoX8whe-50EnffBhix7YlRnTgZaYt-tUb5_hHZIqqdLCri87mFh_UFci6kp4/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+```
+
+<br />
+
+
+## Suggestions for Teachers
+
+
+- View the primary goal of your instruction as discovery and application of concepts
+  + This takes more time than simply teaching calculations
+  + Focus on core concepts:
+    * Data, Variation, Distribution, Comparing Distributions, Samples and Sampling, Inference, Covariation
+- Use carefully developed activities to promote student reasoning
+  + Create activities around statistical investigative questions questions that require data/context to answer
+  + Avoid activities that lead students step-by-step through a list of procedures. Instead, use activities that allow students to discuss and think about the data and the problem.
+  + Have students make conjectures and then implement technology to test those conjectures
+- Build on students’ intuitive notions
+  + Research has found a spectrum of students’ conceptions about statistical content
+  + Students will be in transition from their colloquial understanding to more statistical understandings
+- Integrate active learning
+  + Engage students in collaboration, interaction, discussion
+  + Instructors might need to facilitate this process with guided practice
+
+<br />
+
+
+## Suggested Reading List (in alphabetical order by author)
+
+
+- Arnold, P., &amp; Franklin, C. (2021). What makes a good statistical question? *Journal of Statistics and Data Science Education, 29*(1), 122--130. <https://doi.org/10.1080/26939169.2021.1877582> [OPEN ACCESS]
+
+<div style="margin-left: 50px;margin-bottom: 25px; font-size: smaller;">**Abstract:** The statistical problem-solving process is key to the statistics curriculum at the school level, post-secondary, and in statistical practice. The process has four main components: formulate questions, collect data, analyze data, and interpret results. The Pre-K-12 Guidelines for Assessment and Instruction in Statistics Education (GAISE) emphasizes the importance of distinguishing between a question that anticipates a deterministic answer and a question that anticipates an answer based on data that will vary, referred to as a statistical question. This article expands upon the Pre-K-12 GAISE distinction of a statistical question by addressing and identifying the different types of statistical questions used across the four components of the statistical problem-solving process and the importance of interrogating these different statistical question types. Since the publication of the original Pre-K-12 GAISE document, research has helped to clarify the purposes of questioning at each component of the process, to clarify the language of questioning, and to develop criteria for answering the question, "What makes a good statistical question?"</div>
+
+- Bargagliotti, A. (2020). *[Pre-K-12 guidelines for assessment and instruction in statistics education II (GAISE II)](https://www.amstat.org/asa/files/pdfs/GAISE/GAISEIIPreK-12_Full.pdf)* (2nd ed.). American Statistical Association. [OPEN ACCESS]
+
+<div style="margin-left: 50px;margin-bottom: 25px; font-size: smaller;">**Abstract:** GAISE II presents a vision where every individual is confident in reasoning statistically, making sense of data, and knowing how and when to bring a healthy skepticism to information gleaned from data. Presented here is a framework of essential concepts and 22 examples across the three levels of skills development. This framework supports all students as they learn to appreciate the vital role of statistical reasoning and data science and acquire the essential life skill of data literacy.</div>
+
+- Batanero, C., &amp; Álvarez-Arroyo, R. (2024). Teaching and learning of probability. *ZDM Mathematics Education 56*, 5--17. <https://doi.org/10.1007/s11858-023-01511-5> [OPEN ACCESS]
+
+<div style="margin-left: 50px;margin-bottom: 25px; font-size: smaller;">**Abstract:** In this paper, we develop a personal synthesis of the most outstanding research on the teaching and learning of probability in the past years. We conducted a systematic search to examine publications on this topic in mathematics education, statistics education, education, and psychology journals. This exploration was complemented by additional studies published in conference proceedings or books. We classified these papers to highlight the main recent research tendencies in the field, according to the theme studied and considering the research objectives. Epistemological analyses suggest that informal inference based on simulation diminishes the topic abstraction but reduces probability to its frequentist view. Topics receiving particular attention include children’s probabilistic knowledge, the effect of visualizations on solving conditional probability problems, teachers’ education and probability modelling. In the final section, we recommend relevant points in which more investigation is needed to complete our knowledge about teaching and learning. In particular, we miss research on teachers’ mathematical knowledge of many probability concepts and on their didactic knowledge.</div>
+
+- Erickson, T., Wilkerson, M., Finzer, W., &amp; Reichsman, F. (2019) Data moves. *Technology Innovations in Statistics Education, 12*(1). <https://doi.org/10.5070/T5121038001>
+
+<div style="margin-left: 50px;margin-bottom: 25px; font-size: smaller;">**Abstract:** When experienced analysts explore data in a rich environment, they often transform the dataset. For example, they may choose to group or filter data, calculate new variables and summary measures, or reorganize a dataset by changing its structure or merging it with other information. Such actions background, highlight, or even fundamentally change particular features of the data, allowing different types of questions to be explored. We call these actions data moves. In this paper, we argue that paying explicit attention to data moves, as well as their purposes and consequences, is necessary for educators to support student learning about data. This is especially needed in an era when students are expected to develop critical literacy around data and engage in purposeful, self-directed exploration of large and often complex datasets.</div>
+
+
+- Garfield, J. (1995). How students learn statistics. *International Statistical Review, 6*3(1), 25--34. <https://doi.org/10.2307/1403775> [Available [here](https://iase-web.org/documents/intstatreview/95.Garfield.pdf)]
+
+
+<div style="margin-left: 50px;margin-bottom: 25px; font-size: smaller;">**Abstract:** Research in the areas of psychology, statistical education, and mathematics education is reviewed and the results applied to the teaching of college-level statistics courses. The argument is made that statistics educators need to determine what it is they really want students to learn, to modify their teaching according to suggestions from the research literature, and to use assessment to determine if their teaching is effective and if students are developing statistical understanding and competence.</div>
+
+- Konold, C. &amp; Harradine, A. (2014). Contexts for highlighting signal and noise. In T. Wassong, D. Frischemeier, P. R. Fischer, R. Hochmuth, &amp; P. Bender (Eds.), *Mit werkzeugen mathematik und stochastik lernen: Using tools for learning mathematics and statistics* (pp. 237--250). Springer. [Available [here](https://srri.umass.edu/node/621/#attachments)]
+
+<div style="margin-left: 50px;margin-bottom: 25px; font-size: smaller;">**Abstract:** During the past several years, we have conducted a number of instructional interventions with students aged 12--14 with the objective of helping students develop a foundation for statistical thinking, including the making of informal inferences from data. Central to this work has been the consideration of how different types of data influence the relative difficulty of viewing data from a statistical perspective. We claim that the data most students encounter in introductions to data analysis—data that come from different individuals—are in fact among the hardest type of data to view from a statistical perspective. In the activities we have been researching, data result from either repeated measurements or a repeatable production process, contexts which we claim make it relatively easier for students to view the data as an aggregate with signal-and-noise components.</div>
+
+Wild, C. J., &amp; Pfannkuch, M. (1999). Statistical thinking in empirical enquiry. *International Statistical Review, 67*(3), 223--248. <https://doi.org/10.1111/j.1751-5823.1999.tb00442.x> [Available [here](http://www.filogenetica.org/bibliografia/morfometria/escalas/Wild&Pfannkuch-1999-statistical.pdf)]
+
+<div style="margin-left: 50px;margin-bottom: 25px; font-size: smaller;">**Abstract:** This paper discusses the thought processes involved in statistical problem solving in the broad sense from problem formulation to conclusions. It draws on the literature and in-depth interviews with statistics students and practising statisticians aimed at uncovering their statistical reasoning processes. From these interviews, a four-dimensional framework has been identified for statistical thinking in empirical enquiry. It includes an investigative cycle, an interrogative cycle, types of thinking and dispositions. We have begun to characterise these processes through models that can be used as a basis for thinking tools or frameworks for the enhancement of problem-solving. Tools of this form would complement the mathematical models used in analysis and address areas of the process of statistical investigation that the mathematical models do not, particularly areas requiring the synthesis of problem-contextual and statistical understanding. The central element of published definitions of statistical thinking is "variation". We further discuss the role of variation in the statistical conception of real-world problems, including the search for causes.</div>
+
+
+<br />
+
+
+## Resources, Journals, Books, and Conferences for Statistics Education Resources and Research
+
+**Resources**
+
+- [Statistics Teaching and Learning Corner (StatTLC)](https://stattlc.com) --- A community blog sharing ideas about teaching and learning in - statistics
+- [Ask Good Questions Blog](https://askgoodquestions.blog/) --- A blog about teaching introductory statistics
+- [Dear Data](http://www.dear-data.com/theproject) –-- Year-long, analog data drawing project by Giorgia Lupi and Stefanie Posavec; good inspiration for getting - students started with thinking about data
+- [Dear Data 2](http://www.dear-data-two.com/) --- Jeffrey Shaffer and Andy Kriebel replicated this with their own visualizations
+- [Skew the Script](https://skewthescript.org/) --- Lessons for teaching content in A.P. Statistics relevant to students
+- [Slow Reveal Graphs](https://slowrevealgraphs.com/) --- Promotes sensemaking about data
+- [What's Going On in This Graph?](https://www.nytimes.com/column/whats-going-on-in-this-graph?emc=edit_ln_20171109&nl=learning-network&nlid=52022771&te=1) --- NY Times learning resources for graph literacy
+- [YouCubed Data Talks](https://www.youcubed.org/resource/data-talks/) --- 5-10 minute classroom discussions to help students develop data literacy
+
+
+**Statistics Education Web Hubs**
+
+- [International Association for Statistical Education](http://iase-web.org/) --- IASE seeks to promote, support and improve statistical education at all levels everywhere around the world.
+- [Consortium for the Advancement of Undergraduate Statistics Education](https://causeweb.org/cause/) --- A national organization whose mission is to support the advancement of undergraduate statistics education.
+
+
+**Research-Oriented Journals**
+
+- [Journal of Statistics and Data Science Education](https://www.tandfonline.com/journals/ujse21) [Open-Access; previously *Journal of Statistics Education*]
+- [Statistics Education Research Journal](https://iase-web.org/ojs/SERJ) [Open-Access]
+- [Technology Innovations in Statistics Education](https://escholarship.org/uc/uclastat_cts_tise) [Open-Access]
+
+
+**Practitioner/Teaching-Oriented Journals**
+
+- [Teaching Statistics](https://onlinelibrary.wiley.com/journal/14679639)
+- [Statistics Teacher](https://www.statisticsteacher.org/) [Open-Access]
+- [The American Statistician](https://www.tandfonline.com/journals/utas20)
+
+
+**Books on Learning and Assessment [All are Open-Access]**
+
+- National Research Council. (1999). *How people learn: Bridging research and practice.* Washington, DC: The National Academies Press. <https://doi.org/10.17226/9457>
+- National Academies of Sciences, Engineering, and Medicine. (2018). *How people learn II: Learners, contexts, and cultures.* Washington, DC: The National Academies Press. <https://doi.org/10.17226/24783>
+- National Research Council. (2005).* How students learn: History, mathematics, and science in the classroom.* Washington, DC: The National Academies Press. <https://doi.org/10.17226/10126>
+- National Research Council. (2001). *Knowing what students know: The science and design of educational assessment.* Washington, DC: The National Academies Press. <https://doi.org/10.17226/10019>
+
+
+**Books to Connect Research and Statistics Teaching**
+
+- Batanero, C., Burrill, G., &amp; Reading, C. (Eds.) (2011). *Teaching statistics in school mathematics---Challenges for teaching and teacher education: A Joint ICMI/IASE Study: The 18th ICMI Study. Springer. <https://doi.org/10.1007/978-94-007-1131-0>
+- Ben-Zvi, D., Makar, K., &amp; Garfield, J. (Eds.) (2018). International handbook of research in statistics education. Springer. <https://doi.org/10.1007/978-3-319-66195-7>
+- Garfield, J., &amp; Ben-Zvi, D. (2008). *Developing students' statistical reasoning: Connecting research and teaching practice.* Springer. <https://doi.org/10.1007/978-1-4020-8383-9>
+
+
+**Conferences**
+
+- [United States Conference on Teaching Statistics](https://www.causeweb.org/cause/uscots/uscots25) [July 17--19, 2025 in Ames, Iowa]
+- [International Conference on Teaching Statistics](https://communities.isi-web.org/event-icots12) [July 12--17, 2026 in  Brisbane, Australia]
+
+
+
