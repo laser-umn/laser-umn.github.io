@@ -81,7 +81,7 @@ Wild, C. J., &amp; Pfannkuch, M. (1999). Statistical thinking in empirical enqui
 <br />
 
 
-## Resources, Journals, Books, and Conferences for Statistics Education Resources and Research
+## Resources
 
 **Resources**
 
@@ -101,6 +101,11 @@ Wild, C. J., &amp; Pfannkuch, M. (1999). Statistical thinking in empirical enqui
 - [Consortium for the Advancement of Undergraduate Statistics Education](https://causeweb.org/cause/) --- A national organization whose mission is to support the advancement of undergraduate statistics education.
 
 
+<br />
+
+
+## Journals
+
 **Research-Oriented Journals**
 
 - [Journal of Statistics and Data Science Education](https://www.tandfonline.com/journals/ujse21) [Open-Access; previously *Journal of Statistics Education*]
@@ -115,22 +120,95 @@ Wild, C. J., &amp; Pfannkuch, M. (1999). Statistical thinking in empirical enqui
 - [The American Statistician](https://www.tandfonline.com/journals/utas20)
 
 
+<br />
+
+
+## Books
+
+
 **Books on Learning and Assessment [All are Open-Access]**
 
 - National Research Council. (1999). *How people learn: Bridging research and practice.* Washington, DC: The National Academies Press. <https://doi.org/10.17226/9457>
+
+<div style="margin-left: 50px;margin-bottom: 25px; font-size: smaller;">**Abstract:** 
+
+How People Learn: Bridging Research and Practice provides a broad overview of research on learners and learning and on teachers and teaching. It expands on the 1999 National Research Council publication How People Learn: Brain, Mind, Experience, and School, Expanded Edition that analyzed the science of learning in infants, educators, experts, and more. In How People Learn: Bridging Research and Practice, the Committee on Learning Research and Educational Practice asks how the insights from research can be incorporated into classroom practice and suggests a research and development agenda that would inform and stimulate the required change.
+
+The committee identifies teachers, or classroom practitioners, as the key to change, while acknowledging that change at the classroom level is significantly impacted by overarching public policies. How People Learn: Bridging Research and Practice highlights three key findings about how students gain and retain knowledge and discusses the implications of these findings for teaching and teacher preparation. The highlighted principles of learning are applicable to teacher education and professional development programs as well as to K-12 education. The research-based messages found in this book are clear and directly relevant to classroom practice. It is a useful guide for teachers, administrators, researchers, curriculum specialists, and educational policy makers.
+</div>
+
+
 - National Academies of Sciences, Engineering, and Medicine. (2018). *How people learn II: Learners, contexts, and cultures.* Washington, DC: The National Academies Press. <https://doi.org/10.17226/24783>
+
+<div style="margin-left: 50px;margin-bottom: 25px; font-size: smaller;">**Abstract:** 
+
+There are many reasons to be curious about the way people learn, and the past several decades have seen an explosion of research that has important implications for individual learning, schooling, workforce training, and policy.
+
+In 2000, How People Learn: Brain, Mind, Experience, and School: Expanded Edition was published and its influence has been wide and deep. The report summarized insights on the nature of learning in school-aged children; described principles for the design of effective learning environments; and provided examples of how that could be implemented in the classroom.
+
+Since then, researchers have continued to investigate the nature of learning and have generated new findings related to the neurological processes involved in learning, individual and cultural variability related to learning, and educational technologies. In addition to expanding scientific understanding of the mechanisms of learning and how the brain adapts throughout the lifespan, there have been important discoveries about influences on learning, particularly sociocultural factors and the structure of learning environments.
+
+How People Learn II: Learners, Contexts, and Cultures provides a much-needed update incorporating insights gained from this research over the past decade. The book expands on the foundation laid out in the 2000 report and takes an in-depth look at the constellation of influences that affect individual learning. How People Learn II will become an indispensable resource to understand learning throughout the lifespan for educators of students and adults.
+</div>
+
 - National Research Council. (2005).* How students learn: History, mathematics, and science in the classroom.* Washington, DC: The National Academies Press. <https://doi.org/10.17226/10126>
+
+<div style="margin-left: 50px;margin-bottom: 25px; font-size: smaller;">**Abstract:** 
+
+How do you get a fourth-grader excited about history? How do you even begin to persuade high school students that mathematical functions are relevant to their everyday lives? In this volume, practical questions that confront every classroom teacher are addressed using the latest exciting research on cognition, teaching, and learning.
+
+How Students Learn: History, Mathematics, and Science in the Classroom builds on the discoveries detailed in the bestselling How People Learn. Now, these findings are presented in a way that teachers can use immediately, to revitalize their work in the classroom for even greater effectiveness.
+
+Organized for utility, the book explores how the principles of learning can be applied in teaching history, science, and math topics at three levels: elementary, middle, and high school. Leading educators explain in detail how they developed successful curricula and teaching approaches, presenting strategies that serve as models for curriculum development and classroom instruction. Their recounting of personal teaching experiences lends strength and warmth to this volume.
+
+The book explores the importance of balancing students' knowledge of historical fact against their understanding of concepts, such as change and cause, and their skills in assessing historical accounts. It discusses how to build straightforward science experiments into true understanding of scientific principles. And it shows how to overcome the difficulties in teaching math to generate real insight and reasoning in math students. It also features illustrated suggestions for classroom activities.
+
+How Students Learn offers a highly useful blend of principle and practice. It will be important not only to teachers, administrators, curriculum designers, and teacher educators, but also to parents and the larger community concerned about children's education.
+</div>
+
 - National Research Council. (2001). *Knowing what students know: The science and design of educational assessment.* Washington, DC: The National Academies Press. <https://doi.org/10.17226/10019>
+
+<div style="margin-left: 50px;margin-bottom: 25px; font-size: smaller;">**Abstract:** 
+
+Education is a hot topic. From the stage of presidential debates to tonight's dinner table, it is an issue that most Americans are deeply concerned about. While there are many strategies for improving the educational process, we need a way to find out what works and what doesn't work as well. Educational assessment seeks to determine just how well students are learning and is an integral part of our quest for improved education.
+
+The nation is pinning greater expectations on educational assessment than ever before. We look to these assessment tools when documenting whether students and institutions are truly meeting education goals. But we must stop and ask a crucial question: What kind of assessment is most effective?
+
+At a time when traditional testing is subject to increasing criticism, research suggests that new, exciting approaches to assessment may be on the horizon. Advances in the sciences of how people learn and how to measure such learning offer the hope of developing new kinds of assessments-assessments that help students succeed in school by making as clear as possible the nature of their accomplishments and the progress of their learning.
+
+Knowing What Students Know essentially explains how expanding knowledge in the scientific fields of human learning and educational measurement can form the foundations of an improved approach to assessment. These advances suggest ways that the targets of assessment-what students know and how well they know it-as well as the methods used to make inferences about student learning can be made more valid and instructionally useful. Principles for designing and using these new kinds of assessments are presented, and examples are used to illustrate the principles. Implications for policy, practice, and research are also explored.
+
+With the promise of a productive research-based approach to assessment of student learning, Knowing What Students Know will be important to education administrators, assessment designers, teachers and teacher educators, and education advocates.
+</div>
 
 
 **Books to Connect Research and Statistics Teaching**
 
 - Batanero, C., Burrill, G., &amp; Reading, C. (Eds.) (2011). *Teaching statistics in school mathematics---Challenges for teaching and teacher education: A Joint ICMI/IASE Study: The 18th ICMI Study. Springer. <https://doi.org/10.1007/978-94-007-1131-0>
+
+<div style="margin-left: 50px;margin-bottom: 25px; font-size: smaller;">**Abstract:** 
+
+Teaching Statistics in School Mathematics-Challenges for Teaching and Teacher Education results from the Joint ICMI/IASE Study Teaching Statistics in School Mathematics: Challenges for Teaching and Teacher Education. Oriented to analyse the teaching of statistics in school and to recommend improvements in the training of mathematics teachers to encourage success in preparing statistically literate students, the volume provides a picture of the current situation in both the teaching of school statistics and the pre-service education of mathematics teachers.
+
+A primary goal of Teaching Statistics in School Mathematics-Challenges for Teaching and Teacher Education is to describe the essential elements of statistics, teacher’s professional knowledge and their learning experiences.  Moreover, a research agenda that invites new research, while building from current knowledge, is developed. Recommendations about strategies and materials, available to train prospective teachers in university and in-service teachers who have not been adequately prepared, are also accessible to the reader.
+</div>
+
 - Ben-Zvi, D., Makar, K., &amp; Garfield, J. (Eds.) (2018). International handbook of research in statistics education. Springer. <https://doi.org/10.1007/978-3-319-66195-7>
+
+
+<div style="margin-left: 50px;margin-bottom: 25px; font-size: smaller;">**Abstract:**This handbook connects the practice of statistics to the teaching and learning of the subject with contributions from experts in several disciplines. Chapters present current challenges and methods of statistics education in the changing world for statistics and mathematics educators.  Issues addressed include current and future challenges in professional development of teachers, use of technology tools, design of learning environments and appropriate student assessments. This handbook presents challenging and inspiring international research perspectives on the history and nature, current issues, and future directions of statistics education and statistics education research.</div>
+
 - Garfield, J., &amp; Ben-Zvi, D. (2008). *Developing students' statistical reasoning: Connecting research and teaching practice.* Springer. <https://doi.org/10.1007/978-1-4020-8383-9>
 
+<div style="margin-left: 50px;margin-bottom: 25px; font-size: smaller;">**Abstract:** Increased attention is being paid to the need for statistically educated citizens: statistics is now included in the K-12 mathematics curriculum, increasing numbers of students are taking courses in high school, and introductory statistics courses are required in college. However, increasing the amount of instruction is not sufficient to prepare statistically literate citizens. A major change is needed in how statistics is taught. To bring about this change, three dimensions of teacher knowledge need to be addressed: their knowledge of statistical content, their pedagogical knowledge, and their statistical-pedagogical knowledge, i.e., their specific knowledge about how to teach statistics. This book is written for mathematics and statistics educators and researchers. It summarizes the research and highlights the important concepts for teachers to emphasize, and shows the interrelationships among concepts. It makes specific suggestions regarding how to build classroom activities, integrate technological tools, and assess students’ learning.
 
-**Conferences**
+This is a unique book. While providing a wealth of examples through lessons and data sets, it is also the best attempt by members of our profession to integrate suggestions from research findings with statistics concepts and pedagogy. The book’s message about the importance of listening to research is loud and clear, as is its message about alternative ways of teaching statistics. This book will impact instructors, giving them pause to consider: "Is what I’m doing now really the best thing for my students? What could I do better?"</div>
+
+
+<br />
+
+
+## Conferences
 
 - [United States Conference on Teaching Statistics](https://www.causeweb.org/cause/uscots/uscots25) [July 17--19, 2025 in Ames, Iowa]
 - [International Conference on Teaching Statistics](https://communities.isi-web.org/event-icots12) [July 12--17, 2026 in  Brisbane, Australia]
