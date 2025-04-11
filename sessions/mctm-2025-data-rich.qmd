@@ -3,8 +3,7 @@ title: "Data-Rich Experiences for Engaging Students’ Statistical Reasoning"
 description: "MCTM 2025"
 ---
 
-
-![](images/mctm-stat-ed-2025.png)
+![](images/mctm-data-rich.png){width="382"}
 
 <br />
 
@@ -14,14 +13,12 @@ Experience activities designed to actively engage students in reasoning about st
 
 <br />
 
-
 ## Slides
 
 ```{=html}
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTkVsZysFTnO6vLLp0lmoX8whe-50EnffBhix7YlRnTgZaYt-tUb5_hHZIqqdLCri87mFh_UFci6kp4/embed?start=false&loop=false&delayms=3000" frameborder="0" width="720" height="426.753" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTue1mlRehAVDwDt_Jcp6OSmSOREdXNGcMcYVTAqypbLk6waJh9dKoSGSLBpnDqJSDlazb-e9LQebo5/embed?start=false&loop=false&delayms=3000" frameborder="0" width="720" height="426.753" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 ```
 
 <br />
-
 
 ## Suggestions for Teachers
