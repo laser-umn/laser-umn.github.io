@@ -24,6 +24,7 @@ Experience activities designed to actively engage students in reasoning about st
 ## Links to Activities
 
 ### Questions on Your Back
+
 ### Spotify Playlists
 ### Greyscale Photos by Anna Ferguson
 ### Contagious Yawns
@@ -37,13 +38,13 @@ This NSF-funded project developed lesson plans and activities based on innovativ
 [Materials](https://github.com/zief0002/aims)
 
 ### CATALST Curriculum
-
+CATALST is an introductory statistics curriculum with a focus on modeling uncertainty with simulation methods. The free activities and textbook make use of TinkerPlots software to provide a visual aid to help students think through different ideas of inference. The Spotify and Contagious Yawn activities from above are from this cirriculum!
 
 
 [Textbook](https://zief0002.github.io/statistical-thinking/)
 [Materials](https://github.com/zief0002/statistical-thinking)
 
 ### OpenIntro
-
+OpenIntro provides high quality, open access resources for teaching statistics at the introductory level. The website provides several different free textbooks to choose from along with videos, slides, labs, data, and a blog!
 
 [Materials](https://www.openintro.org/book/os/)
