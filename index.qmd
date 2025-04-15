@@ -3,4 +3,4 @@ title: ""
 editor: source
 ---
 
-![](img/laser-3.png)
+![](img/home-image.png){width="6754"}
