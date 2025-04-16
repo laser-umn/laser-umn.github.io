@@ -26,20 +26,20 @@ An overview of statistics education research including historical and current pe
 ## Suggestions for Teachers
 
 
-- View the primary goal of your instruction as discovery and application of concepts
-  + This takes more time than simply teaching calculations
+- View the primary goal of your instruction as discovery and application of concepts.
+  + This takes more time than simply teaching calculations.
   + Focus on core concepts:
     * Data, Variation, Distribution, Comparing Distributions, Samples and Sampling, Inference, Covariation
-- Use carefully developed activities to promote student reasoning
-  + Create activities around statistical investigative questions questions that require data/context to answer
-  + Avoid activities that lead students step-by-step through a list of procedures. Instead, use activities that allow students to discuss and think about the data and the problem.
-  + Have students make conjectures and then implement technology to test those conjectures
-- Build on students’ intuitive notions
-  + Research has found a spectrum of students’ conceptions about statistical content
-  + Students will be in transition from their colloquial understanding to more statistical understandings
-- Integrate active learning
-  + Engage students in collaboration, interaction, discussion
-  + Instructors might need to facilitate this process with guided practice
+- Use carefully developed activities to promote student reasoning.
+  + Create activities around statistical investigative questions that require students to discuss and think about the data and the problem.
+  + Avoid activities that lead students step-by-step through a list of procedures.
+  + Have students make conjectures and then implement technology to test those conjectures.
+- Build on students’ intuitive notions and prior knowledge.
+  + Acknowledge and scaffold students' transition from their colloquial understanding to more statistical understandings.
+  + Because misconception persist, even "simple" ideas will need to be revisited many times.
+- Integrate active learning.
+  + Engage students in collaboration, interaction, and discussion.
+  + Instructors might need to initally facilitate this process.
 
 <br />
 
