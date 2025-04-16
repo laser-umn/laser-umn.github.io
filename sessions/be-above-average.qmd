@@ -1,6 +1,7 @@
 ---
 title: "Be Above Average: Teaching Introductory Statistics for Deeper Understanding"
 description: "MCTM 2024"
+date: "2024-04-13"
 editor: source
 ---
 

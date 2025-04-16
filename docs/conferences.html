@@ -79,9 +79,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -229,27 +229,7 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1741526152064" data-listing-reading-time-sort="2" data-listing-word-count-sort="323">
-<a href="./sessions/be-above-average.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img src="sessions/images/mctm-cis-2024.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Be Above Average: Teaching Introductory Statistics for Deeper Understanding
-</h5>
-<div class="card-text listing-description">
-MCTM 2024
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1744811962213" data-listing-reading-time-sort="3" data-listing-word-count-sort="413">
+<div class="g-col-1" data-index="0" data-listing-date-sort="1745557200000" data-listing-file-modified-sort="1744813406727" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="413">
 <a href="./sessions/mctm-2025-data-rich.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img src="sessions/images/mctm-data-rich.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -260,36 +240,19 @@ Data-Rich Experiences for Engaging Students’ Statistical Reasoning
 <div class="card-text listing-description">
 MCTM 2025
 </div>
-<div class="card-attribution card-text-small start">
+<div class="card-attribution card-text-small justify">
 <div class="listing-author">
 
+</div>
+<div class="listing-date">
+Apr 25, 2025
 </div>
 </div>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1741526049964" data-listing-reading-time-sort="3" data-listing-word-count-sort="419">
-<a href="./sessions/knn-classification.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img src="sessions/images/mctm-2024.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Films, Fruits, and Folklore: Introducing Ideas of Machine Learning to High School Students
-</h5>
-<div class="card-text listing-description">
-MCTM 2024
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1744812873081" data-listing-reading-time-sort="17" data-listing-word-count-sort="3218">
+<div class="g-col-1" data-index="1" data-listing-date-sort="1745557200000" data-listing-file-modified-sort="1744813373355" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="17" data-listing-word-count-sort="3218">
 <a href="./sessions/mctm-2025-stat-ed-research.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img src="sessions/images/mctm-stat-ed-2025.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -300,16 +263,19 @@ Inform Your Teaching with Statistics Education Research
 <div class="card-text listing-description">
 MCTM 2025
 </div>
-<div class="card-attribution card-text-small start">
+<div class="card-attribution card-text-small justify">
 <div class="listing-author">
 
+</div>
+<div class="listing-date">
+Apr 25, 2025
 </div>
 </div>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1741526227097" data-listing-reading-time-sort="1" data-listing-word-count-sort="170">
+<div class="g-col-1" data-index="2" data-listing-date-sort="1740808800000" data-listing-file-modified-sort="1744813480374" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="170">
 <a href="./sessions/historical-literacy.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img src="sessions/images/dsek12-2025.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -320,9 +286,58 @@ Promoting Historical Literacy Through Critical Data Science
 <div class="card-text listing-description">
 DSE K-12 2025
 </div>
-<div class="card-attribution card-text-small start">
+<div class="card-attribution card-text-small justify">
 <div class="listing-author">
 
+</div>
+<div class="listing-date">
+Mar 1, 2025
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-listing-date-sort="1712984400000" data-listing-file-modified-sort="1744813496581" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="323">
+<a href="./sessions/be-above-average.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="sessions/images/mctm-cis-2024.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Be Above Average: Teaching Introductory Statistics for Deeper Understanding
+</h5>
+<div class="card-text listing-description">
+MCTM 2024
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Apr 13, 2024
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="4" data-listing-date-sort="1712898000000" data-listing-file-modified-sort="1744813458164" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="419">
+<a href="./sessions/knn-classification.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="sessions/images/mctm-2024.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Films, Fruits, and Folklore: Introducing Ideas of Machine Learning to High School Students
+</h5>
+<div class="card-text listing-description">
+MCTM 2024
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Apr 12, 2024
 </div>
 </div>
 </div>

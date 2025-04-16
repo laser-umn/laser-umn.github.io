@@ -1,6 +1,7 @@
 ---
 title: "Data-Rich Experiences for Engaging Students’ Statistical Reasoning"
 description: "MCTM 2025"
+date: "2025-04-25"
 ---
 
 ![](images/mctm-data-rich.png){width="382"}

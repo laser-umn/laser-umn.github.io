@@ -1,6 +1,7 @@
 ---
 title: "Inform Your Teaching with Statistics Education Research"
 description: "MCTM 2025"
+date: "2025-04-25"
 ---
 
 ![](images/mctm-stat-ed-2025.png)
