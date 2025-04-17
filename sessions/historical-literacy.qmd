@@ -21,9 +21,13 @@ This workshop introduces participants to a justice-oriented, data science histor
 
 <br />
 
-## Resources
+## Slides
 
-[Slides](z.umn.edu/DataX-slides)
+```{=html}
+<iframe src="https://docs.google.com/presentation/d/1RCch34SL2rsidBZTH34n1cv7-_wg6VYundIK5coQJ3k/embed?start=false&loop=false&delayms=3000" frameborder="0" width="720" height="426.753" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+```
+
+
 
 
 

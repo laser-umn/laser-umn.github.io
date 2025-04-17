@@ -16,7 +16,10 @@ Experience activities designed to actively engage students in reasoning about st
 
 ## Slides
 
-[Download Slides Here](files/mctm25-data-rich/MCTM-DataRichExperiences.pdf)
+```{=html}
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTue1mlRehAVDwDt_Jcp6OSmSOREdXNGcMcYVTAqypbLk6waJh9dKoSGSLBpnDqJSDlazb-e9LQebo5/embed?start=false&loop=false&delayms=3000" frameborder="0" width="720" height="426.753" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+```
+[Download slides here](files/mctm25-data-rich/MCTM-DataRichExperiences.pdf)
 <br />
 
 ## Links to Activities
