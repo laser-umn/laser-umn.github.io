@@ -1,9 +1,9 @@
 ---
-title: "Classify This! Adventures in Algorithms"
+title: "Classify This! Adventures in Algorithmic Modelling"
 description: "USCOTS 2025"
 date: "2025-07-19"
 ---
-
+![](images/uscots-2025.png)
 <br />
 
 ## Session Description
