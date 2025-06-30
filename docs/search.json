@@ -46,7 +46,7 @@
     "href": "sessions/mctm-2025-data-rich.html#slides",
     "title": "Data-Rich Experiences for Engaging Students’ Statistical Reasoning",
     "section": "Slides",
-    "text": "Slides\n\nDownload Slides Here"
+    "text": "Slides\n\nDownload slides here"
   },
   {
     "objectID": "sessions/mctm-2025-data-rich.html#links-to-activities",
@@ -235,7 +235,7 @@
     "href": "conferences.html",
     "title": "Conferences & Workshops",
     "section": "",
-    "text": "Data-Rich Experiences for Engaging Students’ Statistical Reasoning\n\n\nMCTM 2025\n\n\n\n\n\n\nApr 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nInform Your Teaching with Statistics Education Research\n\n\nMCTM 2025\n\n\n\n\n\n\nApr 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nPromoting Historical Literacy Through Critical Data Science\n\n\nDSE K-12 2025\n\n\n\n\n\n\nFeb 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nBe Above Average: Teaching Introductory Statistics for Deeper Understanding\n\n\nMCTM 2024\n\n\n\n\n\n\nApr 13, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nFilms, Fruits, and Folklore: Introducing Ideas of Machine Learning to High School Students\n\n\nMCTM 2024\n\n\n\n\n\n\nApr 12, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Classify This! Adventures in Algorithms\n\n\nUSCOTS 2025\n\n\n\n\n\n\nJul 19, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nData-Rich Experiences for Engaging Students’ Statistical Reasoning\n\n\nMCTM 2025\n\n\n\n\n\n\nApr 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nInform Your Teaching with Statistics Education Research\n\n\nMCTM 2025\n\n\n\n\n\n\nApr 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nPromoting Historical Literacy Through Critical Data Science\n\n\nDSE K-12 2025\n\n\n\n\n\n\nFeb 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nBe Above Average: Teaching Introductory Statistics for Deeper Understanding\n\n\nMCTM 2024\n\n\n\n\n\n\nApr 13, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nFilms, Fruits, and Folklore: Introducing Ideas of Machine Learning to High School Students\n\n\nMCTM 2024\n\n\n\n\n\n\nApr 12, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications.html",
@@ -355,5 +355,26 @@
     "title": "Promoting Historical Literacy Through Critical Data Science",
     "section": "Slides",
     "text": "Slides"
+  },
+  {
+    "objectID": "sessions/2025-uscots-classify.html#session-description",
+    "href": "sessions/2025-uscots-classify.html#session-description",
+    "title": "Classify This! Adventures in Algorithms",
+    "section": "Session Description",
+    "text": "Session Description\nHave you ever found yourself wishing you could introduce ideas from machine learning into your statistics or mathematics classroom but weren’t sure how to do it? If so, this might be the session for you.\nThrough a set of hands-on activities drawing from a variety of engaging contexts, we will explore a common machine learning algorithm for classification. Drawing on mathematical concepts (e.g., algebra, trigonometry), these activities can help build a foundation for students’ algorithmic thinking. This session will also include a discussion of how and where these activities could be implemented in participants’ statistics or mathematics courses."
+  },
+  {
+    "objectID": "sessions/2025-uscots-classify.html#agenda",
+    "href": "sessions/2025-uscots-classify.html#agenda",
+    "title": "Classify This! Adventures in Algorithms",
+    "section": "Agenda",
+    "text": "Agenda\n\nWelcome\nWarm Up!\nIntroduction to Classification\n\nActivity 1: Purple Rain Taylor’s Version — The goal of this activity is to introduce students to the idea of similarity, and how we can use numerical attributes to quantify the similarity between two cases.\nActivity 2: “You Belong with Me: Classifying Taylor Swift — The goal of this activity is to introduce quantifying the similarity between two cases when we have two numerical attributes (using Euclidean distance) for the cases.\n\nClassifying Continued\n\nActivity 3: “Reccomending Movies — The goal of this activity is to introduce quantifying the similarity between two cases when we have categorical attributes for the cases."
+  },
+  {
+    "objectID": "sessions/2025-uscots-classify.html#extensions",
+    "href": "sessions/2025-uscots-classify.html#extensions",
+    "title": "Classify This! Adventures in Algorithms",
+    "section": "Extensions",
+    "text": "Extensions\n\nActivity 6: Recommending Movies— The goal of this activity is to introduce cosine similarity. Students also learn how to use cosine similarity to make movie recommendations based on users’ movie ratings. They also employ the kNN algorithm using cosine similarity rather than Euclidean distance to make classifications.\nActivity 7: Measuring Patient Similarity— The goal of this activity is to introduce similarity measures for binary attributes (simple matching coefficient and Jaccard index). Students will also learn to classify binary attributes as symmetric or asymmetric.\nActivity 8: Building a Zoo — The goal of this activity is to introduce a similarity measure for mixed attributes (i.e., both quantitative and categorical attributes). Students will also learn how to employ the kNN algorithm when the number of observations in potential classes is not equal (i.e., imbalanced classes).\n\nDownload the activities, keys, and data here!"
   }
 ]

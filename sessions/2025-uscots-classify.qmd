@@ -1,0 +1,48 @@
+---
+title: "Classify This! Adventures in Algorithms"
+description: "USCOTS 2025"
+date: "2025-07-19"
+---
+
+<br />
+
+## Session Description
+
+Have you ever found yourself wishing you could introduce ideas from machine learning into your statistics or mathematics classroom but weren’t sure how to do it? If so, this might be the session for you. 
+
+Through a set of hands-on activities drawing from a variety of engaging contexts, we will explore a common machine learning algorithm for classification.  Drawing on mathematical concepts (e.g., algebra,  trigonometry), these activities can help build a foundation for students’ algorithmic thinking.  This session will also include a discussion of  how and where these activities could be implemented in participants’ statistics or mathematics courses.
+
+
+<br />
+
+<br />
+
+## Agenda
+
+-   Welcome
+
+-   Warm Up!
+
+-   Introduction to Classification
+
+    -   **Activity 1: Purple Rain Taylor's Version** --- The goal of this activity is to introduce students to the idea of similarity, and how we can use numerical attributes to quantify the similarity between two cases.
+
+    -   **Activity 2: "You Belong with Me: Classifying Taylor Swift** --- The goal of this activity is to introduce quantifying the similarity between two cases when we have two numerical attributes (using Euclidean distance) for the cases.
+
+
+-   Classifying Continued
+
+    -   **Activity 3: "Reccomending Movies** --- The goal of this activity is to introduce quantifying the similarity between two cases when we have categorical attributes for the cases.
+
+
+<br />
+
+## Extensions
+
+-   **Activity 6: Recommending Movies**--- The goal of this activity is to introduce cosine similarity. Students also learn how to use cosine similarity to make movie recommendations based on users' movie ratings. They also employ the kNN algorithm using cosine similarity rather than Euclidean distance to make classifications.
+
+-   **Activity 7: Measuring Patient Similarity**--- The goal of this activity is to introduce similarity measures for binary attributes (simple matching coefficient and Jaccard index). Students will also learn to classify binary attributes as symmetric or asymmetric.
+
+-   **Activity 8: Building a Zoo** --- The goal of this activity is to introduce a similarity measure for mixed attributes (i.e., both quantitative and categorical attributes). Students will also learn how to employ the kNN algorithm when the number of observations in potential classes is not equal (i.e., imbalanced classes).
+
+[Download the activities, keys, and data here!](files/mctm24/mctm-resources.zip)
