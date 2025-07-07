@@ -32,7 +32,6 @@ Building on past research and what we learned from designing and implementing th
 
 -   **Activity 5: Blank (Vector) Space** --- The goal of this activity is to formalize the mathematics of Euclidean distance. Students also learn how to extend Euclidean distance to measure similarity between cases having more than two numerical attributes.
 
-<br />
 
 ### Extensions
 
