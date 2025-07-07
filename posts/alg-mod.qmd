@@ -17,7 +17,33 @@ We designed several activities to introduce students to some of the ideas underl
 
 ## Similarity and Classification
 
-Building on past research and what we learned from designing and implementing the CART activities, we have recently designed a set of activities focusing on the measuring similarity and implementing the k-Nearest Neighbors algorithm. We will be debuting a few of these activities at a [workshop at the 2024 Minnesota Council of Teachers of Mathematics Conference](https://laser-umn.github.io/sessions/knn-classification.html).
+Building on past research and what we learned from designing and implementing the CART activities, we have recently designed a set of activities focusing on the measuring similarity and implementing the k-Nearest Neighbors algorithm.
+
+```         
+-   **Activity 1: Classifying Fruit** --- The goal of this activity is to introduce students to the idea of similarity, and how we can use a numerical attribute to quantify the similarity between two cases.
+
+-   **Activity 2: "Unpeeling" k-Nearest Neighbors** --- The goal of this activity is to introduce students to the k-Nearest Neighbors (kNN) algorithm, which is a common method used to make classifications.
+```
+
+-   Digging Deeper
+
+    -   **Activity 3: Euclidean Distance (Taylor's Version)** --- The goal of this activity is to introduce quantifying the similarity between two cases when we have two numerical attributes (using Euclidean distance) for the cases.
+
+    -   **Activity 4: You Belong with Me: Classifying Taylor Swift** --- The goal of this activity is to have students use technology to compute Euclidean distance between many cases. Students are also introduced to a formula for choosing the optimal value for k on which to base their k-Nearest Neighbors (kNN) algorithm.
+
+    -   **Activity 5: Blank (Vector) Space** --- The goal of this activity is to formalize the mathematics of Euclidean distance. Students also learn how to extend Euclidean distance to measure similarity between cases having more than two numerical attributes.
+
+<br />
+
+## Extensions
+
+-   **Activity 6: Recommending Movies**--- The goal of this activity is to introduce cosine similarity. Students also learn how to use cosine similarity to make movie recommendations based on users' movie ratings. They also employ the kNN algorithm using cosine similarity rather than Euclidean distance to make classifications.
+
+-   **Activity 7: Measuring Patient Similarity**--- The goal of this activity is to introduce similarity measures for binary attributes (simple matching coefficient and Jaccard index). Students will also learn to classify binary attributes as symmetric or asymmetric.
+
+-   **Activity 8: Building a Zoo** --- The goal of this activity is to introduce a similarity measure for mixed attributes (i.e., both quantitative and categorical attributes). Students will also learn how to employ the kNN algorithm when the number of observations in potential classes is not equal (i.e., imbalanced classes).
+
+![Download all activities and keys here!](files/alg-mod.zip)
 
 <br />
 
