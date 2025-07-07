@@ -375,6 +375,6 @@
     "href": "sessions/2025-uscots-classify.html#extensions",
     "title": "Classify This! Adventures in Algorithmic Modelling",
     "section": "Extensions",
-    "text": "Extensions\n\nActivity 6: Recommending Movies— The goal of this activity is to introduce cosine similarity. Students also learn how to use cosine similarity to make movie recommendations based on users’ movie ratings. They also employ the kNN algorithm using cosine similarity rather than Euclidean distance to make classifications.\nActivity 7: Measuring Patient Similarity— The goal of this activity is to introduce similarity measures for binary attributes (simple matching coefficient and Jaccard index). Students will also learn to classify binary attributes as symmetric or asymmetric.\nActivity 8: Building a Zoo — The goal of this activity is to introduce a similarity measure for mixed attributes (i.e., both quantitative and categorical attributes). Students will also learn how to employ the kNN algorithm when the number of observations in potential classes is not equal (i.e., imbalanced classes).\n\nDownload the activities, keys, and data here!"
+    "text": "Extensions\nFor more activities and extensions of this work check out our Algorithmic Modeling page!"
   }
 ]
