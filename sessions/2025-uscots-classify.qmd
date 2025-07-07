@@ -15,6 +15,12 @@ Through a set of hands-on activities drawing from a variety of engaging contexts
 
 <br />
 
+```{=html}
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRBvcOTcmWeBtuWSTbaf21Y1qIghKisCA0cBA9PqqWpCgsjaTxQLXoB20uSTEWFWKTU3RS_I5fHVWXV/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="720" height="426.753" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+```
+[Download slides here](files/uscots25/slides.pdf)
+<br />
+
 <br />
 
 ## Agenda
