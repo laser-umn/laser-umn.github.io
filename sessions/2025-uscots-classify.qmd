@@ -44,4 +44,4 @@ Through a set of hands-on activities drawing from a variety of engaging contexts
 
 ## Extensions
 
-For more activities and extensions of this work check out our [Algorithmic Modeling](http://localhost:7295/posts/alg-mod.html) page!
+For more activities and extensions of this work check out our [Algorithmic Modeling](https://laser-umn.github.io/posts/alg-mod.html) page!
