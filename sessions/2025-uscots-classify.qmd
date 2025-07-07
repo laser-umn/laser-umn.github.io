@@ -38,7 +38,7 @@ Through a set of hands-on activities drawing from a variety of engaging contexts
 
 -   Classifying Continued
 
-    -   [**Activity 4: "Reccommending Movies](https://docs.google.com/document/d/1FxBBuGXPqbgJDo7cFxoUm_1bv0V1cCYOnp6Up6Inxzs/edit?usp=sharing) --- The goal of this activity is to introduce quantifying the similarity between two cases when we have categorical attributes for the cases.
+        -   [**Activity 4: "Reccommending Movies](https://docs.google.com/document/d/1FxBBuGXPqbgJDo7cFxoUm_1bv0V1cCYOnp6Up6Inxzs/edit?usp=sharing) --- The goal of this activity is to introduce quantifying the similarity between two cases when we have categorical attributes for the cases.
 
 <br />
 
