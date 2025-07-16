@@ -2,6 +2,17 @@
 title: "Photo Gallery"
 ---
 
+**ISLS 2025**
+
+![](img/regina-isls.jpeg){width="250"}
+
+**Psychological Foundations: Excellence in Teaching Award 2025**
+
+![](img/regina-award2.png){width="250"}
+
+![](img/regina-award1.jpeg){width="250"}
+
+
 **DSE K-12 2025**
 
 ![](img/dsek12.png){width="250"}
