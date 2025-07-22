@@ -1,0 +1,48 @@
+---
+title: "The Teaching of Introductory Statistics: Results of a National Survey"
+description: "JSM 2025"
+date: "2025-07-22"
+---
+
+![](images/jsm-2025.png) <br />
+
+
+## Session Description
+
+**Abstract:** The Statistics Teaching Inventory (STI) was designed to gain insight into the teaching practices of U.S.-based, college-level introductory statistics instructors. In particular, the items on the STI were written to reflect instructional practices related to current trends and recommendations in statistics education (e.g., the 2016 college-level GAISE report). In this presentation, we will share instructors' responses to the STI to examine the current state of the curricular and instructional practices being used by introductory statistics instructors. We also use these responses to explore the extent to which instructors report that their introductory statistics courses are aligned with recommended practices as outlined by the 2016 GAISE College Report. Finally, we look ahead to how the STI will be adapted based on the drafted recommendations and student learning outcomes outlined for the upcoming GAISE report.
+
+
+We will present this work as part of the Invited Paper Session, "New Possibilities in Statistics Instruction: Current Trends and Future Directions", on Sunday August 3, 2025 from 4:00--5:50pm. This session, which was organized by Jenny Green and Maria Cruciani, also includes presented work from Jenny Green/Maria Cruciani/Elizabeth Arnold (*Exploring Statistics Instruction in High School Intermediate Algebra Courses: Results of a National Survey*), Taylor Harrison/Hollylynne Lee (*Trends in Teaching Advanced Placement Statistics*), and Kaycie Maddox/Anna Bargagliotti/Christine Franklin/Robert Gould (*The Statistical Education of Teachers II Report*) 
+
+
+
+<br />
+
+```{=html}
+<iframe src="https://docs.google.com/presentation/d/16u0lr6EPwDA1GhqWMsQeFb_Kj1cuhUNt_liAmi7ydiE/edit?usp=sharing" frameborder="0" width="720" height="426.753" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+```
+
+<!-- [Download slides here](files/uscots25/slides.pdf) <br /> -->
+
+<br />
+
+
+## STI Instruments
+
+You can access the STI from <https://osf.io/r4eag/>. This OSF project also includes a more detailed description of the development process and administrations of each version.
+
+<br />
+
+
+## References
+
+Zieffler, A., Park, J., Garfield, J., delMas, R., &amp; Bjornsdottir, A. (2012). The Statistics Teaching Inventory: A survey on statistics teachers' classroom practices and beliefs. *Journal of Statistics Education, 20*(1). <https://doi.org/10.1080/10691898.2012.11889632> 
+
+Fry, E. B., Garfield, J., Pearl, D., Zieffler, A., &amp; delMas, R. (2014). Statistics Teaching Inventory: Report of data collected in 2013. *Unpublished executive report.* University of Minnesota, Minneapolis. <https://osf.io/download/6610aa04219e712bc8f6ae0c/?direct%26mode=render>
+
+Legacy, C., Le, L., Zieffler, A., Fry, & Vivas Corrales, P. (2024) The teaching of introductory statistics: Results of a national survey. *Journal of Statistics and Data Science Education, 32*(3). <https://doi.org/10.1080/26939169.2024.2333732>
+
+
+
+
+
