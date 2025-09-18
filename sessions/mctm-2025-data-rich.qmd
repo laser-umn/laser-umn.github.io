@@ -19,19 +19,18 @@ Experience activities designed to actively engage students in reasoning about st
 ```{=html}
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTue1mlRehAVDwDt_Jcp6OSmSOREdXNGcMcYVTAqypbLk6waJh9dKoSGSLBpnDqJSDlazb-e9LQebo5/embed?start=false&loop=false&delayms=3000" frameborder="0" width="720" height="426.753" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 ```
-[Download slides here](files/mctm25-data-rich/MCTM-DataRichExperiences.pdf)
-<br />
+
+[Download slides here](files/mctm25-data-rich/MCTM-DataRichExperiences.pdf) <br />
 
 ## Links to Activities
 
 ### Questions on Your Back
 
-Engage your students with this meet and greet style activity to get them collecting and talking about data! Students will have secret questions taped to their backs. They will walk around and answer other student's questions taped to their backs while collecting data on their own question. Once they have their data, they can create a visualization to help them determine what their question might be. 
+Engage your students with this meet and greet style activity to get them collecting and talking about data! Students will have secret questions taped to their backs. They will walk around and answer other student's questions taped to their backs while collecting data on their own question. Once they have their data, they can create a visualization to help them determine what their question might be.
 
-[Activity](files/mctm25-data-rich/questions-on-back-student.pdf)
+[Activity](files/mctm25-data-rich/question-on-back-student.pdf)
 
-[Lesson Plan](files/mctm25-data-rich/questions-on-back-instructor.pdf)
-
+[Lesson Plan](files/mctm25-data-rich/question-on-back-instructor.pdf)
 
 ### Spotify Playlists
 
@@ -62,7 +61,6 @@ This NSF-funded project developed lesson plans and activities based on innovativ
 ### CATALST Curriculum
 
 CATALST is an introductory statistics curriculum with a focus on modeling uncertainty with simulation methods. The free activities and textbook make use of TinkerPlots software to provide a visual aid to help students think through different ideas of inference. The Spotify and Contagious Yawn activities from above are from this cirriculum!
-
 
 [Textbook](https://zief0002.github.io/statistical-thinking/)
 
