@@ -28,8 +28,7 @@ Rao, V. N. V.$^\dagger$, Legacy, C., Zieffler, A., & delMas, R. (2023). Designin
 
 Sabbag, A., Zieffler, A., & Ng, C. (2025). Can we distinguish statistical literacy and statistical reasoning?. *Statistics Education Research Journal, 24*(1), 2-2. <https://doi.org/10.52041/serj.v24i1.587>
 
-Zieffler, A. (2024). Zhuzhing up your syllabus. *Statistics Teaching and Learning Corner.* <https://stattlc.
-com/2024/09/06/zhuzhing-up-your-syllabus/>
+Zieffler, A. (2024). Zhuzhing up your syllabus. *Statistics Teaching and Learning Corner.* \<https://stattlc. com/2024/09/06/zhuzhing-up-your-syllabus/\>
 
 Zieffler, A., Justice, N., delMas, R., & Huberty, M.$^\dagger$ (2021). The use of algorithmic models to develop secondary teachers' understanding of the statistical modeling process. *Journal of Statistics and Data Science Education, 29*(1), 131--147. <https://doi.org/10.1080/26939169.2021.1900759>
 :::
@@ -51,13 +50,15 @@ Dragich, E.$^\dagger$, Beckman, M., Çetinkaya-Rundel, M., Dogucu, M., Legacy, C
 
 Dragich, E.$^\dagger$, Beckman, M., Çetinkaya-Rundel, M., Dogucu, M., Legacy, C., Tackett, M., & Zieffler, A. (2023, June). [*Creating a standardized assessment to measure learning in introductory data science courses.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/main/files/posters/2023-uscots-ds-assessment.pdf) Poster presented at the Research Satellite of the United States Conference on Teaching Statistics, State College, PA.
 
-Horton, N., Garcia, R., & Legacy, C. (2023, June). [*Facilitating team-based data science: agile and scrum for undergraduates*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/main/files/slides/2023-uscots-dsc-wav.pdf) [Workshop]. United States Conference on Teaching Statistics, State College, PA.
+Horton, N., Garcia, R., & Legacy, C. (2023, June). [*Facilitating team-based data science: agile and scrum for undergraduates*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/main/files/slides/2023-uscots-dsc-wav.pdf) \[Workshop\]. United States Conference on Teaching Statistics, State College, PA.
 
 Justice, N., Zieffler, A., delMas, R., & Huberty, M.$^\dagger$ (2021, April). [*Exploring new possibilities for teaching and learning statistical modeling: An algorithmic approach.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/main/files/slides/2021-app-state.pdf) Invited presentation at Appalachian State University, Department of Mathematical Sciences.
 
 Justice, N., Zieffler, A., delMas, R., & Huberty, M.$^\dagger$ (2021, February). [*Scouting new trails: An algorithmic approach to teaching and learning statistical modeling.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/main/files/slides/2021-plu-scouting-new-trails.pdf) Presentation at Pacific Lutheran University.
 
 Le, L., Hayat, M., Green, J., Kaplan, J., Peters, S., & Zieffler, A. (2023, June). [*Demystifying the publishing process for statistics education journals.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/main/files/slides/2023-uscots-publishing.pdf) Presentation at the United States Conference on Teaching Statistics, State College, PA.
+
+Legacy, C. (2025, November). *A collection of SERJ papers by new researchers* \[Webinar\]. International Association for Statistical Education. <https://iase-web.org/webinar/collection-serj-papers-new-researchers-2025-1830-utc>
 
 Legacy, C.$^\dagger$, Rao, V. N. V.$^\dagger$, Zieffler, A., & delMas, R. C. (2022, January). [*Data to graphs and back: Secondary teachers' reasoning about the aesthetic mappings that link data and visualizations.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/main/files/slides/2022-srtl-data-to-graphs.pdf) Presentation at the 12th Statistical Reasoning, Thinking and Literacy (SRTL-12) Research Forum, Online.
 
