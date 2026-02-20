@@ -28,6 +28,9 @@ Descended from the statistics education research of [Joan Garfield](https://en.w
 
 <br />
 
+![](img/vee-slimey.png){style="float: right;" width="300"}**Vee Vyas:** Vee is a graduate student at the University of Minnesota in the Educational Psychology Department’s Quantitative Methods in Education program. Their previous work has focused on using large-scale data in interdisciplinary settings and on summarizing it primarily through visualizations to increase accessibility in interpreting and applying data-driven insights. Vee started out by earning a B.S. in Economics from Rhodes College, where they became passionate about reducing barriers in learning, especially in STEM education. Vee's research interests revolve around identifying barriers and disparities in statistics education, particularly as it concerns historically underrepresented groups within the field, and using an innovative approach to statistics education (e.g., communicating findings in context, broadening the incorporation of multivariable methods in statistics curricula, implementing accessibility in programming, employing varied data visualization methods) to make it representative of groups directly reflected in and affected by data.
+<br />
+
 ## Alumni Members
 
 -   [Vimal Rao](https://raovnv.github.io/index.html) (c. 2019--2023)
