@@ -242,7 +242,7 @@
     "href": "conferences.html",
     "title": "Conferences & Workshops",
     "section": "",
-    "text": "The Teaching of Introductory Statistics: Results of a National Survey\n\n\nJSM 2025\n\n\n\n\n\n\nJul 22, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nClassify This! Adventures in Algorithmic Modelling\n\n\nUSCOTS 2025\n\n\n\n\n\n\nJul 19, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nData-Rich Experiences for Engaging Students’ Statistical Reasoning\n\n\nMCTM 2025\n\n\n\n\n\n\nApr 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nInform Your Teaching with Statistics Education Research\n\n\nMCTM 2025\n\n\n\n\n\n\nApr 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nPromoting Historical Literacy Through Critical Data Science\n\n\nDSE K-12 2025\n\n\n\n\n\n\nFeb 17, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nBe Above Average: Teaching Introductory Statistics for Deeper Understanding\n\n\nMCTM 2024\n\n\n\n\n\n\nApr 13, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nFilms, Fruits, and Folklore: Introducing Ideas of Machine Learning to High School Students\n\n\nMCTM 2024\n\n\n\n\n\n\nApr 12, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Totally RAD!: Learning Trajectory for Reasoning About Distributions\n\n\nMCTM 2026\n\n\n\n\n\n\nApr 24, 2026\n\n\n\n\n\n\n\n\n\n\n\nIt’s Raining Stats: Activities for Simulation and Inference\n\n\nMCTM 2026\n\n\n\n\n\n\nApr 24, 2026\n\n\n\n\n\n\n\n\n\n\n\nThe Teaching of Introductory Statistics: Results of a National Survey\n\n\nJSM 2025\n\n\n\n\n\n\nJul 22, 2025\n\n\n\n\n\n\n\n\n\n\n\nClassify This! Adventures in Algorithmic Modelling\n\n\nUSCOTS 2025\n\n\n\n\n\n\nJul 19, 2025\n\n\n\n\n\n\n\n\n\n\n\nData-Rich Experiences for Engaging Students’ Statistical Reasoning\n\n\nMCTM 2025\n\n\n\n\n\n\nApr 25, 2025\n\n\n\n\n\n\n\n\n\n\n\nInform Your Teaching with Statistics Education Research\n\n\nMCTM 2025\n\n\n\n\n\n\nApr 25, 2025\n\n\n\n\n\n\n\n\n\n\n\nPromoting Historical Literacy Through Critical Data Science\n\n\nDSE K-12 2025\n\n\n\n\n\n\nFeb 17, 2025\n\n\n\n\n\n\n\n\n\n\n\nBe Above Average: Teaching Introductory Statistics for Deeper Understanding\n\n\nMCTM 2024\n\n\n\n\n\n\nApr 13, 2024\n\n\n\n\n\n\n\n\n\n\n\nFilms, Fruits, and Folklore: Introducing Ideas of Machine Learning to High School Students\n\n\nMCTM 2024\n\n\n\n\n\n\nApr 12, 2024\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications.html",
@@ -390,5 +390,47 @@
     "title": "Inform Your Teaching with Statistics Education Research",
     "section": "Conferences",
     "text": "Conferences\n\nUnited States Conference on Teaching Statistics [July 17–19, 2025 in Ames, Iowa]\nInternational Conference on Teaching Statistics [July 12–17, 2026 in Brisbane, Australia]"
+  },
+  {
+    "objectID": "sessions/mctm-2026-distributions.html#session-description",
+    "href": "sessions/mctm-2026-distributions.html#session-description",
+    "title": "Totally RAD!: Learning Trajectory for Reasoning About Distributions",
+    "section": "Session Description",
+    "text": "Session Description\nParticipants will experience activities designed to grow students’ understanding and reasoning about distributions. You will leave with ideas and resources to help you implement the revised MN standards."
+  },
+  {
+    "objectID": "sessions/mctm-2026-distributions.html#slides",
+    "href": "sessions/mctm-2026-distributions.html#slides",
+    "title": "Totally RAD!: Learning Trajectory for Reasoning About Distributions",
+    "section": "Slides",
+    "text": "Slides"
+  },
+  {
+    "objectID": "sessions/mctm-2026-distributions.html#links-to-activities",
+    "href": "sessions/mctm-2026-distributions.html#links-to-activities",
+    "title": "Totally RAD!: Learning Trajectory for Reasoning About Distributions",
+    "section": "Links to Activities",
+    "text": "Links to Activities"
+  },
+  {
+    "objectID": "sessions/mctm-2026-simulation.html#session-description",
+    "href": "sessions/mctm-2026-simulation.html#session-description",
+    "title": "It’s Raining Stats: Activities for Simulation and Inference",
+    "section": "Session Description",
+    "text": "Session Description\nExperience activities to build students’ reasoning about sampling distributions, variability, and statistical inference via simulation methods (part of the revised MN math standards). Participants will also explore CODAP—a free, user-friendly data analysis tool. Resources will be provided for classroom implementation."
+  },
+  {
+    "objectID": "sessions/mctm-2026-simulation.html#slides",
+    "href": "sessions/mctm-2026-simulation.html#slides",
+    "title": "It’s Raining Stats: Activities for Simulation and Inference",
+    "section": "Slides",
+    "text": "Slides"
+  },
+  {
+    "objectID": "sessions/mctm-2026-simulation.html#links-to-activities",
+    "href": "sessions/mctm-2026-simulation.html#links-to-activities",
+    "title": "It’s Raining Stats: Activities for Simulation and Inference",
+    "section": "Links to Activities",
+    "text": "Links to Activities"
   }
 ]

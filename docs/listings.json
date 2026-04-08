@@ -12,6 +12,8 @@
   {
     "listing": "/conferences.html",
     "items": [
+      "/sessions/mctm-2026-distributions.html",
+      "/sessions/mctm-2026-simulation.html",
       "/sessions/2025-jsm-sti.html",
       "/sessions/2025-uscots-classify.html",
       "/sessions/mctm-2025-data-rich.html",

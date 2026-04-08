@@ -1,0 +1,20 @@
+---
+title: "It’s Raining Stats: Activities for Simulation and Inference "
+description: "MCTM 2026"
+date: "2026-04-24"
+---
+
+<br />
+
+## Session Description
+
+Experience activities to build students’ reasoning about sampling distributions, variability, and statistical inference via simulation methods (part of the revised MN math standards). Participants will also explore CODAP—a free, user-friendly data analysis tool. Resources will be provided for classroom implementation. 
+
+
+<br />
+
+## Slides
+
+
+
+## Links to Activities

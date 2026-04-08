@@ -1,0 +1,22 @@
+---
+title: "Totally RAD!: Learning Trajectory for Reasoning About Distributions"
+description: "MCTM 2026"
+date: "2026-04-24"
+---
+
+![](images/mctm-distributions.png){width="382"}
+
+
+<br />
+
+## Session Description
+
+Participants will experience activities designed to grow students’ understanding and reasoning about distributions. You will leave with ideas and resources to help you implement the revised MN standards.
+
+<br />
+
+## Slides
+
+
+
+## Links to Activities
