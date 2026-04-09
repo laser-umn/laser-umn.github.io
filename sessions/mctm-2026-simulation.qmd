@@ -4,6 +4,8 @@ description: "MCTM 2026"
 date: "2026-04-24"
 ---
 
+![](images/mctm-simulation.png)
+
 <br />
 
 ## Session Description
