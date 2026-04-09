@@ -20,7 +20,7 @@ Descended from the statistics education research of [Joan Garfield](https://en.w
 
 <br />
 
-![](img/regina-abby.png){style="float: right;" width="300"}[**Regina Lisinker:**](https://rlisinker.com/) Regina is a PhD student at the University of Minnesota in the Educational Psychology department's Psychological Foundations in Education program. She earned her MA in Educational Psychology through the Quantitative Methods in Education program and her thesis focused on data science undergraduate students' usage of code review resources. Regina started out by getting a BS in Statistics from Cal Poly SLO where she became passionate about teaching and curious to understand how students learn statistics. Her research interests now revolve around student communication within statistics and data science courses (i.e. social interaction in the classroom, communicating with data visualizations, pair programming, etc.).
+![](img/regina-abby.png){style="float: right;" width="300"}[**Regina Lisinker:**](https://rlisinker.com/) Regina is a PhD candidate at the University of Minnesota in the Educational Psychology department's Psychological Foundations in Education program. She earned her MA in Educational Psychology through the Quantitative Methods in Education program and her thesis focused on data science undergraduate students' usage of code review resources. Regina started out by getting a BS in Statistics from Cal Poly SLO where she became passionate about teaching and curious to understand how students learn statistics. Her research interests now revolve around student communication within statistics and data science courses (i.e. social interaction in the classroom, communicating with data visualizations, pair programming, etc.).
 
 <br />
 
