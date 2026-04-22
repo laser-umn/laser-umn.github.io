@@ -16,7 +16,21 @@ Participants will experience activities designed to grow students’ understandi
 <br />
 
 ## Slides
+```{=html}
+<https://docs.google.com/presentation/d/e/2PACX-1vSvYEKnyeNbi55VyksApQVONxwDKldlBnN7PaI4WIWsmiQbQeOkWtzEFYtfJNBpLJ_wh8qSdsqIccbm/pub?start=false&loop=false&delayms=3000>
+```
 
+[Download slides here](files/mctm26-distributions/distributions.pdf) <br />
 
+<br />
 
 ## Links to Activities
+[Sticky Note Activity](files/mctm26-distributions/sticky-note-activity.pdf)
+
+[Sorting Histograms Activity](files/mctm26-distributions/sorting-activity.pdf)
+
+[Matching Histograms](files/mctm26-distributions/guess-activity.pdf)
+
+[Comparing Distributions](files/mctm26-distributions/comparing-activity.pdf)
+
+[Master Key](files/mctm26-distributions/distributions-activities-key.pdf)
