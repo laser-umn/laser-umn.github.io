@@ -17,7 +17,7 @@ Participants will experience activities designed to grow students’ understandi
 
 ## Slides
 ```{=html}
-<https://docs.google.com/presentation/d/e/2PACX-1vSvYEKnyeNbi55VyksApQVONxwDKldlBnN7PaI4WIWsmiQbQeOkWtzEFYtfJNBpLJ_wh8qSdsqIccbm/pub?start=false&loop=false&delayms=3000>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSvYEKnyeNbi55VyksApQVONxwDKldlBnN7PaI4WIWsmiQbQeOkWtzEFYtfJNBpLJ_wh8qSdsqIccbm/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="720" height="426.753" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 ```
 
 [Download slides here](files/mctm26-distributions/distributions.pdf) <br />
