@@ -4,7 +4,7 @@ description: "MCTM 2026"
 date: "2026-04-24"
 ---
 
-![](images/mctm-simulation.png)
+![](images/simulation-title.png)
 
 <br />
 
@@ -21,10 +21,10 @@ Experience activities to build students’ reasoning about sampling distribution
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTCbUrZWQj6-ydiLsSi5JaItxMxYjaRHvjdwh6zEsCF6i86ufsBv5RZv_7EDr2qrj9S9og3yKxasjp5/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="720" height="426.753" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 ```
 
-[Download slides here](files/mctm26-simulation/simulation.pdf) <br />
+[Download slides here](files/mctm26-simulation/simulation-slides.pdf) <br />
 
 <br />
 
-## Links to Activities
+## Link to Activity
 
 [Rainfall Activity](files/mctm26-simulation/rainfall-activity.pdf)
