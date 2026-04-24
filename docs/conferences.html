@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.8.26">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,14 +35,15 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-edecd8d8437f9d705866fdd0d48f9ab5.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-cfde38401dd980b0476dc94ddc54ce5f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -119,7 +120,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -146,7 +147,8 @@ window.Quarto = {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./img/laser-logo-solidbackground.png" alt="" class="navbar-logo">
+    <img src="./img/laser-logo-solidbackground.png" alt="" class="navbar-logo light-content">
+    <img src="./img/laser-logo-solidbackground.png" alt="" class="navbar-logo dark-content">
     </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">LASER</span>
@@ -230,7 +232,7 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-date-sort="1777006800000" data-listing-file-modified-sort="1777038234205" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="53">
+<div class="g-col-1" data-index="0" data-listing-date-sort="1777006800000" data-listing-file-modified-sort="1777040380708" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="53">
 <a href="./sessions/mctm-2026-distributions.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img src="sessions/images/mctm-distributions.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -252,7 +254,7 @@ Apr 24, 2026
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-date-sort="1777006800000" data-listing-file-modified-sort="1777038162798" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="60">
+<div class="g-col-1" data-index="1" data-listing-date-sort="1777006800000" data-listing-file-modified-sort="1777040672902" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="64">
 <a href="./sessions/mctm-2026-simulation.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img src="sessions/images/simulation-title.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -274,7 +276,7 @@ Apr 24, 2026
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="2" data-listing-date-sort="1753160400000" data-listing-file-modified-sort="1758222999067" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="354">
+<div class="g-col-1" data-index="2" data-listing-date-sort="1753160400000" data-listing-file-modified-sort="1753221389395" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="354">
 <a href="./sessions/2025-jsm-sti.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img src="sessions/images/jsm-2025.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -296,7 +298,7 @@ Jul 22, 2025
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="3" data-listing-date-sort="1752901200000" data-listing-file-modified-sort="1751900520206" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="264">
+<div class="g-col-1" data-index="3" data-listing-date-sort="1752901200000" data-listing-file-modified-sort="1753219385360" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="264">
 <a href="./sessions/2025-uscots-classify.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img src="sessions/images/uscots-2025.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -318,7 +320,7 @@ Jul 19, 2025
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="4" data-listing-date-sort="1745557200000" data-listing-file-modified-sort="1758223287967" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="415">
+<div class="g-col-1" data-index="4" data-listing-date-sort="1745557200000" data-listing-file-modified-sort="1762182136485" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="415">
 <a href="./sessions/mctm-2025-data-rich.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img src="sessions/images/mctm-data-rich.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -340,7 +342,7 @@ Apr 25, 2025
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="5" data-listing-date-sort="1745557200000" data-listing-file-modified-sort="1751288815686" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="17" data-listing-word-count-sort="3218">
+<div class="g-col-1" data-index="5" data-listing-date-sort="1745557200000" data-listing-file-modified-sort="1744813373355" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="17" data-listing-word-count-sort="3218">
 <a href="./sessions/mctm-2025-stat-ed-research.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img src="sessions/images/mctm-stat-ed-2025.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -362,7 +364,7 @@ Apr 25, 2025
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="6" data-listing-date-sort="1739772000000" data-listing-file-modified-sort="1751288815684" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="177">
+<div class="g-col-1" data-index="6" data-listing-date-sort="1739772000000" data-listing-file-modified-sort="1753219385374" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="177">
 <a href="./sessions/historical-literacy.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img src="sessions/images/dsek12-2025.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -384,7 +386,7 @@ Feb 17, 2025
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="7" data-listing-date-sort="1712984400000" data-listing-file-modified-sort="1751288815673" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="323">
+<div class="g-col-1" data-index="7" data-listing-date-sort="1712984400000" data-listing-file-modified-sort="1744813496581" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="323">
 <a href="./sessions/be-above-average.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img src="sessions/images/mctm-cis-2024.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -406,7 +408,7 @@ Apr 13, 2024
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="8" data-listing-date-sort="1712898000000" data-listing-file-modified-sort="1751288815684" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="419">
+<div class="g-col-1" data-index="8" data-listing-date-sort="1712898000000" data-listing-file-modified-sort="1744813458164" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="419">
 <a href="./sessions/knn-classification.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img src="sessions/images/mctm-2024.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -482,13 +484,14 @@ Apr 12, 2024
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

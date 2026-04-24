@@ -27,4 +27,5 @@ Experience activities to build students’ reasoning about sampling distribution
 
 ## Link to Activity
 
-[Rainfall Activity](files/mctm26-simulation/rainfall-activity.pdf)
+- [Rainfall Activity](files/mctm26-simulation/rainfall-activity.pdf)
+- [Rainfall Activity (Annotated)](files/mctm26-simulation/annotated-rainfall-activity.pdf)
