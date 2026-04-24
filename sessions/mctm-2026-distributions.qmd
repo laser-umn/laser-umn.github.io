@@ -29,7 +29,7 @@ Participants will experience activities designed to grow students’ understandi
 
 [Sorting Histograms Activity](files/mctm26-distributions/sorting-activity.pdf)
 
-[Matching Histograms](files/mctm26-distributions/guess-activity.pdf)
+[Matching Histograms](files/mctm26-distributions/guess-activity-2.pdf)
 
 [Comparing Distributions](files/mctm26-distributions/comparing-activity.pdf)
 
