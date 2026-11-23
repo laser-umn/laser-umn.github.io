@@ -27,7 +27,7 @@ Initially, the STI was developed for instructors teaching in a face-to-face form
 
 -   Face-to-face course (no lab/recitation session led by a teaching assistant)
 
--    Face-to-face course (with lab/recitation session led by a teaching assistant)
+-   Face-to-face course (with lab/recitation session led by a teaching assistant)
 
 -   Completely online course; and Hybrid course (mixture of face-to-face and online).
 
@@ -41,11 +41,15 @@ After these revisions were made, a statistics education expert, who had also tak
 
 Data from the administration of STI (v.2) is presented in Fry et al. (2014).
 
+[STI v.2 Instruments can be downloaded here](files/stiv2.zip)
+
 ### STI (v.3)
 
 The third version of the instrument (STI v.3) went back to a single form given to all instructors, regardless of course modality. Items asking about the course modality were included to capture differences.
 
 In 2019, the STI (v. 3) was again adapted to focus only on the teaching practices of statistics instructors---all beliefs items were dropped from the instrument. Additional items related to computation and modern data practices were also included on the instrument, as well as items tapping recommendations in the 2016 GAISE document.
+
+[STI v.3 can be downloaded here](files/sti-v3-instrument.pdf)
 
 ## Related Presentations & Publications
 
