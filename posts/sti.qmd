@@ -60,6 +60,8 @@ Fry, E. B., Garfield, J., Pearl, D., Zieffler, A., & delMas, R. (2014). [*Statis
 
 Legacy, C., Le, L., Zieffler, A., Fry, & Vivas Corrales, P. (2024) The teaching of introductory statistics: Results of a national survey. *Journal of Statistics and Data Science Education.* <https://doi.org/10.1080/26939169.2024.2333732>
 
+[Link to code and scripts used in this paper](files/jsdse-sti-2024.zip)
+
 Vivas Corrales, P.$^\dagger$, Legacy, C., Le, L., Zieffler, A., & Fry, E. (2023, June). [*Statistics Teaching Inventory: Exploring the alignment of introductory statistics instructors' teaching and assessment practices to professional recommendations.*](https://raw.githubusercontent.com/laser-umn/laser-umn.github.io/files/posters/2023-sti-poster.pdf) Poster presented at the Research Satellite of the United States Conference on Teaching Statistics, State College, PA.
 
 Zieffler, A., Park, J., Garfield, J., delMas, R., & Bjornsdottir, A. (2012). [The Statistics Teaching Inventory: A survey on statistics teachers' classroom practices and beliefs.](http://jse.amstat.org/v20n1/zieffler.pdf) *Journal of Statistics Education, 20*(1), 1--29.
