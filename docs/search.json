@@ -256,7 +256,7 @@
     "href": "posts/sti.html#related-presentations-publications",
     "title": "Statistics Teaching Inventory (STI)",
     "section": "Related Presentations & Publications",
-    "text": "Related Presentations & Publications\n\\(^\\dagger\\) denotes student author\n\nFry, E. B., Garfield, J., Pearl, D., Zieffler, A., & delMas, R. (2014). Statistics Teaching Inventory: Report of data collected in 2013. Unpublished executive report. University of Minnesota, Minneapolis.\nLegacy, C., Le, L., Zieffler, A., Fry, & Vivas Corrales, P. (2024) The teaching of introductory statistics: Results of a national survey. Journal of Statistics and Data Science Education. https://doi.org/10.1080/26939169.2024.2333732\nVivas Corrales, P.\\(^\\dagger\\), Legacy, C., Le, L., Zieffler, A., & Fry, E. (2023, June). Statistics Teaching Inventory: Exploring the alignment of introductory statistics instructors’ teaching and assessment practices to professional recommendations. Poster presented at the Research Satellite of the United States Conference on Teaching Statistics, State College, PA.\nZieffler, A., Park, J., Garfield, J., delMas, R., & Bjornsdottir, A. (2012). The Statistics Teaching Inventory: A survey on statistics teachers’ classroom practices and beliefs. Journal of Statistics Education, 20(1), 1–29."
+    "text": "Related Presentations & Publications\n\\(^\\dagger\\) denotes student author\n\nFry, E. B., Garfield, J., Pearl, D., Zieffler, A., & delMas, R. (2014). Statistics Teaching Inventory: Report of data collected in 2013. Unpublished executive report. University of Minnesota, Minneapolis.\nLegacy, C., Le, L., Zieffler, A., Fry, & Vivas Corrales, P. (2024) The teaching of introductory statistics: Results of a national survey. Journal of Statistics and Data Science Education. https://doi.org/10.1080/26939169.2024.2333732\nLink to code and scripts used in this paper\nVivas Corrales, P.\\(^\\dagger\\), Legacy, C., Le, L., Zieffler, A., & Fry, E. (2023, June). Statistics Teaching Inventory: Exploring the alignment of introductory statistics instructors’ teaching and assessment practices to professional recommendations. Poster presented at the Research Satellite of the United States Conference on Teaching Statistics, State College, PA.\nZieffler, A., Park, J., Garfield, J., delMas, R., & Bjornsdottir, A. (2012). The Statistics Teaching Inventory: A survey on statistics teachers’ classroom practices and beliefs. Journal of Statistics Education, 20(1), 1–29."
   },
   {
     "objectID": "conferences.html",
@@ -322,11 +322,11 @@
     "text": "Slides\n\nDownload slides here"
   },
   {
-    "objectID": "sessions/mctm-2026-simulation.html#links-to-activities",
-    "href": "sessions/mctm-2026-simulation.html#links-to-activities",
+    "objectID": "sessions/mctm-2026-simulation.html#link-to-activity",
+    "href": "sessions/mctm-2026-simulation.html#link-to-activity",
     "title": "It’s Raining Stats: Activities for Simulation and Inference",
-    "section": "Links to Activities",
-    "text": "Links to Activities\nRainfall Activity"
+    "section": "Link to Activity",
+    "text": "Link to Activity\n\nRainfall Activity\nRainfall Activity (Annotated)"
   },
   {
     "objectID": "sessions/be-above-average.html#session-description",
@@ -432,12 +432,5 @@
     "title": "Inform Your Teaching with Statistics Education Research",
     "section": "Conferences",
     "text": "Conferences\n\nUnited States Conference on Teaching Statistics [July 17–19, 2025 in Ames, Iowa]\nInternational Conference on Teaching Statistics [July 12–17, 2026 in Brisbane, Australia]"
-  },
-  {
-    "objectID": "sessions/mctm-2026-simulation.html#link-to-activity",
-    "href": "sessions/mctm-2026-simulation.html#link-to-activity",
-    "title": "It’s Raining Stats: Activities for Simulation and Inference",
-    "section": "Link to Activity",
-    "text": "Link to Activity\n\nRainfall Activity\nRainfall Activity (Annotated)"
   }
 ]
